@@ -1,0 +1,372 @@
+student_id,certificate_name,date_earned,type
+1,Google Cloud Certified - Professional Cloud Developer,2023-10-16,pathway-specific
+1,Cisco CCNA,2023-06-17,pathway-specific
+1,Microsoft Certified: Azure Administrator Associate,2023-02-03,pathway-specific
+1,Oracle Certified Java Programmer,2023-11-14,pathway-specific
+1,Project Management Professional (PMP),2023-05-03,general
+1,ITIL Foundation,2023-09-04,general
+2,IBM Watson AI,2023-03-27,pathway-specific
+2,Google Cloud Certified - Machine Learning Engineer,2023-04-14,pathway-specific
+3,Cloudera Certified Data Analyst,2023-05-08,pathway-specific
+3,IBM Data Science Professional Certificate,2023-08-02,pathway-specific
+3,Microsoft Certified: Azure Data Scientist Associate,2023-08-31,pathway-specific
+3,Project Management Professional (PMP),2023-09-30,general
+5,Google Data Analytics,2023-02-16,pathway-specific
+5,IBM Data Science Professional Certificate,2023-08-09,pathway-specific
+5,Microsoft Certified: Azure Data Scientist Associate,2023-07-06,pathway-specific
+5,Cloudera Certified Data Analyst,2023-02-19,pathway-specific
+5,SAS Certified Data Scientist,2023-07-16,pathway-specific
+5,Six Sigma Green Belt,2023-09-15,general
+5,TOGAF 9 Certified,2023-03-06,general
+6,AWS Certified Cloud Practitioner,2023-08-01,pathway-specific
+6,Microsoft Certified: Azure Administrator Associate,2023-02-22,pathway-specific
+6,Oracle Certified Java Programmer,2023-04-22,pathway-specific
+6,Cisco CCNA,2023-06-08,pathway-specific
+8,CompTIA Security+,2023-01-14,pathway-specific
+8,Certified Ethical Hacker (CEH),2023-05-02,pathway-specific
+8,TOGAF 9 Certified,2023-12-20,general
+9,R for Data Science Certification,2023-02-28,pathway-specific
+9,MATLAB Certified Associate,2023-08-17,pathway-specific
+9,Python for Scientific Computing Certification,2023-04-01,pathway-specific
+9,ITIL Foundation,2023-10-15,general
+10,Certified Ethical Hacker (CEH),2023-05-07,pathway-specific
+10,GIAC Security Essentials (GSEC),2023-08-09,pathway-specific
+10,CompTIA Security+,2023-07-19,pathway-specific
+10,Offensive Security Certified Professional (OSCP),2023-05-06,pathway-specific
+11,Certified Information Systems Security Professional (CISSP),2023-04-14,pathway-specific
+11,Certified Ethical Hacker (CEH),2023-01-12,pathway-specific
+11,GIAC Security Essentials (GSEC),2023-06-09,pathway-specific
+11,Project Management Professional (PMP),2023-05-26,general
+11,Scrum Master Certification,2023-08-21,general
+11,Six Sigma Green Belt,2023-08-22,general
+11,ITIL Foundation,2023-08-02,general
+12,R for Data Science Certification,2023-04-05,pathway-specific
+13,Python for Scientific Computing Certification,2023-02-16,pathway-specific
+13,MATLAB Certified Associate,2023-07-25,pathway-specific
+13,R for Data Science Certification,2023-03-18,pathway-specific
+14,Google Cloud Certified - Professional Cloud Developer,2023-03-31,pathway-specific
+14,Cisco CCNA,2023-12-11,pathway-specific
+14,Six Sigma Green Belt,2023-02-19,general
+15,Offensive Security Certified Professional (OSCP),2023-04-21,pathway-specific
+15,GIAC Security Essentials (GSEC),2023-05-09,pathway-specific
+15,CompTIA Security+,2023-09-10,pathway-specific
+15,Certified Ethical Hacker (CEH),2023-06-15,pathway-specific
+15,Certified Information Systems Security Professional (CISSP),2023-10-24,pathway-specific
+16,CompTIA Security+,2023-04-12,pathway-specific
+16,Certified Information Systems Security Professional (CISSP),2023-03-10,pathway-specific
+17,Google Cloud Certified - Professional Cloud Developer,2023-12-05,pathway-specific
+17,Cisco CCNA,2023-06-19,pathway-specific
+17,Oracle Certified Java Programmer,2023-11-14,pathway-specific
+17,Microsoft Certified: Azure Administrator Associate,2023-07-05,pathway-specific
+18,edX MicroMasters in Artificial Intelligence,2023-01-29,pathway-specific
+18,Microsoft Certified: Azure AI Engineer Associate,2023-06-02,pathway-specific
+18,Coursera IBM AI Engineering,2023-03-14,pathway-specific
+19,IBM Watson AI,2023-05-16,pathway-specific
+20,Coursera IBM AI Engineering,2023-05-06,pathway-specific
+20,Google Cloud Certified - Machine Learning Engineer,2023-12-11,pathway-specific
+20,Six Sigma Green Belt,2023-04-26,general
+20,ITIL Foundation,2023-06-22,general
+21,Oracle Certified Java Programmer,2023-05-29,pathway-specific
+21,Cisco CCNA,2023-11-02,pathway-specific
+21,AWS Certified Cloud Practitioner,2023-07-28,pathway-specific
+21,Microsoft Certified: Azure Administrator Associate,2023-04-21,pathway-specific
+22,Certified Ethical Hacker (CEH),2023-08-10,pathway-specific
+22,GIAC Security Essentials (GSEC),2023-03-31,pathway-specific
+22,Certified Information Systems Security Professional (CISSP),2023-04-16,pathway-specific
+23,AWS Certified Cloud Practitioner,2023-04-13,pathway-specific
+23,Cisco CCNA,2023-02-15,pathway-specific
+23,ITIL Foundation,2023-08-28,general
+23,Project Management Professional (PMP),2023-09-15,general
+23,Six Sigma Green Belt,2023-07-15,general
+24,Oracle Certified Java Programmer,2023-06-20,pathway-specific
+24,Microsoft Certified: Azure Administrator Associate,2023-05-27,pathway-specific
+25,Coursera IBM AI Engineering,2023-07-08,pathway-specific
+25,edX MicroMasters in Artificial Intelligence,2023-05-19,pathway-specific
+25,IBM Watson AI,2023-03-02,pathway-specific
+25,Google Cloud Certified - Machine Learning Engineer,2023-10-21,pathway-specific
+26,IBM Data Science Professional Certificate,2023-08-25,pathway-specific
+26,SAS Certified Data Scientist,2023-07-28,pathway-specific
+26,Cloudera Certified Data Analyst,2023-10-05,pathway-specific
+26,Google Data Analytics,2023-07-25,pathway-specific
+26,TOGAF 9 Certified,2023-12-02,general
+27,CompTIA Security+,2023-10-09,pathway-specific
+28,Microsoft Certified: Azure AI Engineer Associate,2023-10-14,pathway-specific
+28,edX MicroMasters in Artificial Intelligence,2023-07-30,pathway-specific
+28,Google Cloud Certified - Machine Learning Engineer,2023-06-28,pathway-specific
+28,Six Sigma Green Belt,2023-09-28,general
+29,SAS Certified Data Scientist,2023-08-31,pathway-specific
+29,Microsoft Certified: Azure Data Scientist Associate,2023-05-25,pathway-specific
+29,TOGAF 9 Certified,2023-10-20,general
+30,Google Data Analytics,2023-08-31,pathway-specific
+30,Microsoft Certified: Azure Data Scientist Associate,2023-07-20,pathway-specific
+30,Scrum Master Certification,2023-02-24,general
+30,Project Management Professional (PMP),2023-11-04,general
+31,R for Data Science Certification,2023-02-18,pathway-specific
+31,Python for Scientific Computing Certification,2023-04-06,pathway-specific
+31,MATLAB Certified Associate,2023-02-28,pathway-specific
+32,Certified Information Systems Security Professional (CISSP),2023-08-26,pathway-specific
+32,GIAC Security Essentials (GSEC),2023-06-22,pathway-specific
+32,Certified Ethical Hacker (CEH),2023-10-28,pathway-specific
+33,Google Data Analytics,2023-06-28,pathway-specific
+33,IBM Data Science Professional Certificate,2023-05-05,pathway-specific
+33,SAS Certified Data Scientist,2023-11-09,pathway-specific
+34,edX MicroMasters in Artificial Intelligence,2023-04-21,pathway-specific
+35,Python for Scientific Computing Certification,2023-07-03,pathway-specific
+35,TOGAF 9 Certified,2023-07-04,general
+35,Project Management Professional (PMP),2023-03-24,general
+36,GIAC Security Essentials (GSEC),2023-10-10,pathway-specific
+36,ITIL Foundation,2023-05-17,general
+37,Oracle Certified Java Programmer,2023-11-25,pathway-specific
+37,Google Cloud Certified - Professional Cloud Developer,2023-07-19,pathway-specific
+37,Cisco CCNA,2023-07-18,pathway-specific
+37,AWS Certified Cloud Practitioner,2023-07-15,pathway-specific
+38,Microsoft Certified: Azure AI Engineer Associate,2023-07-23,pathway-specific
+38,edX MicroMasters in Artificial Intelligence,2023-08-31,pathway-specific
+38,Coursera IBM AI Engineering,2023-11-28,pathway-specific
+39,IBM Data Science Professional Certificate,2023-04-25,pathway-specific
+39,Cloudera Certified Data Analyst,2023-12-09,pathway-specific
+40,IBM Data Science Professional Certificate,2023-09-25,pathway-specific
+40,SAS Certified Data Scientist,2023-11-23,pathway-specific
+40,Google Data Analytics,2023-01-01,pathway-specific
+41,edX MicroMasters in Artificial Intelligence,2023-04-25,pathway-specific
+42,Microsoft Certified: Azure Data Scientist Associate,2023-04-09,pathway-specific
+42,Cloudera Certified Data Analyst,2023-05-31,pathway-specific
+42,SAS Certified Data Scientist,2023-06-24,pathway-specific
+43,R for Data Science Certification,2023-03-10,pathway-specific
+43,MATLAB Certified Associate,2023-03-08,pathway-specific
+43,TOGAF 9 Certified,2023-12-08,general
+44,Certified Ethical Hacker (CEH),2023-03-14,pathway-specific
+44,Offensive Security Certified Professional (OSCP),2023-02-17,pathway-specific
+44,GIAC Security Essentials (GSEC),2023-01-18,pathway-specific
+44,Certified Information Systems Security Professional (CISSP),2023-09-24,pathway-specific
+44,CompTIA Security+,2023-12-06,pathway-specific
+44,ITIL Foundation,2023-08-14,general
+44,TOGAF 9 Certified,2023-06-06,general
+45,MATLAB Certified Associate,2023-12-13,pathway-specific
+45,Python for Scientific Computing Certification,2023-03-26,pathway-specific
+45,R for Data Science Certification,2023-12-30,pathway-specific
+46,IBM Data Science Professional Certificate,2023-08-06,pathway-specific
+46,SAS Certified Data Scientist,2023-07-26,pathway-specific
+46,Microsoft Certified: Azure Data Scientist Associate,2023-03-19,pathway-specific
+47,Oracle Certified Java Programmer,2023-10-15,pathway-specific
+47,Google Cloud Certified - Professional Cloud Developer,2023-10-26,pathway-specific
+47,Microsoft Certified: Azure Administrator Associate,2023-12-05,pathway-specific
+47,AWS Certified Cloud Practitioner,2023-09-05,pathway-specific
+47,Cisco CCNA,2023-07-12,pathway-specific
+48,Certified Ethical Hacker (CEH),2023-04-22,pathway-specific
+48,Offensive Security Certified Professional (OSCP),2023-05-08,pathway-specific
+48,Scrum Master Certification,2023-08-11,general
+49,Offensive Security Certified Professional (OSCP),2023-06-17,pathway-specific
+49,Certified Information Systems Security Professional (CISSP),2023-09-20,pathway-specific
+49,GIAC Security Essentials (GSEC),2023-05-13,pathway-specific
+49,Certified Ethical Hacker (CEH),2023-10-25,pathway-specific
+49,CompTIA Security+,2023-12-10,pathway-specific
+49,Project Management Professional (PMP),2023-02-01,general
+49,TOGAF 9 Certified,2023-02-17,general
+49,Six Sigma Green Belt,2023-11-23,general
+50,ITIL Foundation,2023-04-22,general
+51,edX MicroMasters in Artificial Intelligence,2023-05-02,pathway-specific
+51,Microsoft Certified: Azure AI Engineer Associate,2023-11-27,pathway-specific
+52,Scrum Master Certification,2023-03-21,general
+52,ITIL Foundation,2023-02-20,general
+53,CompTIA Security+,2023-05-15,pathway-specific
+53,Six Sigma Green Belt,2023-12-30,general
+53,TOGAF 9 Certified,2023-08-08,general
+54,Oracle Certified Java Programmer,2023-07-25,pathway-specific
+54,Microsoft Certified: Azure Administrator Associate,2023-10-13,pathway-specific
+55,edX MicroMasters in Artificial Intelligence,2023-09-26,pathway-specific
+55,Coursera IBM AI Engineering,2023-06-19,pathway-specific
+56,IBM Watson AI,2023-09-25,pathway-specific
+56,Google Cloud Certified - Machine Learning Engineer,2023-03-26,pathway-specific
+56,Coursera IBM AI Engineering,2023-03-07,pathway-specific
+56,edX MicroMasters in Artificial Intelligence,2023-05-13,pathway-specific
+56,Microsoft Certified: Azure AI Engineer Associate,2023-03-23,pathway-specific
+56,Project Management Professional (PMP),2023-08-01,general
+56,TOGAF 9 Certified,2023-05-13,general
+56,ITIL Foundation,2023-06-06,general
+57,CompTIA Security+,2023-10-28,pathway-specific
+57,GIAC Security Essentials (GSEC),2023-11-02,pathway-specific
+57,Certified Information Systems Security Professional (CISSP),2023-01-02,pathway-specific
+57,Certified Ethical Hacker (CEH),2023-09-28,pathway-specific
+57,Offensive Security Certified Professional (OSCP),2023-05-23,pathway-specific
+57,Six Sigma Green Belt,2023-02-06,general
+57,Project Management Professional (PMP),2023-04-17,general
+58,R for Data Science Certification,2023-07-07,pathway-specific
+58,Python for Scientific Computing Certification,2023-08-28,pathway-specific
+58,MATLAB Certified Associate,2023-12-24,pathway-specific
+59,Google Data Analytics,2023-10-31,pathway-specific
+59,Cloudera Certified Data Analyst,2023-04-22,pathway-specific
+59,Scrum Master Certification,2023-10-08,general
+60,IBM Watson AI,2023-06-26,pathway-specific
+60,edX MicroMasters in Artificial Intelligence,2023-01-11,pathway-specific
+60,Coursera IBM AI Engineering,2023-02-10,pathway-specific
+61,Microsoft Certified: Azure AI Engineer Associate,2023-04-28,pathway-specific
+61,IBM Watson AI,2023-06-14,pathway-specific
+61,Google Cloud Certified - Machine Learning Engineer,2023-09-09,pathway-specific
+61,TOGAF 9 Certified,2023-03-08,general
+62,MATLAB Certified Associate,2023-04-07,pathway-specific
+62,Python for Scientific Computing Certification,2023-11-27,pathway-specific
+62,R for Data Science Certification,2023-07-24,pathway-specific
+62,TOGAF 9 Certified,2023-10-30,general
+63,MATLAB Certified Associate,2023-07-27,pathway-specific
+63,R for Data Science Certification,2023-04-11,pathway-specific
+63,Six Sigma Green Belt,2023-04-19,general
+63,Scrum Master Certification,2023-09-22,general
+64,AWS Certified Cloud Practitioner,2023-08-22,pathway-specific
+64,Cisco CCNA,2023-12-17,pathway-specific
+64,Google Cloud Certified - Professional Cloud Developer,2023-04-21,pathway-specific
+64,TOGAF 9 Certified,2023-12-26,general
+65,Microsoft Certified: Azure Administrator Associate,2023-10-01,pathway-specific
+65,Cisco CCNA,2023-11-29,pathway-specific
+65,AWS Certified Cloud Practitioner,2023-05-19,pathway-specific
+65,Google Cloud Certified - Professional Cloud Developer,2023-04-13,pathway-specific
+65,Oracle Certified Java Programmer,2023-08-30,pathway-specific
+65,ITIL Foundation,2023-04-24,general
+65,Six Sigma Green Belt,2023-05-12,general
+66,Microsoft Certified: Azure Data Scientist Associate,2023-06-07,pathway-specific
+66,IBM Data Science Professional Certificate,2023-12-26,pathway-specific
+66,Cloudera Certified Data Analyst,2023-04-09,pathway-specific
+66,Google Data Analytics,2023-08-13,pathway-specific
+66,SAS Certified Data Scientist,2023-12-06,pathway-specific
+66,Six Sigma Green Belt,2023-09-13,general
+67,Microsoft Certified: Azure Data Scientist Associate,2023-05-20,pathway-specific
+67,SAS Certified Data Scientist,2023-11-24,pathway-specific
+67,Google Data Analytics,2023-07-09,pathway-specific
+67,IBM Data Science Professional Certificate,2023-05-05,pathway-specific
+67,Cloudera Certified Data Analyst,2023-06-12,pathway-specific
+68,Certified Ethical Hacker (CEH),2023-10-15,pathway-specific
+68,Offensive Security Certified Professional (OSCP),2023-10-21,pathway-specific
+68,GIAC Security Essentials (GSEC),2023-12-14,pathway-specific
+68,Certified Information Systems Security Professional (CISSP),2023-07-26,pathway-specific
+69,Oracle Certified Java Programmer,2023-05-22,pathway-specific
+69,Microsoft Certified: Azure Administrator Associate,2023-05-25,pathway-specific
+69,AWS Certified Cloud Practitioner,2023-10-07,pathway-specific
+70,Microsoft Certified: Azure AI Engineer Associate,2023-09-29,pathway-specific
+70,Google Cloud Certified - Machine Learning Engineer,2023-07-20,pathway-specific
+70,IBM Watson AI,2023-05-30,pathway-specific
+70,Coursera IBM AI Engineering,2023-10-23,pathway-specific
+70,edX MicroMasters in Artificial Intelligence,2023-10-20,pathway-specific
+71,Six Sigma Green Belt,2023-08-15,general
+72,edX MicroMasters in Artificial Intelligence,2023-12-02,pathway-specific
+72,Google Cloud Certified - Machine Learning Engineer,2023-12-22,pathway-specific
+72,TOGAF 9 Certified,2023-08-27,general
+73,R for Data Science Certification,2023-07-13,pathway-specific
+73,Project Management Professional (PMP),2023-09-14,general
+74,Oracle Certified Java Programmer,2023-06-28,pathway-specific
+74,Cisco CCNA,2023-10-02,pathway-specific
+74,AWS Certified Cloud Practitioner,2023-03-03,pathway-specific
+74,Scrum Master Certification,2023-11-02,general
+74,Project Management Professional (PMP),2023-02-15,general
+75,R for Data Science Certification,2023-04-12,pathway-specific
+75,MATLAB Certified Associate,2023-04-04,pathway-specific
+75,Six Sigma Green Belt,2023-07-14,general
+75,TOGAF 9 Certified,2023-03-03,general
+76,Cloudera Certified Data Analyst,2023-07-10,pathway-specific
+76,Google Data Analytics,2023-01-29,pathway-specific
+76,IBM Data Science Professional Certificate,2023-02-17,pathway-specific
+76,Microsoft Certified: Azure Data Scientist Associate,2023-09-07,pathway-specific
+76,SAS Certified Data Scientist,2023-08-14,pathway-specific
+77,SAS Certified Data Scientist,2023-10-22,pathway-specific
+77,Cloudera Certified Data Analyst,2023-05-15,pathway-specific
+77,Microsoft Certified: Azure Data Scientist Associate,2023-04-20,pathway-specific
+77,Google Data Analytics,2023-03-10,pathway-specific
+77,IBM Data Science Professional Certificate,2023-05-16,pathway-specific
+77,Six Sigma Green Belt,2023-09-29,general
+78,Offensive Security Certified Professional (OSCP),2023-03-05,pathway-specific
+78,CompTIA Security+,2023-10-23,pathway-specific
+78,Scrum Master Certification,2023-11-22,general
+79,Cisco CCNA,2023-05-06,pathway-specific
+79,Microsoft Certified: Azure Administrator Associate,2023-07-01,pathway-specific
+79,Oracle Certified Java Programmer,2023-08-07,pathway-specific
+79,TOGAF 9 Certified,2023-07-13,general
+79,Project Management Professional (PMP),2023-04-20,general
+80,R for Data Science Certification,2023-02-15,pathway-specific
+80,MATLAB Certified Associate,2023-01-28,pathway-specific
+80,Python for Scientific Computing Certification,2023-01-02,pathway-specific
+81,Microsoft Certified: Azure AI Engineer Associate,2023-07-16,pathway-specific
+81,Coursera IBM AI Engineering,2023-02-28,pathway-specific
+81,edX MicroMasters in Artificial Intelligence,2023-09-22,pathway-specific
+81,Google Cloud Certified - Machine Learning Engineer,2023-11-29,pathway-specific
+81,IBM Watson AI,2023-07-07,pathway-specific
+81,Scrum Master Certification,2023-05-15,general
+81,Six Sigma Green Belt,2023-09-29,general
+82,IBM Data Science Professional Certificate,2023-09-20,pathway-specific
+82,SAS Certified Data Scientist,2023-10-20,pathway-specific
+82,Google Data Analytics,2023-03-27,pathway-specific
+82,Cloudera Certified Data Analyst,2023-01-16,pathway-specific
+82,Microsoft Certified: Azure Data Scientist Associate,2023-08-04,pathway-specific
+83,SAS Certified Data Scientist,2023-06-05,pathway-specific
+83,Google Data Analytics,2023-11-20,pathway-specific
+83,Microsoft Certified: Azure Data Scientist Associate,2023-12-14,pathway-specific
+83,Project Management Professional (PMP),2023-03-14,general
+83,ITIL Foundation,2023-03-10,general
+83,Six Sigma Green Belt,2023-06-26,general
+83,TOGAF 9 Certified,2023-12-20,general
+84,Google Cloud Certified - Machine Learning Engineer,2023-01-03,pathway-specific
+84,edX MicroMasters in Artificial Intelligence,2023-07-03,pathway-specific
+84,Coursera IBM AI Engineering,2023-12-01,pathway-specific
+84,Microsoft Certified: Azure AI Engineer Associate,2023-09-30,pathway-specific
+84,IBM Watson AI,2023-02-21,pathway-specific
+85,Python for Scientific Computing Certification,2023-02-17,pathway-specific
+85,MATLAB Certified Associate,2023-08-23,pathway-specific
+85,R for Data Science Certification,2023-05-01,pathway-specific
+85,TOGAF 9 Certified,2023-12-23,general
+85,Six Sigma Green Belt,2023-03-19,general
+86,R for Data Science Certification,2023-02-22,pathway-specific
+86,Python for Scientific Computing Certification,2023-12-15,pathway-specific
+86,MATLAB Certified Associate,2023-01-10,pathway-specific
+86,TOGAF 9 Certified,2023-01-19,general
+87,AWS Certified Cloud Practitioner,2023-01-28,pathway-specific
+87,Project Management Professional (PMP),2023-04-30,general
+87,Scrum Master Certification,2023-04-07,general
+88,Oracle Certified Java Programmer,2023-11-23,pathway-specific
+88,Microsoft Certified: Azure Administrator Associate,2023-06-09,pathway-specific
+88,Google Cloud Certified - Professional Cloud Developer,2023-03-17,pathway-specific
+88,ITIL Foundation,2023-12-05,general
+88,Scrum Master Certification,2023-07-21,general
+88,Project Management Professional (PMP),2023-01-18,general
+89,Certified Ethical Hacker (CEH),2023-06-17,pathway-specific
+89,GIAC Security Essentials (GSEC),2023-07-11,pathway-specific
+89,Certified Information Systems Security Professional (CISSP),2023-02-03,pathway-specific
+90,IBM Data Science Professional Certificate,2023-04-24,pathway-specific
+90,Google Data Analytics,2023-10-12,pathway-specific
+90,Cloudera Certified Data Analyst,2023-05-23,pathway-specific
+91,Oracle Certified Java Programmer,2023-11-20,pathway-specific
+91,Cisco CCNA,2023-10-04,pathway-specific
+91,Microsoft Certified: Azure Administrator Associate,2023-07-21,pathway-specific
+91,AWS Certified Cloud Practitioner,2023-08-02,pathway-specific
+92,R for Data Science Certification,2023-07-14,pathway-specific
+92,MATLAB Certified Associate,2023-06-07,pathway-specific
+92,Python for Scientific Computing Certification,2023-05-26,pathway-specific
+92,Scrum Master Certification,2023-09-28,general
+92,Project Management Professional (PMP),2023-03-05,general
+93,IBM Watson AI,2023-07-16,pathway-specific
+93,ITIL Foundation,2023-03-09,general
+94,Python for Scientific Computing Certification,2023-06-18,pathway-specific
+94,MATLAB Certified Associate,2023-07-16,pathway-specific
+94,R for Data Science Certification,2023-09-19,pathway-specific
+94,Six Sigma Green Belt,2023-07-12,general
+95,Cloudera Certified Data Analyst,2023-03-27,pathway-specific
+95,IBM Data Science Professional Certificate,2023-01-21,pathway-specific
+95,Microsoft Certified: Azure Data Scientist Associate,2023-07-01,pathway-specific
+95,SAS Certified Data Scientist,2023-11-15,pathway-specific
+95,Google Data Analytics,2023-06-07,pathway-specific
+95,Scrum Master Certification,2023-06-01,general
+96,R for Data Science Certification,2023-08-07,pathway-specific
+96,MATLAB Certified Associate,2023-04-12,pathway-specific
+96,Python for Scientific Computing Certification,2023-10-18,pathway-specific
+97,Certified Information Systems Security Professional (CISSP),2023-12-22,pathway-specific
+97,Certified Ethical Hacker (CEH),2023-11-14,pathway-specific
+98,Microsoft Certified: Azure Data Scientist Associate,2023-02-02,pathway-specific
+98,SAS Certified Data Scientist,2023-04-25,pathway-specific
+99,edX MicroMasters in Artificial Intelligence,2023-04-08,pathway-specific
+99,Coursera IBM AI Engineering,2023-05-26,pathway-specific
+99,Microsoft Certified: Azure AI Engineer Associate,2023-09-19,pathway-specific
+99,IBM Watson AI,2023-02-09,pathway-specific
+99,Google Cloud Certified - Machine Learning Engineer,2023-07-12,pathway-specific
+100,GIAC Security Essentials (GSEC),2023-05-03,pathway-specific
+100,CompTIA Security+,2023-04-12,pathway-specific
+100,Certified Information Systems Security Professional (CISSP),2023-09-21,pathway-specific
+100,Certified Ethical Hacker (CEH),2023-06-10,pathway-specific
+100,Offensive Security Certified Professional (OSCP),2023-08-21,pathway-specific
+100,TOGAF 9 Certified,2023-11-13,general

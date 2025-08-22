@@ -1,0 +1,50 @@
+student_id,employer,role_title,start_date,end_date,performance_rating
+2,hSenid,Machine Learning Intern,2024-08-21,2025-02-17,3.82
+5,Virtuosoft,Data Analyst Intern,2024-04-16,2024-10-13,3.82
+6,Calcey Technologies,Software Intern,2024-07-02,2024-12-29,4.25
+8,Codegen,Network Security Intern,2024-05-25,2024-11-21,4.97
+9,Insfra,Research Intern,2024-03-04,2024-08-31,3.06
+13,Johnkeellsit,Computational Science Intern,2024-01-04,2024-07-02,3.78
+24,Microimage,Web Development Intern,2024-01-17,2024-07-15,4.03
+25,Xiteb,Machine Learning Intern,2024-07-25,2025-01-21,3.79
+26,Arimac,Data Science Intern,2024-08-28,2025-02-24,4.01
+30,WSO2,Data Science Intern,2024-12-24,2025-06-22,4.41
+31,Epictechnology,Computational Science Intern,2024-11-03,2025-05-02,3.82
+32,Builtapps,Security Intern,2024-11-28,2025-05-27,3.96
+35,Arimac,Computational Science Intern,2024-08-02,2025-01-29,3.18
+37,Microimage,Software Intern,2024-01-15,2024-07-13,3.1
+38,Virtuosoft,AI Intern,2024-01-26,2024-07-24,3.24
+40,Dialog Axiata,Data Analyst Intern,2024-11-22,2025-05-21,4.42
+42,Builtapps,Data Analyst Intern,2024-02-05,2024-08-03,4.27
+43,Epictechnology,Research Intern,2024-05-21,2024-11-17,4.46
+44,Epictechnology,Network Security Intern,2024-06-09,2024-12-06,3.24
+46,Dialog Axiata,Data Analyst Intern,2024-10-06,2025-04-04,3.73
+53,Virtuosoft,Security Intern,2024-08-23,2025-02-19,4.94
+56,Builtapps,AI Intern,2024-09-14,2025-03-13,4.9
+57,Epictechnology,Security Intern,2024-02-07,2024-08-05,4.79
+58,MillenniumIT,Computational Science Intern,2024-12-13,2025-06-11,5.0
+60,99x,AI Intern,2024-01-24,2024-07-22,3.26
+61,Codegen,AI Intern,2024-02-24,2024-08-22,3.55
+62,Builtapps,Research Intern,2024-10-19,2025-04-17,4.97
+65,WSO2,Software Intern,2024-05-01,2024-10-28,4.03
+67,Virtuosoft,Data Analyst Intern,2024-10-23,2025-04-21,4.46
+68,hSenid,Security Intern,2024-03-31,2024-09-27,3.89
+69,Calcey Technologies,Software Intern,2024-07-09,2025-01-05,4.68
+71,Sysco LABS,Software Intern,2024-04-04,2024-10-01,4.31
+73,Codegen,Computational Science Intern,2024-01-02,2024-06-30,4.12
+76,Builtapps,Data Science Intern,2024-12-08,2025-06-06,4.82
+78,Insfra,Network Security Intern,2024-05-18,2024-11-14,3.19
+80,Arimac,Research Intern,2024-01-02,2024-06-30,4.39
+82,Johnkeellsit,Data Science Intern,2024-08-28,2025-02-24,4.27
+83,Sysco LABS,Data Science Intern,2024-01-31,2024-07-29,3.54
+84,Calcey Technologies,Machine Learning Intern,2024-10-05,2025-04-03,4.68
+86,Builtapps,Research Intern,2024-06-10,2024-12-07,4.65
+87,Sysco LABS,Software Intern,2024-11-21,2025-05-20,3.12
+88,Builtapps,Web Development Intern,2024-09-05,2025-03-04,3.22
+89,Johnkeellsit,Security Intern,2024-03-22,2024-09-18,3.54
+91,99x,Software Intern,2024-07-10,2025-01-06,4.88
+94,Virtusa,Research Intern,2024-08-16,2025-02-12,4.42
+95,Sysco LABS,Data Science Intern,2024-09-05,2025-03-04,3.23
+96,Codegen,Computational Science Intern,2024-11-28,2025-05-27,4.55
+99,Sysco LABS,AI Intern,2024-03-26,2024-09-22,4.1
+100,IFS,Network Security Intern,2024-06-23,2024-12-20,3.34

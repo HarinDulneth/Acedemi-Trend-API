@@ -1,0 +1,101 @@
+student_id,gender,district,province,age_at_enrollment,z_score_AL,intake_year,years_since_intake,is_graduated,current_year_of_study,pathway
+1,Male,Gampaha,Western,20,1.56,2020,5,True,,Standard
+2,Male,Matale,Central,19,1.46,2020,5,True,,Artificial Intelligence
+3,Male,Anuradhapura,North Central,19,1.5,2024,1,False,2.0,Data Science
+4,Male,Kalutara,Western,21,1.55,2024,1,False,2.0,Scientific Computing
+5,Female,Colombo,Western,20,1.53,2022,3,False,4.0,Data Science
+6,Male,Colombo,Western,19,1.47,2020,5,True,,Standard
+7,Male,Colombo,Western,19,1.64,2023,2,False,3.0,Cyber Security
+8,Female,Nuwara Eliya,Central,20,1.65,2021,4,True,,Cyber Security
+9,Male,Kalutara,Western,19,1.54,2021,4,True,,Scientific Computing
+10,Male,Galle,Southern,19,1.47,2024,1,False,2.0,Cyber Security
+11,Male,Colombo,Western,20,1.47,2022,3,False,4.0,Cyber Security
+12,Male,Monaragala,Uva,20,1.49,2021,4,True,,Scientific Computing
+13,Female,Puttalam,North Western,20,1.56,2020,5,True,,Scientific Computing
+14,Female,Gampaha,Western,19,1.49,2024,1,False,2.0,Standard
+15,Male,Colombo,Western,20,1.48,2023,2,False,3.0,Cyber Security
+16,Female,Colombo,Western,19,1.57,2024,1,False,2.0,Cyber Security
+17,Female,Gampaha,Western,19,1.52,2023,2,False,3.0,Standard
+18,Male,Kalutara,Western,20,1.56,2024,1,False,2.0,Artificial Intelligence
+19,Female,Kurunegala,North Western,20,1.58,2024,1,False,2.0,Artificial Intelligence
+20,Male,Gampaha,Western,21,1.51,2024,1,False,2.0,Artificial Intelligence
+21,Female,Kalutara,Western,20,1.53,2023,2,False,3.0,Standard
+22,Female,Colombo,Western,20,1.51,2023,2,False,3.0,Cyber Security
+23,Male,Gampaha,Western,19,1.55,2024,1,False,2.0,Standard
+24,Male,Gampaha,Western,19,1.53,2021,4,True,,Standard
+25,Male,Kurunegala,North Western,19,1.55,2022,3,False,4.0,Artificial Intelligence
+26,Male,Badulla,Uva,19,1.63,2022,3,False,4.0,Data Science
+27,Female,Gampaha,Western,22,1.59,2022,3,False,4.0,Cyber Security
+28,Female,Kandy,Central,19,1.48,2023,2,False,3.0,Artificial Intelligence
+29,Male,Kalutara,Western,21,1.52,2023,2,False,3.0,Data Science
+30,Male,Colombo,Western,20,1.5,2021,4,True,,Data Science
+31,Male,Kalutara,Western,20,1.52,2022,3,False,4.0,Scientific Computing
+32,Male,Colombo,Western,20,1.6,2022,3,False,4.0,Cyber Security
+33,Male,Colombo,Western,20,1.48,2024,1,False,2.0,Data Science
+34,Male,Matale,Central,20,1.51,2023,2,False,3.0,Artificial Intelligence
+35,Female,Matale,Central,19,1.53,2022,3,False,4.0,Scientific Computing
+36,Male,Matara,Southern,20,1.52,2021,4,True,,Cyber Security
+37,Male,Gampaha,Western,19,1.5,2021,4,True,,Standard
+38,Female,Colombo,Western,19,1.56,2022,3,False,4.0,Artificial Intelligence
+39,Male,Galle,Southern,20,1.54,2023,2,False,3.0,Data Science
+40,Female,Kurunegala,North Western,19,1.52,2021,4,True,,Data Science
+41,Female,Colombo,Western,21,1.48,2024,1,False,2.0,Artificial Intelligence
+42,Male,Kandy,Central,22,1.55,2021,4,True,,Data Science
+43,Male,Colombo,Western,21,1.5,2020,5,True,,Scientific Computing
+44,Male,Hambantota,Southern,19,1.71,2020,5,True,,Cyber Security
+45,Male,Gampaha,Western,19,1.62,2023,2,False,3.0,Scientific Computing
+46,Male,Ratnapura,Sabaragamuwa,21,1.61,2022,3,False,4.0,Data Science
+47,Male,Gampaha,Western,20,1.56,2023,2,False,3.0,Standard
+48,Male,Kandy,Central,22,1.63,2023,2,False,3.0,Cyber Security
+49,Male,Kalutara,Western,22,1.62,2023,2,False,3.0,Cyber Security
+50,Male,Colombo,Western,21,1.55,2023,2,False,3.0,Artificial Intelligence
+51,Female,Monaragala,Uva,19,1.57,2024,1,False,2.0,Artificial Intelligence
+52,Male,Badulla,Uva,19,1.63,2024,1,False,2.0,Standard
+53,Male,Batticaloa,Eastern,21,1.57,2021,4,True,,Cyber Security
+54,Male,Ampara,Eastern,19,1.51,2020,5,True,,Standard
+55,Female,Kalutara,Western,19,1.63,2023,2,False,3.0,Artificial Intelligence
+56,Male,Hambantota,Southern,20,1.59,2021,4,True,,Artificial Intelligence
+57,Female,Colombo,Western,21,1.47,2020,5,True,,Cyber Security
+58,Female,Colombo,Western,20,1.54,2022,3,False,4.0,Scientific Computing
+59,Male,Colombo,Western,20,1.5,2024,1,False,2.0,Data Science
+60,Female,Gampaha,Western,19,1.61,2020,5,True,,Artificial Intelligence
+61,Male,Gampaha,Western,20,1.53,2022,3,False,4.0,Artificial Intelligence
+62,Male,Gampaha,Western,22,1.49,2020,5,True,,Scientific Computing
+63,Male,Puttalam,North Western,19,1.62,2024,1,False,2.0,Scientific Computing
+64,Male,Gampaha,Western,20,1.5,2024,1,False,2.0,Standard
+65,Male,Gampaha,Western,21,1.47,2021,4,True,,Standard
+66,Female,Kalutara,Western,20,1.56,2023,2,False,3.0,Data Science
+67,Male,Colombo,Western,20,1.55,2020,5,True,,Data Science
+68,Male,Matara,Southern,20,1.54,2020,5,True,,Cyber Security
+69,Male,Colombo,Western,19,1.54,2022,3,False,4.0,Standard
+70,Male,Trincomalee,Eastern,19,1.61,2024,1,False,2.0,Artificial Intelligence
+71,Female,Kegalle,Sabaragamuwa,21,1.56,2020,5,True,,Standard
+72,Male,Colombo,Western,21,1.5,2024,1,False,2.0,Artificial Intelligence
+73,Male,Colombo,Western,21,1.48,2020,5,True,,Scientific Computing
+74,Male,Matara,Southern,21,1.47,2021,4,True,,Standard
+75,Male,Galle,Southern,20,1.59,2023,2,False,3.0,Scientific Computing
+76,Male,Anuradhapura,North Central,20,1.51,2020,5,True,,Data Science
+77,Female,Kegalle,Sabaragamuwa,20,1.51,2024,1,False,2.0,Data Science
+78,Male,Colombo,Western,20,1.47,2021,4,True,,Cyber Security
+79,Female,Gampaha,Western,20,1.51,2020,5,True,,Standard
+80,Male,Colombo,Western,20,1.57,2022,3,False,4.0,Scientific Computing
+81,Male,Nuwara Eliya,Central,21,1.55,2023,2,False,3.0,Artificial Intelligence
+82,Male,Kalutara,Western,19,1.5,2020,5,True,,Data Science
+83,Female,Gampaha,Western,19,1.53,2021,4,True,,Data Science
+84,Female,Colombo,Western,19,1.5,2022,3,False,4.0,Artificial Intelligence
+85,Male,Gampaha,Western,20,1.47,2021,4,True,,Scientific Computing
+86,Female,Gampaha,Western,19,1.65,2021,4,True,,Scientific Computing
+87,Female,Anuradhapura,North Central,20,1.5,2022,3,False,4.0,Standard
+88,Male,Ratnapura,Sabaragamuwa,20,1.63,2021,4,True,,Standard
+89,Male,Nuwara Eliya,Central,19,1.53,2022,3,False,4.0,Cyber Security
+90,Male,Kandy,Central,20,1.58,2020,5,True,,Data Science
+91,Male,Colombo,Western,19,1.58,2022,3,False,4.0,Standard
+92,Female,Galle,Southern,19,1.55,2022,3,False,4.0,Scientific Computing
+93,Female,Kegalle,Sabaragamuwa,21,1.57,2023,2,False,3.0,Artificial Intelligence
+94,Male,Kalutara,Western,19,1.58,2022,3,False,4.0,Scientific Computing
+95,Male,Kegalle,Sabaragamuwa,19,1.61,2022,3,False,4.0,Data Science
+96,Male,Kandy,Central,20,1.47,2020,5,True,,Scientific Computing
+97,Female,Kandy,Central,20,1.51,2023,2,False,3.0,Cyber Security
+98,Female,Kurunegala,North Western,19,1.7,2024,1,False,2.0,Data Science
+99,Female,Colombo,Western,20,1.47,2020,5,True,,Artificial Intelligence
+100,Female,Colombo,Western,19,1.52,2020,5,True,,Cyber Security

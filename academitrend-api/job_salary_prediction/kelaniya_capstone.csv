@@ -1,0 +1,101 @@
+student_id,pathway,domain,technologies_used,outcome
+1,Standard,Software Engineering,"Java, Spring, React, SQL",Prototype
+2,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",University Showcase
+3,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Prototype
+4,Scientific Computing,Scientific Computing,"MATLAB, Python",Published Paper
+5,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Industry Collaboration
+6,Standard,Software Engineering,"Java, Spring, React, SQL",Industry Collaboration
+7,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Prototype
+8,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",University Showcase
+9,Scientific Computing,Scientific Computing,"MATLAB, Python",Prototype
+10,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",University Showcase
+11,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Published Paper
+12,Scientific Computing,Scientific Computing,"MATLAB, Python",Industry Collaboration
+13,Scientific Computing,Scientific Computing,"MATLAB, Python",Published Paper
+14,Standard,Software Engineering,"Java, Spring, React, SQL",Industry Collaboration
+15,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Published Paper
+16,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Prototype
+17,Standard,Software Engineering,"Java, Spring, React, SQL",Published Paper
+18,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Published Paper
+19,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Prototype
+20,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Industry Collaboration
+21,Standard,Software Engineering,"Java, Spring, React, SQL",Industry Collaboration
+22,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Prototype
+23,Standard,Software Engineering,"Java, Spring, React, SQL",Published Paper
+24,Standard,Software Engineering,"Java, Spring, React, SQL",Published Paper
+25,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Published Paper
+26,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",University Showcase
+27,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Industry Collaboration
+28,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Published Paper
+29,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Industry Collaboration
+30,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Published Paper
+31,Scientific Computing,Scientific Computing,"MATLAB, Python",Prototype
+32,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Prototype
+33,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Industry Collaboration
+34,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Industry Collaboration
+35,Scientific Computing,Scientific Computing,"MATLAB, Python",Prototype
+36,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",University Showcase
+37,Standard,Software Engineering,"Java, Spring, React, SQL",Prototype
+38,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Published Paper
+39,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",University Showcase
+40,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Prototype
+41,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",University Showcase
+42,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",University Showcase
+43,Scientific Computing,Scientific Computing,"MATLAB, Python",University Showcase
+44,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Industry Collaboration
+45,Scientific Computing,Scientific Computing,"MATLAB, Python",Prototype
+46,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Industry Collaboration
+47,Standard,Software Engineering,"Java, Spring, React, SQL",Industry Collaboration
+48,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Published Paper
+49,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Published Paper
+50,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",University Showcase
+51,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",University Showcase
+52,Standard,Software Engineering,"Java, Spring, React, SQL",Published Paper
+53,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Published Paper
+54,Standard,Software Engineering,"Java, Spring, React, SQL",Prototype
+55,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",University Showcase
+56,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",University Showcase
+57,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Published Paper
+58,Scientific Computing,Scientific Computing,"MATLAB, Python",Prototype
+59,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Published Paper
+60,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Published Paper
+61,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Industry Collaboration
+62,Scientific Computing,Scientific Computing,"MATLAB, Python",University Showcase
+63,Scientific Computing,Scientific Computing,"MATLAB, Python",Prototype
+64,Standard,Software Engineering,"Java, Spring, React, SQL",Industry Collaboration
+65,Standard,Software Engineering,"Java, Spring, React, SQL",University Showcase
+66,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Published Paper
+67,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Prototype
+68,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",University Showcase
+69,Standard,Software Engineering,"Java, Spring, React, SQL",Published Paper
+70,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Industry Collaboration
+71,Standard,Software Engineering,"Java, Spring, React, SQL",Prototype
+72,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",University Showcase
+73,Scientific Computing,Scientific Computing,"MATLAB, Python",Industry Collaboration
+74,Standard,Software Engineering,"Java, Spring, React, SQL",Published Paper
+75,Scientific Computing,Scientific Computing,"MATLAB, Python",Published Paper
+76,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",University Showcase
+77,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Published Paper
+78,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Prototype
+79,Standard,Software Engineering,"Java, Spring, React, SQL",University Showcase
+80,Scientific Computing,Scientific Computing,"MATLAB, Python",Industry Collaboration
+81,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",University Showcase
+82,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",University Showcase
+83,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Industry Collaboration
+84,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Published Paper
+85,Scientific Computing,Scientific Computing,"MATLAB, Python",Industry Collaboration
+86,Scientific Computing,Scientific Computing,"MATLAB, Python",Prototype
+87,Standard,Software Engineering,"Java, Spring, React, SQL",Published Paper
+88,Standard,Software Engineering,"Java, Spring, React, SQL",University Showcase
+89,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Published Paper
+90,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Published Paper
+91,Standard,Software Engineering,"Java, Spring, React, SQL",Prototype
+92,Scientific Computing,Scientific Computing,"MATLAB, Python",Published Paper
+93,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Published Paper
+94,Scientific Computing,Scientific Computing,"MATLAB, Python",Published Paper
+95,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",University Showcase
+96,Scientific Computing,Scientific Computing,"MATLAB, Python",Published Paper
+97,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Industry Collaboration
+98,Data Science,Data Mining and Warehousing,"Python, Pandas, Scikit-Learn, R",Published Paper
+99,Artificial Intelligence,Machine Learning,"Python, TensorFlow, PyTorch",Prototype
+100,Cyber Security,Network and Information Security,"Python, Wireshark, Kali Linux",Published Paper

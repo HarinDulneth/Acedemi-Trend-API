@@ -1,0 +1,429 @@
+project_id,student_id,project_title,technologies_used,start_date,end_date,outcome
+1,1,Inventory Control System,"Java, Spring Boot, React, MySQL, Barcode Integration",2023-10-24,2023-12-04,Completed
+2,1,Supply Chain Management,"Java, Microservices, React, Database Integration",2023-08-07,2023-09-22,Completed
+3,1,Document Management System,"Java, Spring Boot, React, File Upload, Version Control",2023-10-10,2023-12-09,Deployed
+4,1,Market Basket Analysis,"Python, Association Rules, Pandas, R, Retail Analytics",2023-06-17,2023-09-04,Completed
+5,2,Handwritten Digit Recognition,"Python, CNN, TensorFlow, Jupyter Notebook",2023-10-20,2024-01-05,Deployed
+6,2,Content Management System,"Java, Spring MVC, Angular, MySQL, User Authentication",2023-01-08,2023-06-21,Completed
+7,2,Password Strength Analyzer,"Python, Cryptography, Hash Functions, Security Algorithms",2023-08-21,2023-11-14,Ongoing
+8,3,Real-time Data Streaming Platform,"Python, Apache Kafka, Pandas, Stream Processing",2023-09-04,2023-12-16,Abandoned
+9,3,Sales Performance Dashboard,"Python, Pandas, Plotly, Dash, Business Intelligence",2023-08-17,2024-01-30,Completed
+10,5,Web Analytics Platform,"Python, Google Analytics API, Pandas, Matplotlib",2023-12-13,2024-05-07,Completed
+11,5,Sales Performance Dashboard,"Python, Pandas, Plotly, Dash, Business Intelligence",2023-06-12,2023-09-21,Abandoned
+12,5,Data Lake Architecture,"Python, Apache Spark, Hadoop, AWS S3, Data Ingestion",2023-02-12,2023-05-05,Ongoing
+13,5,Social Media Analytics Dashboard,"Python, Pandas, Plotly, Twitter API, Sentiment Analysis",2023-11-20,2024-03-01,Ongoing
+14,5,Survival Analysis Tool,"Python, Lifelines, Pandas, R",2023-01-12,2023-06-18,Ongoing
+15,5,ETL Pipeline for E-commerce,"Python, Apache Airflow, Pandas, PostgreSQL, Data Integration",2023-03-11,2023-05-20,Completed
+16,5,Network Forensics Tool,"Python, Wireshark, Network Packet Analysis, Evidence Collection",2023-06-27,2023-10-23,Completed
+17,5,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-08-25,2024-02-14,Deployed
+18,6,Object Detection for Autonomous Vehicles,"Python, YOLO, TensorFlow, Computer Vision",2023-04-06,2023-09-17,Completed
+19,6,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-05-18,2023-07-24,Abandoned
+20,7,Vulnerability Scanner,"Python, Nmap, Kali Linux, Port Scanning, Security Testing",2023-01-13,2023-02-22,Completed
+21,7,Network Forensics Tool,"Python, Wireshark, Network Packet Analysis, Evidence Collection",2023-08-25,2023-10-25,Deployed
+22,7,Intrusion Detection System,"Python, Wireshark, Scapy, Machine Learning, Kali Linux",2023-12-14,2024-05-22,Deployed
+23,7,Security Audit Framework,"Python, OWASP, Security Standards, Compliance",2023-11-20,2024-02-19,Abandoned
+24,8,Automated Penetration Testing Tool,"Python, Metasploit, Nmap, Burp Suite",2023-08-01,2024-01-21,Deployed
+25,8,DDoS Attack Detection,"Python, Wireshark, Network Analysis, Real-time Monitoring",2023-07-13,2023-09-20,Completed
+26,8,Network Intrusion Prevention,"Python, Snort, Machine Learning, Network Security",2023-06-23,2023-08-05,Abandoned
+27,9,Financial Risk Modeling,"MATLAB, Python, Risk Analysis, Financial Mathematics",2023-05-05,2023-10-15,Abandoned
+28,9,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-10-10,2023-11-16,Completed
+29,9,Security Audit Framework,"Python, OWASP, Security Standards, Compliance",2023-11-04,2023-12-24,Abandoned
+30,10,Digital Evidence Analyzer,"Python, File System Analysis, Metadata Extraction, Forensics Tools",2023-02-09,2023-06-23,Completed
+31,10,Firewall Configuration Tool,"Python, iptables, Network Security, Linux",2023-03-19,2023-04-20,Ongoing
+32,10,Password Strength Analyzer,"Python, Cryptography, Hash Functions, Security Algorithms",2023-04-24,2023-07-07,Abandoned
+33,10,Sales Performance Dashboard,"Python, Pandas, Plotly, Dash, Business Intelligence",2023-11-11,2023-12-19,Completed
+34,10,Hospital Management System,"Java, Spring MVC, React, SQL Server, Medical Records",2023-06-01,2023-11-08,Abandoned
+35,11,Network Forensics Tool,"Python, Wireshark, Network Packet Analysis, Evidence Collection",2023-10-13,2023-12-16,Abandoned
+36,11,Firewall Configuration Tool,"Python, iptables, Network Security, Linux",2023-06-19,2023-07-26,Ongoing
+37,11,Network Traffic Analyzer,"Python, Wireshark, Packet Sniffing, TCP/IP, Network Protocols",2023-10-03,2023-11-30,Abandoned
+38,11,Web Analytics Platform,"Python, Google Analytics API, Pandas, Matplotlib",2023-07-23,2023-10-06,Abandoned
+39,12,Structural Engineering Analysis,"MATLAB, Finite Element Method, Numerical Analysis, Python",2023-01-20,2023-07-07,Completed
+40,12,Population Dynamics Model,"MATLAB, Python, Mathematical Modeling, Differential Equations",2023-11-08,2024-02-19,Deployed
+41,12,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-08-20,2023-11-29,Completed
+42,12,Augmented Reality Application,"Python, OpenCV, Unity, ARCore",2023-07-14,2023-09-09,Ongoing
+43,12,Vulnerability Scanner,"Python, Nmap, Kali Linux, Port Scanning, Security Testing",2023-09-11,2023-10-18,Completed
+44,12,Secure File Transfer Protocol,"Python, Cryptography, Sockets, SSL/TLS",2023-05-15,2023-07-18,Abandoned
+45,13,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-03-12,2023-04-16,Deployed
+46,13,Population Dynamics Model,"MATLAB, Python, Mathematical Modeling, Differential Equations",2023-07-18,2023-12-12,Ongoing
+47,13,ERP Module,"Java, Spring Boot, React, Oracle DB, Business Processes",2023-08-24,2023-10-12,Ongoing
+48,14,Content Management System,"Java, Spring MVC, Angular, MySQL, User Authentication",2023-08-03,2023-09-29,Completed
+49,14,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-07-18,2023-11-01,Deployed
+50,14,Structural Engineering Analysis,"MATLAB, Finite Element Method, Numerical Analysis, Python",2023-02-05,2023-05-20,Ongoing
+51,15,Automated Penetration Testing Tool,"Python, Metasploit, Nmap, Burp Suite",2023-08-01,2023-10-03,Deployed
+52,15,Object Detection for Autonomous Vehicles,"Python, YOLO, TensorFlow, Computer Vision",2023-04-25,2023-06-15,Abandoned
+53,16,Firewall Configuration Tool,"Python, iptables, Network Security, Linux",2023-10-23,2023-12-06,Abandoned
+54,16,Mobile Device Forensics Tool,"Python, Android Debug Bridge, iOS Forensics, Data Extraction",2023-11-09,2024-03-24,Ongoing
+55,16,Web Application Security Scanner,"Python, OWASP, SQL Injection Detection, XSS Prevention",2023-05-25,2023-09-20,Completed
+56,16,Penetration Testing Framework,"Python, Metasploit, Kali Linux, Ethical Hacking",2023-01-21,2023-07-06,Abandoned
+57,17,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-09-02,2023-12-02,Abandoned
+58,17,Employee Management System,"Java, Spring Framework, React, Oracle DB, HR Management",2023-07-18,2023-09-11,Ongoing
+59,17,Security Audit Framework,"Python, OWASP, Security Standards, Compliance",2023-06-19,2023-07-27,Completed
+60,17,Real-time Analytics Pipeline,"Python, Apache Kafka, Spark Streaming, Elasticsearch",2023-04-10,2023-06-28,Deployed
+61,18,Medical Image Analysis System,"Python, TensorFlow, OpenCV, Keras, DICOM",2023-07-22,2023-12-18,Ongoing
+62,18,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-12-03,2024-02-12,Abandoned
+63,18,Customer Churn Prediction,"Python, Random Forest, PyTorch, Scikit-learn",2023-06-16,2023-07-17,Deployed
+64,18,Disease Prediction System,"Python, Neural Networks, TensorFlow, Medical Dataset",2023-01-13,2023-04-17,Ongoing
+65,18,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-05-25,2023-10-10,Deployed
+66,19,Automatic Text Summarization,"Python, BERT, Transformers, Streamlit",2023-01-05,2023-02-23,Abandoned
+67,19,Handwritten Digit Recognition,"Python, CNN, TensorFlow, Jupyter Notebook",2023-05-26,2023-11-14,Abandoned
+68,19,Disease Prediction System,"Python, Neural Networks, TensorFlow, Medical Dataset",2023-08-13,2023-09-14,Completed
+69,19,Energy Consumption Forecasting,"Python, Prophet, Pandas, Time Series Analysis",2023-09-09,2024-02-03,Ongoing
+70,19,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-01-24,2023-03-28,Completed
+71,19,Human Resource Management,"Java, Spring Framework, Vue.js, PostgreSQL, Employee Management",2023-08-19,2023-09-30,Completed
+72,19,Fraud Detection System,"Python, Pandas, Scikit-Learn, Matplotlib, Anomaly Detection",2023-09-13,2023-10-13,Completed
+73,20,Stock Price Prediction Model,"Python, LSTM, TensorFlow, Yahoo Finance API, Pandas",2023-03-26,2023-06-01,Abandoned
+74,20,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-11-25,2024-04-06,Ongoing
+75,20,Energy Consumption Forecasting,"Python, Prophet, Pandas, Time Series Analysis",2023-04-23,2023-06-06,Abandoned
+76,20,Automatic Text Summarization,"Python, BERT, Transformers, Streamlit",2023-03-10,2023-08-06,Deployed
+77,20,Facial Recognition Attendance System,"Python, PyTorch, OpenCV, Flask, SQLite",2023-01-19,2023-02-28,Deployed
+78,20,Real-time Analytics Pipeline,"Python, Apache Kafka, Spark Streaming, Elasticsearch",2023-05-05,2023-08-06,Ongoing
+79,20,Network Forensics Tool,"Python, Wireshark, Network Packet Analysis, Evidence Collection",2023-02-26,2023-06-07,Completed
+80,20,Data Quality Assessment Tool,"Python, Pandas, Data Profiling, Quality Metrics",2023-07-16,2023-10-31,Completed
+81,20,Intrusion Detection System,"Python, Wireshark, Scapy, Machine Learning, Kali Linux",2023-08-09,2024-01-17,Deployed
+82,21,E-learning Platform,"Java, Spring, React, MongoDB, Video Streaming",2023-04-24,2023-08-20,Completed
+83,21,RESTful API Gateway,"Java, Spring Cloud, Microservices, SQL Database, API Management",2023-08-03,2023-12-10,Deployed
+84,21,Payment Processing System,"Java, Spring Security, React, Payment Gateway, Transaction Management",2023-01-25,2023-07-17,Abandoned
+85,21,Real-time Chat Backend,"Java, Spring WebSocket, Redis, Message Queue",2023-11-26,2024-04-07,Abandoned
+86,21,Customer Relationship Management,"Java, Spring, React, PostgreSQL, CRM Features",2023-07-01,2023-10-28,Deployed
+87,21,Content Management System,"Java, Spring MVC, Angular, MySQL, User Authentication",2023-05-26,2023-09-05,Deployed
+88,21,Employee Management System,"Java, Spring Framework, React, Oracle DB, HR Management",2023-11-12,2024-05-09,Deployed
+89,21,Online Marketplace Platform,"Java, Spring Boot, React, MongoDB, Payment Gateway",2023-10-17,2023-12-27,Abandoned
+90,21,Automated Penetration Testing Tool,"Python, Metasploit, Nmap, Burp Suite",2023-07-19,2023-09-11,Ongoing
+91,21,Network Traffic Analyzer,"Python, Wireshark, Packet Sniffing, TCP/IP, Network Protocols",2023-05-24,2023-07-16,Deployed
+92,22,Malware Analysis Platform,"Python, Reverse Engineering, Static Analysis, Sandbox",2023-09-23,2023-12-26,Abandoned
+93,22,Intrusion Detection System,"Python, Wireshark, Scapy, Machine Learning, Kali Linux",2023-10-07,2023-11-12,Deployed
+94,23,Real-time Chat Backend,"Java, Spring WebSocket, Redis, Message Queue",2023-09-26,2023-11-08,Deployed
+95,23,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-09-04,2023-10-11,Deployed
+96,23,Supply Chain Management,"Java, Microservices, React, Database Integration",2023-06-22,2023-08-06,Abandoned
+97,23,Disease Prediction System,"Python, Neural Networks, TensorFlow, Medical Dataset",2023-08-10,2023-10-09,Completed
+98,24,Employee Management System,"Java, Spring Framework, React, Oracle DB, HR Management",2023-02-17,2023-06-10,Ongoing
+99,24,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-02-17,2023-07-12,Ongoing
+100,24,Survey Data Analysis Tool,"Python, Statistical Analysis, Pandas, R, Survey Analytics",2023-12-15,2024-04-25,Deployed
+101,25,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-05-16,2023-10-26,Abandoned
+102,25,Language Translation System,"Python, Seq2Seq, TensorFlow, Google Translate API",2023-09-11,2023-10-28,Ongoing
+103,25,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-06-24,2023-08-19,Ongoing
+104,25,ETL Pipeline for E-commerce,"Python, Apache Airflow, Pandas, PostgreSQL, Data Integration",2023-04-22,2023-06-30,Completed
+105,26,Bayesian Inference System,"Python, PyMC3, Pandas, Statistical Modeling",2023-05-23,2023-10-19,Abandoned
+106,26,Data Lake Architecture,"Python, Apache Spark, Hadoop, AWS S3, Data Ingestion",2023-01-07,2023-03-30,Completed
+107,26,Automatic Text Summarization,"Python, BERT, Transformers, Streamlit",2023-07-01,2023-12-13,Deployed
+108,26,Network Traffic Analyzer,"Python, Wireshark, Packet Sniffing, TCP/IP, Network Protocols",2023-10-15,2024-03-09,Deployed
+109,27,Security Audit Framework,"Python, OWASP, Security Standards, Compliance",2023-06-08,2023-11-25,Ongoing
+110,27,Digital Evidence Analyzer,"Python, File System Analysis, Metadata Extraction, Forensics Tools",2023-05-06,2023-08-28,Abandoned
+111,27,Network Traffic Analyzer,"Python, Wireshark, Packet Sniffing, TCP/IP, Network Protocols",2023-04-07,2023-08-14,Completed
+112,27,Vulnerability Scanner,"Python, Nmap, Kali Linux, Port Scanning, Security Testing",2023-11-12,2023-12-25,Completed
+113,27,Network Forensics Tool,"Python, Wireshark, Network Packet Analysis, Evidence Collection",2023-10-18,2023-11-21,Deployed
+114,27,Survey Data Analysis Tool,"Python, Statistical Analysis, Pandas, R, Survey Analytics",2023-05-26,2023-09-20,Deployed
+115,27,Structural Engineering Analysis,"MATLAB, Finite Element Method, Numerical Analysis, Python",2023-09-26,2023-10-31,Deployed
+116,28,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-09-04,2024-01-28,Abandoned
+117,28,Bayesian Inference System,"Python, PyMC3, Pandas, Statistical Modeling",2023-08-01,2023-09-16,Completed
+118,28,Real-time Analytics Pipeline,"Python, Apache Kafka, Spark Streaming, Elasticsearch",2023-09-20,2023-12-03,Deployed
+119,30,Social Media Analytics Dashboard,"Python, Pandas, Plotly, Twitter API, Sentiment Analysis",2023-02-08,2023-04-05,Deployed
+120,30,Sales Performance Dashboard,"Python, Pandas, Plotly, Dash, Business Intelligence",2023-10-05,2024-01-13,Deployed
+121,30,Data Lake Architecture,"Python, Apache Spark, Hadoop, AWS S3, Data Ingestion",2023-09-03,2023-12-31,Deployed
+122,30,Real-time Data Streaming Platform,"Python, Apache Kafka, Pandas, Stream Processing",2023-10-04,2024-01-20,Deployed
+123,30,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-10-21,2024-03-24,Ongoing
+124,30,Fraud Detection System,"Python, Pandas, Scikit-Learn, Matplotlib, Anomaly Detection",2023-03-20,2023-05-06,Ongoing
+125,30,Bayesian Inference System,"Python, PyMC3, Pandas, Statistical Modeling",2023-12-25,2024-02-08,Completed
+126,31,Image Processing Pipeline,"MATLAB, Python, Computer Vision, Image Enhancement",2023-12-18,2024-04-05,Deployed
+127,31,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-10-09,2023-12-03,Deployed
+128,31,Fluid Dynamics Simulator,"MATLAB, Python, Numerical Methods, Computational Physics",2023-09-13,2023-10-21,Abandoned
+129,31,Payment Processing System,"Java, Spring Security, React, Payment Gateway, Transaction Management",2023-03-12,2023-08-10,Completed
+130,32,Vulnerability Scanner,"Python, Nmap, Kali Linux, Port Scanning, Security Testing",2023-05-17,2023-09-20,Completed
+131,32,Security Audit Framework,"Python, OWASP, Security Standards, Compliance",2023-09-26,2024-01-24,Abandoned
+132,32,Automated Penetration Testing Tool,"Python, Metasploit, Nmap, Burp Suite",2023-12-02,2024-04-20,Completed
+133,32,Secure File Transfer Protocol,"Python, Cryptography, Sockets, SSL/TLS",2023-09-16,2024-01-31,Completed
+134,32,Digital Evidence Analyzer,"Python, File System Analysis, Metadata Extraction, Forensics Tools",2023-01-07,2023-06-13,Ongoing
+135,34,Disease Prediction System,"Python, Neural Networks, TensorFlow, Medical Dataset",2023-08-07,2023-12-10,Deployed
+136,34,Object Detection for Autonomous Vehicles,"Python, YOLO, TensorFlow, Computer Vision",2023-02-05,2023-03-20,Abandoned
+137,34,Password Strength Analyzer,"Python, Cryptography, Hash Functions, Security Algorithms",2023-11-19,2024-02-29,Ongoing
+138,35,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-04-22,2023-06-17,Abandoned
+139,35,Optimization Algorithm Comparison,"MATLAB, Python, Optimization, Algorithm Analysis",2023-03-15,2023-04-15,Ongoing
+140,35,Fluid Dynamics Simulator,"MATLAB, Python, Numerical Methods, Computational Physics",2023-09-15,2023-11-07,Abandoned
+141,35,Image Processing Pipeline,"MATLAB, Python, Computer Vision, Image Enhancement",2023-06-14,2023-11-24,Ongoing
+142,35,Population Dynamics Model,"MATLAB, Python, Mathematical Modeling, Differential Equations",2023-01-18,2023-03-08,Abandoned
+143,35,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-01-16,2023-03-26,Abandoned
+144,35,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-04-12,2023-06-07,Ongoing
+145,35,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-04-01,2023-07-13,Abandoned
+146,35,Network Forensics Tool,"Python, Wireshark, Network Packet Analysis, Evidence Collection",2023-01-17,2023-04-05,Deployed
+147,36,Memory Forensics Analyzer,"Python, Volatility, Memory Analysis, Malware Detection",2023-02-06,2023-03-28,Deployed
+148,36,Password Strength Analyzer,"Python, Cryptography, Hash Functions, Security Algorithms",2023-12-27,2024-01-27,Completed
+149,36,Automated Penetration Testing Tool,"Python, Metasploit, Nmap, Burp Suite",2023-07-22,2023-10-15,Abandoned
+150,36,Network Forensics Tool,"Python, Wireshark, Network Packet Analysis, Evidence Collection",2023-08-02,2023-10-26,Ongoing
+151,37,Supply Chain Management,"Java, Microservices, React, Database Integration",2023-09-09,2023-10-21,Ongoing
+152,37,Task Management System,"Java, Spring Boot, React, PostgreSQL, REST API",2023-05-16,2023-08-18,Deployed
+153,37,E-learning Platform,"Java, Spring, React, MongoDB, Video Streaming",2023-02-08,2023-04-26,Completed
+154,37,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-11-20,2024-03-13,Abandoned
+155,38,Facial Recognition Attendance System,"Python, PyTorch, OpenCV, Flask, SQLite",2023-08-07,2023-11-10,Ongoing
+156,39,Data Lake Architecture,"Python, Apache Spark, Hadoop, AWS S3, Data Ingestion",2023-12-27,2024-03-07,Abandoned
+157,39,Survival Analysis Tool,"Python, Lifelines, Pandas, R",2023-05-26,2023-11-04,Completed
+158,39,Market Basket Analysis,"Python, Association Rules, Pandas, R, Retail Analytics",2023-11-26,2024-04-19,Completed
+159,39,ETL Pipeline for E-commerce,"Python, Apache Airflow, Pandas, PostgreSQL, Data Integration",2023-10-21,2023-11-20,Ongoing
+160,39,Data Quality Assessment Tool,"Python, Pandas, Data Profiling, Quality Metrics",2023-12-16,2024-03-12,Abandoned
+161,39,RESTful API Gateway,"Java, Spring Cloud, Microservices, SQL Database, API Management",2023-07-17,2023-09-10,Deployed
+162,40,Data Quality Assessment Tool,"Python, Pandas, Data Profiling, Quality Metrics",2023-02-16,2023-05-24,Completed
+163,40,Real-time Data Streaming Platform,"Python, Apache Kafka, Pandas, Stream Processing",2023-07-20,2023-12-19,Ongoing
+164,40,Multi-source Data Integration,"Python, Pandas, API Integration, Database Connectors",2023-08-25,2023-10-18,Abandoned
+165,40,Time Series Forecasting,"Python, ARIMA, Pandas, Scikit-Learn, R",2023-05-06,2023-09-30,Ongoing
+166,40,Sales Performance Dashboard,"Python, Pandas, Plotly, Dash, Business Intelligence",2023-08-06,2023-09-11,Ongoing
+167,40,Object Detection for Autonomous Vehicles,"Python, YOLO, TensorFlow, Computer Vision",2023-08-19,2023-10-22,Deployed
+168,40,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-01-01,2023-04-18,Ongoing
+169,40,Traffic Sign Recognition System,"Python, TensorFlow, OpenCV, Keras",2023-10-25,2023-12-21,Ongoing
+170,41,Credit Risk Assessment Model,"Python, Scikit-Learn, Pandas, XGBoost",2023-09-06,2023-11-17,Abandoned
+171,41,Traffic Sign Recognition System,"Python, TensorFlow, OpenCV, Keras",2023-02-04,2023-03-10,Deployed
+172,41,Inventory Control System,"Java, Spring Boot, React, MySQL, Barcode Integration",2023-04-27,2023-08-14,Completed
+173,42,Market Basket Analysis,"Python, Association Rules, Pandas, R, Retail Analytics",2023-09-09,2024-01-27,Deployed
+174,42,Real-time Analytics Pipeline,"Python, Apache Kafka, Spark Streaming, Elasticsearch",2023-09-24,2023-12-17,Completed
+175,42,Fraud Detection System,"Python, Pandas, Scikit-Learn, Matplotlib, Anomaly Detection",2023-08-23,2023-10-16,Ongoing
+176,42,Survival Analysis Tool,"Python, Lifelines, Pandas, R",2023-01-13,2023-04-25,Abandoned
+177,42,Data Quality Assessment Tool,"Python, Pandas, Data Profiling, Quality Metrics",2023-07-01,2023-10-03,Completed
+178,42,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-08-09,2023-10-03,Deployed
+179,42,Security Audit Framework,"Python, OWASP, Security Standards, Compliance",2023-08-15,2024-01-25,Abandoned
+180,42,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-06-04,2023-09-26,Deployed
+181,42,Digital Evidence Analyzer,"Python, File System Analysis, Metadata Extraction, Forensics Tools",2023-02-03,2023-07-13,Ongoing
+182,42,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-12-27,2024-02-24,Completed
+183,42,Signal Processing System,"MATLAB, Python, Digital Signal Processing, Fourier Transform",2023-06-21,2023-09-18,Ongoing
+184,43,Signal Processing System,"MATLAB, Python, Digital Signal Processing, Fourier Transform",2023-10-03,2024-03-29,Abandoned
+185,43,Financial Risk Modeling,"MATLAB, Python, Risk Analysis, Financial Mathematics",2023-09-22,2024-01-12,Completed
+186,43,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-07-14,2023-12-06,Abandoned
+187,43,Quantum Computing Simulation,"Python, Qiskit, Quantum Algorithms, Simulation",2023-07-27,2023-12-03,Deployed
+188,44,Memory Forensics Analyzer,"Python, Volatility, Memory Analysis, Malware Detection",2023-08-04,2023-09-23,Deployed
+189,44,Mobile Device Forensics Tool,"Python, Android Debug Bridge, iOS Forensics, Data Extraction",2023-11-24,2024-02-07,Deployed
+190,45,Bioinformatics Data Analysis,"Python, Biopython, Pandas, Genomics, R",2023-02-01,2023-07-24,Ongoing
+191,45,Fluid Dynamics Simulator,"MATLAB, Python, Numerical Methods, Computational Physics",2023-12-22,2024-04-11,Ongoing
+192,45,ERP Module,"Java, Spring Boot, React, Oracle DB, Business Processes",2023-09-12,2024-03-06,Completed
+193,45,Data Quality Assessment Tool,"Python, Pandas, Data Profiling, Quality Metrics",2023-02-27,2023-06-05,Abandoned
+194,46,Market Basket Analysis,"Python, Association Rules, Pandas, R, Retail Analytics",2023-09-04,2024-02-12,Abandoned
+195,46,Real-time Analytics Pipeline,"Python, Apache Kafka, Spark Streaming, Elasticsearch",2023-02-14,2023-06-29,Completed
+196,46,Web Analytics Platform,"Python, Google Analytics API, Pandas, Matplotlib",2023-04-10,2023-05-19,Abandoned
+197,46,Survival Analysis Tool,"Python, Lifelines, Pandas, R",2023-08-02,2023-10-10,Completed
+198,46,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-01-04,2023-04-14,Completed
+199,46,Social Media Analytics Dashboard,"Python, Pandas, Plotly, Twitter API, Sentiment Analysis",2023-05-02,2023-10-02,Abandoned
+200,46,Data Lake Architecture,"Python, Apache Spark, Hadoop, AWS S3, Data Ingestion",2023-11-18,2024-03-15,Completed
+201,46,E-learning Platform,"Java, Spring, React, MongoDB, Video Streaming",2023-03-13,2023-08-17,Deployed
+202,47,Microservices E-commerce Backend,"Java, Spring Cloud, Docker, Kubernetes, API Gateway",2023-06-07,2023-09-04,Ongoing
+203,47,Human Resource Management,"Java, Spring Framework, Vue.js, PostgreSQL, Employee Management",2023-05-17,2023-11-12,Ongoing
+204,47,Real-time Analytics Pipeline,"Python, Apache Kafka, Spark Streaming, Elasticsearch",2023-05-06,2023-06-15,Ongoing
+205,48,Mobile Device Forensics Tool,"Python, Android Debug Bridge, iOS Forensics, Data Extraction",2023-04-15,2023-06-02,Deployed
+206,48,Intrusion Detection System,"Python, Wireshark, Scapy, Machine Learning, Kali Linux",2023-06-02,2023-08-26,Completed
+207,48,Document Management System,"Java, Spring Boot, React, File Upload, Version Control",2023-12-25,2024-02-09,Ongoing
+208,49,Network Intrusion Prevention,"Python, Snort, Machine Learning, Network Security",2023-12-16,2024-03-31,Deployed
+209,49,Malware Analysis Platform,"Python, Reverse Engineering, Static Analysis, Sandbox",2023-01-18,2023-03-23,Abandoned
+210,49,Medical Image Analysis System,"Python, TensorFlow, OpenCV, Keras, DICOM",2023-10-01,2024-02-22,Deployed
+211,50,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-06-05,2023-10-27,Abandoned
+212,50,Customer Churn Prediction,"Python, Random Forest, PyTorch, Scikit-learn",2023-08-09,2023-09-22,Deployed
+213,50,Disease Prediction System,"Python, Neural Networks, TensorFlow, Medical Dataset",2023-09-09,2023-10-15,Deployed
+214,50,Medical Image Analysis System,"Python, TensorFlow, OpenCV, Keras, DICOM",2023-08-15,2024-01-06,Abandoned
+215,50,Quantum Computing Simulation,"Python, Qiskit, Quantum Algorithms, Simulation",2023-05-19,2023-07-26,Ongoing
+216,51,Customer Churn Prediction,"Python, Random Forest, PyTorch, Scikit-learn",2023-08-05,2023-10-07,Deployed
+217,51,Recommendation Engine,"Python, Collaborative Filtering, PyTorch, Matrix Factorization",2023-01-07,2023-05-08,Ongoing
+218,51,Text Classification for News Articles,"Python, Scikit-Learn, Pandas, NLP",2023-06-15,2023-10-23,Abandoned
+219,51,Medical Image Analysis System,"Python, TensorFlow, OpenCV, Keras, DICOM",2023-02-18,2023-05-11,Completed
+220,51,Real-time Chat Backend,"Java, Spring WebSocket, Redis, Message Queue",2023-07-06,2023-11-25,Deployed
+221,51,Optimization Algorithm Comparison,"MATLAB, Python, Optimization, Algorithm Analysis",2023-05-04,2023-08-24,Ongoing
+222,51,Automated Penetration Testing Tool,"Python, Metasploit, Nmap, Burp Suite",2023-10-02,2023-11-14,Abandoned
+223,51,Content Management System,"Java, Spring MVC, Angular, MySQL, User Authentication",2023-04-02,2023-07-23,Completed
+224,52,Task Management System,"Java, Spring Boot, React, PostgreSQL, REST API",2023-04-21,2023-05-22,Ongoing
+225,52,Supply Chain Management,"Java, Microservices, React, Database Integration",2023-10-24,2024-02-26,Ongoing
+226,52,Energy Consumption Forecasting,"Python, Prophet, Pandas, Time Series Analysis",2023-07-26,2023-11-02,Abandoned
+227,52,Fraud Detection System,"Python, Pandas, Scikit-Learn, Matplotlib, Anomaly Detection",2023-12-17,2024-02-14,Deployed
+228,52,DDoS Attack Detection,"Python, Wireshark, Network Analysis, Real-time Monitoring",2023-05-23,2023-08-09,Ongoing
+229,53,Password Strength Analyzer,"Python, Cryptography, Hash Functions, Security Algorithms",2023-12-03,2024-04-06,Ongoing
+230,54,Customer Relationship Management,"Java, Spring, React, PostgreSQL, CRM Features",2023-07-15,2023-08-23,Abandoned
+231,54,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-01-01,2023-02-28,Abandoned
+232,54,Optimization Algorithm Comparison,"MATLAB, Python, Optimization, Algorithm Analysis",2023-03-19,2023-07-27,Abandoned
+233,54,Password Strength Analyzer,"Python, Cryptography, Hash Functions, Security Algorithms",2023-11-22,2024-03-12,Deployed
+234,54,Secure File Transfer Protocol,"Python, Cryptography, Sockets, SSL/TLS",2023-03-06,2023-06-10,Ongoing
+235,55,Object Detection for Autonomous Vehicles,"Python, YOLO, TensorFlow, Computer Vision",2023-04-25,2023-07-12,Deployed
+236,55,Facial Recognition Attendance System,"Python, PyTorch, OpenCV, Flask, SQLite",2023-12-14,2024-06-09,Abandoned
+237,55,Handwritten Digit Recognition,"Python, CNN, TensorFlow, Jupyter Notebook",2023-08-05,2023-09-19,Deployed
+238,55,Firewall Configuration Tool,"Python, iptables, Network Security, Linux",2023-10-27,2024-03-08,Completed
+239,56,Handwritten Digit Recognition,"Python, CNN, TensorFlow, Jupyter Notebook",2023-12-20,2024-03-07,Ongoing
+240,56,Credit Risk Assessment Model,"Python, Scikit-Learn, Pandas, XGBoost",2023-03-12,2023-08-04,Ongoing
+241,56,Stock Price Prediction Model,"Python, LSTM, TensorFlow, Yahoo Finance API, Pandas",2023-12-02,2024-01-02,Abandoned
+242,56,Disease Prediction System,"Python, Neural Networks, TensorFlow, Medical Dataset",2023-01-10,2023-02-26,Ongoing
+243,56,Language Translation System,"Python, Seq2Seq, TensorFlow, Google Translate API",2023-03-26,2023-06-16,Completed
+244,56,Survey Data Analysis Tool,"Python, Statistical Analysis, Pandas, R, Survey Analytics",2023-08-04,2023-10-03,Abandoned
+245,56,ETL Pipeline for E-commerce,"Python, Apache Airflow, Pandas, PostgreSQL, Data Integration",2023-02-19,2023-05-12,Deployed
+246,57,Penetration Testing Framework,"Python, Metasploit, Kali Linux, Ethical Hacking",2023-03-15,2023-05-12,Ongoing
+247,57,Network Intrusion Prevention,"Python, Snort, Machine Learning, Network Security",2023-07-07,2023-12-20,Completed
+248,57,Secure File Transfer Protocol,"Python, Cryptography, Sockets, SSL/TLS",2023-04-08,2023-09-26,Deployed
+249,57,Malware Analysis Platform,"Python, Reverse Engineering, Static Analysis, Sandbox",2023-04-14,2023-07-29,Abandoned
+250,57,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-01-20,2023-03-18,Deployed
+251,58,Image Processing Pipeline,"MATLAB, Python, Computer Vision, Image Enhancement",2023-08-11,2023-09-24,Deployed
+252,58,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-01-17,2023-02-25,Deployed
+253,58,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-06-08,2023-08-10,Completed
+254,58,E-learning Platform,"Java, Spring, React, MongoDB, Video Streaming",2023-03-22,2023-04-24,Deployed
+255,59,ETL Pipeline for E-commerce,"Python, Apache Airflow, Pandas, PostgreSQL, Data Integration",2023-06-23,2023-08-07,Abandoned
+256,59,Bayesian Inference System,"Python, PyMC3, Pandas, Statistical Modeling",2023-08-09,2023-12-23,Abandoned
+257,59,Real-time Data Streaming Platform,"Python, Apache Kafka, Pandas, Stream Processing",2023-02-27,2023-04-10,Deployed
+258,59,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-11-09,2024-03-03,Abandoned
+259,59,Task Management System,"Java, Spring Boot, React, PostgreSQL, REST API",2023-03-21,2023-07-27,Ongoing
+260,59,Network Intrusion Prevention,"Python, Snort, Machine Learning, Network Security",2023-12-10,2024-04-16,Ongoing
+261,60,Customer Churn Prediction,"Python, Random Forest, PyTorch, Scikit-learn",2023-08-25,2024-01-26,Ongoing
+262,60,Object Detection for Autonomous Vehicles,"Python, YOLO, TensorFlow, Computer Vision",2023-02-26,2023-06-30,Completed
+263,60,Web Analytics Platform,"Python, Google Analytics API, Pandas, Matplotlib",2023-04-21,2023-06-14,Ongoing
+264,60,Inventory Control System,"Java, Spring Boot, React, MySQL, Barcode Integration",2023-10-12,2023-12-05,Completed
+265,60,Secure File Transfer Protocol,"Python, Cryptography, Sockets, SSL/TLS",2023-07-12,2023-10-06,Completed
+266,61,Automatic Text Summarization,"Python, BERT, Transformers, Streamlit",2023-06-02,2023-11-15,Deployed
+267,61,Stock Price Prediction Model,"Python, LSTM, TensorFlow, Yahoo Finance API, Pandas",2023-07-22,2023-12-05,Completed
+268,61,Recommendation Engine,"Python, Collaborative Filtering, PyTorch, Matrix Factorization",2023-11-19,2024-02-28,Abandoned
+269,61,Traffic Sign Recognition System,"Python, TensorFlow, OpenCV, Keras",2023-09-16,2024-03-08,Ongoing
+270,61,Web Application Security Scanner,"Python, OWASP, SQL Injection Detection, XSS Prevention",2023-12-27,2024-06-16,Deployed
+271,63,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-07-14,2023-09-03,Abandoned
+272,63,Medical Image Analysis System,"Python, TensorFlow, OpenCV, Keras, DICOM",2023-07-26,2023-09-23,Ongoing
+273,63,Language Translation System,"Python, Seq2Seq, TensorFlow, Google Translate API",2023-10-18,2024-01-29,Abandoned
+274,64,Employee Management System,"Java, Spring Framework, React, Oracle DB, HR Management",2023-08-14,2023-11-21,Ongoing
+275,64,Real-time Chat Backend,"Java, Spring WebSocket, Redis, Message Queue",2023-08-25,2023-09-24,Completed
+276,64,RESTful API Gateway,"Java, Spring Cloud, Microservices, SQL Database, API Management",2023-02-13,2023-04-15,Deployed
+277,64,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-08-27,2023-09-29,Deployed
+278,64,Online Marketplace Platform,"Java, Spring Boot, React, MongoDB, Payment Gateway",2023-07-02,2023-12-27,Ongoing
+279,65,Content Management System,"Java, Spring MVC, Angular, MySQL, User Authentication",2023-05-04,2023-08-31,Ongoing
+280,65,Microservices E-commerce Backend,"Java, Spring Cloud, Docker, Kubernetes, API Gateway",2023-10-14,2023-12-08,Ongoing
+281,65,Real-time Chat Backend,"Java, Spring WebSocket, Redis, Message Queue",2023-12-27,2024-05-29,Completed
+282,65,E-learning Platform,"Java, Spring, React, MongoDB, Video Streaming",2023-04-20,2023-08-30,Completed
+283,65,Social Media Analytics Dashboard,"Python, Pandas, Plotly, Twitter API, Sentiment Analysis",2023-08-27,2023-10-09,Deployed
+284,65,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-08-21,2023-11-06,Completed
+285,65,Structural Engineering Analysis,"MATLAB, Finite Element Method, Numerical Analysis, Python",2023-11-16,2024-04-03,Abandoned
+286,66,Survival Analysis Tool,"Python, Lifelines, Pandas, R",2023-10-18,2024-01-03,Completed
+287,66,Real-time Data Streaming Platform,"Python, Apache Kafka, Pandas, Stream Processing",2023-01-11,2023-06-26,Deployed
+288,66,Multi-source Data Integration,"Python, Pandas, API Integration, Database Connectors",2023-07-11,2023-12-17,Ongoing
+289,66,Text Classification for News Articles,"Python, Scikit-Learn, Pandas, NLP",2023-06-08,2023-09-27,Deployed
+290,67,Data Quality Assessment Tool,"Python, Pandas, Data Profiling, Quality Metrics",2023-08-09,2023-11-23,Deployed
+291,67,ETL Pipeline for E-commerce,"Python, Apache Airflow, Pandas, PostgreSQL, Data Integration",2023-06-10,2023-11-21,Completed
+292,67,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-07-18,2023-09-09,Ongoing
+293,67,Vulnerability Scanner,"Python, Nmap, Kali Linux, Port Scanning, Security Testing",2023-03-19,2023-09-13,Completed
+294,67,Chatbot with Intent Recognition,"Python, PyTorch, Transformers, Flask, NLP",2023-10-21,2024-01-04,Completed
+295,68,Network Forensics Tool,"Python, Wireshark, Network Packet Analysis, Evidence Collection",2023-02-19,2023-06-07,Deployed
+296,68,Security Audit Framework,"Python, OWASP, Security Standards, Compliance",2023-02-04,2023-05-06,Completed
+297,69,ERP Module,"Java, Spring Boot, React, Oracle DB, Business Processes",2023-11-05,2024-02-25,Completed
+298,69,Employee Management System,"Java, Spring Framework, React, Oracle DB, HR Management",2023-08-24,2023-10-14,Deployed
+299,69,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-09-10,2023-12-14,Deployed
+300,69,Payment Processing System,"Java, Spring Security, React, Payment Gateway, Transaction Management",2023-01-27,2023-04-04,Abandoned
+301,69,E-learning Platform,"Java, Spring, React, MongoDB, Video Streaming",2023-11-10,2024-01-23,Completed
+302,69,Task Management System,"Java, Spring Boot, React, PostgreSQL, REST API",2023-02-03,2023-07-19,Completed
+303,69,Customer Relationship Management,"Java, Spring, React, PostgreSQL, CRM Features",2023-10-10,2024-03-27,Ongoing
+304,70,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-07-15,2023-11-07,Ongoing
+305,70,Facial Recognition Attendance System,"Python, PyTorch, OpenCV, Flask, SQLite",2023-10-22,2024-03-13,Completed
+306,70,Stock Price Prediction Model,"Python, LSTM, TensorFlow, Yahoo Finance API, Pandas",2023-07-03,2023-08-15,Deployed
+307,71,Online Marketplace Platform,"Java, Spring Boot, React, MongoDB, Payment Gateway",2023-09-12,2024-02-03,Deployed
+308,71,Supply Chain Management,"Java, Microservices, React, Database Integration",2023-05-22,2023-09-17,Completed
+309,71,Human Resource Management,"Java, Spring Framework, Vue.js, PostgreSQL, Employee Management",2023-11-04,2024-02-19,Ongoing
+310,71,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-06-17,2023-09-20,Deployed
+311,72,Bioinformatics Data Analysis,"Python, Biopython, Pandas, Genomics, R",2023-07-12,2023-08-14,Deployed
+312,73,Image Processing Pipeline,"MATLAB, Python, Computer Vision, Image Enhancement",2023-03-01,2023-05-28,Ongoing
+313,73,Quantum Computing Simulation,"Python, Qiskit, Quantum Algorithms, Simulation",2023-08-01,2023-12-09,Completed
+314,73,Automatic Text Summarization,"Python, BERT, Transformers, Streamlit",2023-12-09,2024-05-05,Abandoned
+315,74,Payment Processing System,"Java, Spring Security, React, Payment Gateway, Transaction Management",2023-03-11,2023-05-18,Completed
+316,74,Online Marketplace Platform,"Java, Spring Boot, React, MongoDB, Payment Gateway",2023-04-12,2023-08-02,Abandoned
+317,74,Real-time Chat Backend,"Java, Spring WebSocket, Redis, Message Queue",2023-12-04,2024-05-07,Abandoned
+318,74,Data Quality Assessment Tool,"Python, Pandas, Data Profiling, Quality Metrics",2023-12-18,2024-03-07,Deployed
+319,75,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-06-08,2023-11-27,Abandoned
+320,75,Optimization Algorithm Comparison,"MATLAB, Python, Optimization, Algorithm Analysis",2023-02-07,2023-03-30,Ongoing
+321,75,Financial Risk Modeling,"MATLAB, Python, Risk Analysis, Financial Mathematics",2023-02-04,2023-03-25,Deployed
+322,75,RESTful API Gateway,"Java, Spring Cloud, Microservices, SQL Database, API Management",2023-03-24,2023-06-16,Ongoing
+323,76,Multi-source Data Integration,"Python, Pandas, API Integration, Database Connectors",2023-05-25,2023-11-11,Deployed
+324,76,DDoS Attack Detection,"Python, Wireshark, Network Analysis, Real-time Monitoring",2023-04-23,2023-08-02,Deployed
+325,76,Object Detection for Autonomous Vehicles,"Python, YOLO, TensorFlow, Computer Vision",2023-09-21,2024-02-12,Abandoned
+326,77,Data Quality Assessment Tool,"Python, Pandas, Data Profiling, Quality Metrics",2023-09-27,2023-11-03,Deployed
+327,77,Time Series Forecasting,"Python, ARIMA, Pandas, Scikit-Learn, R",2023-08-19,2023-10-19,Abandoned
+328,77,Multi-source Data Integration,"Python, Pandas, API Integration, Database Connectors",2023-09-11,2023-11-24,Completed
+329,77,Real-time Analytics Pipeline,"Python, Apache Kafka, Spark Streaming, Elasticsearch",2023-11-24,2024-01-11,Ongoing
+330,77,Survey Data Analysis Tool,"Python, Statistical Analysis, Pandas, R, Survey Analytics",2023-05-19,2023-11-01,Abandoned
+331,77,Real-time Data Streaming Platform,"Python, Apache Kafka, Pandas, Stream Processing",2023-12-20,2024-01-21,Abandoned
+332,78,Secure File Transfer Protocol,"Python, Cryptography, Sockets, SSL/TLS",2023-01-13,2023-03-04,Deployed
+333,78,Web Application Security Scanner,"Python, OWASP, SQL Injection Detection, XSS Prevention",2023-02-18,2023-05-22,Deployed
+334,78,Payment Processing System,"Java, Spring Security, React, Payment Gateway, Transaction Management",2023-10-12,2024-01-06,Abandoned
+335,79,Human Resource Management,"Java, Spring Framework, Vue.js, PostgreSQL, Employee Management",2023-11-17,2024-01-14,Ongoing
+336,79,Employee Management System,"Java, Spring Framework, React, Oracle DB, HR Management",2023-08-17,2023-10-16,Completed
+337,80,Structural Engineering Analysis,"MATLAB, Finite Element Method, Numerical Analysis, Python",2023-05-03,2023-08-28,Abandoned
+338,80,Image Processing Pipeline,"MATLAB, Python, Computer Vision, Image Enhancement",2023-06-14,2023-11-15,Completed
+339,80,Population Dynamics Model,"MATLAB, Python, Mathematical Modeling, Differential Equations",2023-10-17,2024-04-08,Ongoing
+340,80,Optimization Algorithm Comparison,"MATLAB, Python, Optimization, Algorithm Analysis",2023-10-08,2024-03-14,Abandoned
+341,80,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-09-15,2024-01-19,Deployed
+342,80,Financial Risk Modeling,"MATLAB, Python, Risk Analysis, Financial Mathematics",2023-03-23,2023-06-29,Completed
+343,80,Medical Image Analysis System,"Python, TensorFlow, OpenCV, Keras, DICOM",2023-04-17,2023-07-07,Ongoing
+344,80,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-10-08,2024-02-18,Completed
+345,81,Stock Price Prediction Model,"Python, LSTM, TensorFlow, Yahoo Finance API, Pandas",2023-01-14,2023-03-28,Completed
+346,81,Energy Consumption Forecasting,"Python, Prophet, Pandas, Time Series Analysis",2023-12-14,2024-03-02,Deployed
+347,81,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-06-04,2023-10-20,Abandoned
+348,81,Web Application Security Scanner,"Python, OWASP, SQL Injection Detection, XSS Prevention",2023-06-13,2023-10-15,Deployed
+349,82,Data Lake Architecture,"Python, Apache Spark, Hadoop, AWS S3, Data Ingestion",2023-12-27,2024-03-30,Deployed
+350,82,ETL Pipeline for E-commerce,"Python, Apache Airflow, Pandas, PostgreSQL, Data Integration",2023-03-15,2023-08-29,Completed
+351,82,Social Media Analytics Dashboard,"Python, Pandas, Plotly, Twitter API, Sentiment Analysis",2023-05-15,2023-09-08,Ongoing
+352,82,Real-time Analytics Pipeline,"Python, Apache Kafka, Spark Streaming, Elasticsearch",2023-10-24,2024-04-07,Deployed
+353,82,Structural Engineering Analysis,"MATLAB, Finite Element Method, Numerical Analysis, Python",2023-07-05,2023-08-28,Deployed
+354,82,Secure File Transfer Protocol,"Python, Cryptography, Sockets, SSL/TLS",2023-10-25,2024-02-21,Deployed
+355,83,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-01-09,2023-03-01,Completed
+356,83,Market Basket Analysis,"Python, Association Rules, Pandas, R, Retail Analytics",2023-12-21,2024-06-01,Ongoing
+357,83,Sales Performance Dashboard,"Python, Pandas, Plotly, Dash, Business Intelligence",2023-01-21,2023-02-23,Abandoned
+358,83,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-01-02,2023-02-20,Abandoned
+359,84,Voice Assistant for Local Languages,"Python, SpeechRecognition, NLTK, TensorFlow",2023-09-08,2024-02-17,Deployed
+360,84,Sentiment Analysis for Social Media,"Python, NLTK, TensorFlow, Twitter API, Pandas",2023-01-15,2023-05-13,Ongoing
+361,84,Content Management System,"Java, Spring MVC, Angular, MySQL, User Authentication",2023-06-10,2023-11-14,Ongoing
+362,84,Bioinformatics Data Analysis,"Python, Biopython, Pandas, Genomics, R",2023-05-26,2023-08-24,Abandoned
+363,85,Bioinformatics Data Analysis,"Python, Biopython, Pandas, Genomics, R",2023-06-11,2023-08-07,Deployed
+364,85,Quantum Computing Simulation,"Python, Qiskit, Quantum Algorithms, Simulation",2023-05-17,2023-10-13,Completed
+365,86,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-02-02,2023-05-11,Abandoned
+366,86,Signal Processing System,"MATLAB, Python, Digital Signal Processing, Fourier Transform",2023-01-22,2023-04-29,Ongoing
+367,86,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-07-13,2024-01-05,Deployed
+368,86,Text Classification for News Articles,"Python, Scikit-Learn, Pandas, NLP",2023-11-13,2024-02-22,Abandoned
+369,87,Supply Chain Management,"Java, Microservices, React, Database Integration",2023-04-25,2023-09-13,Ongoing
+370,87,Human Resource Management,"Java, Spring Framework, Vue.js, PostgreSQL, Employee Management",2023-08-08,2023-09-13,Abandoned
+371,87,RESTful API Gateway,"Java, Spring Cloud, Microservices, SQL Database, API Management",2023-10-17,2024-03-03,Abandoned
+372,87,Employee Management System,"Java, Spring Framework, React, Oracle DB, HR Management",2023-10-26,2023-12-25,Ongoing
+373,87,Document Management System,"Java, Spring Boot, React, File Upload, Version Control",2023-12-10,2024-01-21,Ongoing
+374,88,Payment Processing System,"Java, Spring Security, React, Payment Gateway, Transaction Management",2023-03-06,2023-08-24,Abandoned
+375,88,Document Management System,"Java, Spring Boot, React, File Upload, Version Control",2023-11-11,2024-02-21,Ongoing
+376,88,Hospital Management System,"Java, Spring MVC, React, SQL Server, Medical Records",2023-12-06,2024-03-09,Completed
+377,88,Inventory Control System,"Java, Spring Boot, React, MySQL, Barcode Integration",2023-04-15,2023-09-22,Abandoned
+378,89,Automated Penetration Testing Tool,"Python, Metasploit, Nmap, Burp Suite",2023-09-16,2023-10-27,Ongoing
+379,90,DDoS Attack Detection,"Python, Wireshark, Network Analysis, Real-time Monitoring",2023-12-23,2024-05-16,Completed
+380,91,Task Management System,"Java, Spring Boot, React, PostgreSQL, REST API",2023-06-27,2023-11-24,Ongoing
+381,91,Online Marketplace Platform,"Java, Spring Boot, React, MongoDB, Payment Gateway",2023-04-05,2023-09-29,Ongoing
+382,91,Hospital Management System,"Java, Spring MVC, React, SQL Server, Medical Records",2023-08-16,2024-02-02,Deployed
+383,91,Real-time Chat Backend,"Java, Spring WebSocket, Redis, Message Queue",2023-03-01,2023-05-20,Deployed
+384,91,Content Management System,"Java, Spring MVC, Angular, MySQL, User Authentication",2023-03-23,2023-06-18,Completed
+385,91,E-learning Platform,"Java, Spring, React, MongoDB, Video Streaming",2023-08-17,2023-11-09,Abandoned
+386,92,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-08-11,2023-12-14,Ongoing
+387,92,Image Processing Pipeline,"MATLAB, Python, Computer Vision, Image Enhancement",2023-11-26,2024-04-04,Completed
+388,92,Signal Processing System,"MATLAB, Python, Digital Signal Processing, Fourier Transform",2023-12-18,2024-01-18,Deployed
+389,92,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-04-13,2023-06-05,Completed
+390,92,Financial Risk Modeling,"MATLAB, Python, Risk Analysis, Financial Mathematics",2023-06-26,2023-11-21,Completed
+391,92,Bioinformatics Data Analysis,"Python, Biopython, Pandas, Genomics, R",2023-10-04,2023-11-04,Abandoned
+392,92,Language Translation System,"Python, Seq2Seq, TensorFlow, Google Translate API",2023-09-18,2023-10-25,Ongoing
+393,93,Object Detection for Autonomous Vehicles,"Python, YOLO, TensorFlow, Computer Vision",2023-10-17,2024-01-04,Deployed
+394,93,Sentiment Analysis for Social Media,"Python, NLTK, TensorFlow, Twitter API, Pandas",2023-07-09,2023-12-23,Deployed
+395,93,Automatic Text Summarization,"Python, BERT, Transformers, Streamlit",2023-12-04,2024-02-07,Abandoned
+396,93,Recommendation Engine,"Python, Collaborative Filtering, PyTorch, Matrix Factorization",2023-01-26,2023-06-02,Abandoned
+397,93,Stock Price Prediction Model,"Python, LSTM, TensorFlow, Yahoo Finance API, Pandas",2023-01-07,2023-03-15,Deployed
+398,94,Structural Engineering Analysis,"MATLAB, Finite Element Method, Numerical Analysis, Python",2023-02-12,2023-08-04,Deployed
+399,94,Optimization Algorithm Comparison,"MATLAB, Python, Optimization, Algorithm Analysis",2023-09-02,2024-01-01,Deployed
+400,94,Monte Carlo Simulation,"MATLAB, Python, Statistical Simulation, Random Sampling",2023-11-13,2024-03-24,Ongoing
+401,94,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-08-01,2023-12-25,Completed
+402,94,Quantum Computing Simulation,"Python, Qiskit, Quantum Algorithms, Simulation",2023-12-04,2024-03-24,Ongoing
+403,94,Digital Evidence Analyzer,"Python, File System Analysis, Metadata Extraction, Forensics Tools",2023-02-03,2023-05-15,Abandoned
+404,95,Quantum Computing Simulation,"Python, Qiskit, Quantum Algorithms, Simulation",2023-09-04,2023-12-31,Deployed
+405,96,Epidemic Spread Simulation,"MATLAB, Python, Differential Equations, Agent-based Modeling",2023-03-12,2023-05-10,Abandoned
+406,96,Signal Processing System,"MATLAB, Python, Digital Signal Processing, Fourier Transform",2023-07-01,2023-12-25,Ongoing
+407,96,Optimization Algorithm Comparison,"MATLAB, Python, Optimization, Algorithm Analysis",2023-06-11,2023-11-19,Completed
+408,96,Climate Change Simulation,"MATLAB, Python, NumPy, SciPy, Data Modeling",2023-11-10,2024-01-29,Completed
+409,96,Fluid Dynamics Simulator,"MATLAB, Python, Numerical Methods, Computational Physics",2023-06-01,2023-11-13,Completed
+410,96,Online Banking System,"Java, Spring Security, React, MySQL, JWT Authentication",2023-06-17,2023-10-07,Abandoned
+411,96,A/B Testing Framework,"Python, Statistical Testing, Pandas, R, Hypothesis Testing",2023-01-15,2023-03-16,Completed
+412,97,Vulnerability Scanner,"Python, Nmap, Kali Linux, Port Scanning, Security Testing",2023-10-04,2024-01-12,Abandoned
+413,97,Web Application Security Scanner,"Python, OWASP, SQL Injection Detection, XSS Prevention",2023-08-26,2023-12-21,Deployed
+414,97,Memory Forensics Analyzer,"Python, Volatility, Memory Analysis, Malware Detection",2023-08-16,2023-11-29,Abandoned
+415,98,Sales Performance Dashboard,"Python, Pandas, Plotly, Dash, Business Intelligence",2023-10-02,2024-03-05,Completed
+416,98,Social Media Analytics Dashboard,"Python, Pandas, Plotly, Twitter API, Sentiment Analysis",2023-05-05,2023-08-21,Abandoned
+417,98,Vulnerability Scanner,"Python, Nmap, Kali Linux, Port Scanning, Security Testing",2023-04-11,2023-09-26,Abandoned
+418,98,Augmented Reality Application,"Python, OpenCV, Unity, ARCore",2023-06-23,2023-08-31,Abandoned
+419,99,Text Classification for News Articles,"Python, Scikit-Learn, Pandas, NLP",2023-09-24,2024-02-06,Ongoing
+420,99,Credit Risk Assessment Model,"Python, Scikit-Learn, Pandas, XGBoost",2023-05-08,2023-07-16,Ongoing
+421,99,Traffic Sign Recognition System,"Python, TensorFlow, OpenCV, Keras",2023-05-12,2023-10-23,Completed
+422,99,Language Translation System,"Python, Seq2Seq, TensorFlow, Google Translate API",2023-01-04,2023-02-05,Deployed
+423,99,Energy Consumption Forecasting,"Python, Prophet, Pandas, Time Series Analysis",2023-01-27,2023-06-12,Ongoing
+424,99,Payment Processing System,"Java, Spring Security, React, Payment Gateway, Transaction Management",2023-01-08,2023-03-10,Deployed
+425,100,DDoS Attack Detection,"Python, Wireshark, Network Analysis, Real-time Monitoring",2023-09-03,2023-12-01,Deployed
+426,100,Password Strength Analyzer,"Python, Cryptography, Hash Functions, Security Algorithms",2023-03-15,2023-09-05,Ongoing
+427,100,Network Intrusion Prevention,"Python, Snort, Machine Learning, Network Security",2023-07-19,2023-10-27,Deployed
+428,100,Traffic Sign Recognition System,"Python, TensorFlow, OpenCV, Keras",2023-05-26,2023-10-14,Deployed

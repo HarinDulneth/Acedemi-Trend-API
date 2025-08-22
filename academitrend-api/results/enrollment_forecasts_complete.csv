@@ -1,0 +1,611 @@
+pathway,degree_program,year,enrollment_total,data_type
+Computer Network Technology,ICT,2001,19.0,historical
+Computer Network Technology,ICT,2002,18.0,historical
+Computer Network Technology,ICT,2003,18.0,historical
+Computer Network Technology,ICT,2004,20.0,historical
+Computer Network Technology,ICT,2005,19.0,historical
+Computer Network Technology,ICT,2006,21.0,historical
+Computer Network Technology,ICT,2007,24.0,historical
+Computer Network Technology,ICT,2008,23.0,historical
+Computer Network Technology,ICT,2009,24.0,historical
+Computer Network Technology,ICT,2010,25.0,historical
+Computer Network Technology,ICT,2011,25.0,historical
+Computer Network Technology,ICT,2012,27.0,historical
+Computer Network Technology,ICT,2013,26.0,historical
+Computer Network Technology,ICT,2014,27.0,historical
+Computer Network Technology,ICT,2015,25.0,historical
+Computer Network Technology,ICT,2016,36.0,historical
+Computer Network Technology,ICT,2017,25.0,historical
+Computer Network Technology,ICT,2018,23.0,historical
+Computer Network Technology,ICT,2019,29.0,historical
+Computer Network Technology,ICT,2020,27.0,historical
+Computer Network Technology,ICT,2021,27.0,historical
+Computer Network Technology,ICT,2022,30.2,forecast_Prophet
+Computer Network Technology,ICT,2023,30.7,forecast_Prophet
+Computer Network Technology,ICT,2024,31.2,forecast_Prophet
+Computer Network Technology,ICT,2025,31.8,forecast_Prophet
+Computer Network Technology,ICT,2026,32.3,forecast_Prophet
+Computer Network Technology,ICT,2022,26.5,forecast_ARIMA
+Computer Network Technology,ICT,2023,25.9,forecast_ARIMA
+Computer Network Technology,ICT,2024,25.5,forecast_ARIMA
+Computer Network Technology,ICT,2025,25.2,forecast_ARIMA
+Computer Network Technology,ICT,2026,25.1,forecast_ARIMA
+Computer Network Technology,ICT,2022,27.6,forecast_SARIMA
+Computer Network Technology,ICT,2023,29.0,forecast_SARIMA
+Computer Network Technology,ICT,2024,31.4,forecast_SARIMA
+Computer Network Technology,ICT,2025,29.2,forecast_SARIMA
+Computer Network Technology,ICT,2026,29.5,forecast_SARIMA
+Computer Network Technology,ICT,2022,26.2,forecast_LSTM
+Computer Network Technology,ICT,2023,26.3,forecast_LSTM
+Computer Network Technology,ICT,2024,26.4,forecast_LSTM
+Computer Network Technology,ICT,2025,26.3,forecast_LSTM
+Computer Network Technology,ICT,2026,26.3,forecast_LSTM
+Computer Network Technology,ICT,2022,31.9,forecast_RandomForest
+Computer Network Technology,ICT,2023,31.9,forecast_RandomForest
+Computer Network Technology,ICT,2024,31.9,forecast_RandomForest
+Computer Network Technology,ICT,2025,31.9,forecast_RandomForest
+Computer Network Technology,ICT,2026,31.9,forecast_RandomForest
+Computer Network Technology,ICT,2022,31.8,forecast_GradientBoosting
+Computer Network Technology,ICT,2023,31.8,forecast_GradientBoosting
+Computer Network Technology,ICT,2024,31.8,forecast_GradientBoosting
+Computer Network Technology,ICT,2025,31.8,forecast_GradientBoosting
+Computer Network Technology,ICT,2026,31.8,forecast_GradientBoosting
+Computer Network Technology,ICT,2022,34.20000076293945,forecast_XGBoost
+Computer Network Technology,ICT,2023,34.20000076293945,forecast_XGBoost
+Computer Network Technology,ICT,2024,34.20000076293945,forecast_XGBoost
+Computer Network Technology,ICT,2025,34.20000076293945,forecast_XGBoost
+Computer Network Technology,ICT,2026,34.20000076293945,forecast_XGBoost
+Computer Network Technology,ICT,2022,30.7,forecast_SVR
+Computer Network Technology,ICT,2023,27.5,forecast_SVR
+Computer Network Technology,ICT,2024,29.9,forecast_SVR
+Computer Network Technology,ICT,2025,28.8,forecast_SVR
+Computer Network Technology,ICT,2026,29.6,forecast_SVR
+Games and Animation,ICT,2001,15.0,historical
+Games and Animation,ICT,2002,17.0,historical
+Games and Animation,ICT,2003,18.0,historical
+Games and Animation,ICT,2004,14.0,historical
+Games and Animation,ICT,2005,18.0,historical
+Games and Animation,ICT,2006,15.0,historical
+Games and Animation,ICT,2007,18.0,historical
+Games and Animation,ICT,2008,19.0,historical
+Games and Animation,ICT,2009,19.0,historical
+Games and Animation,ICT,2010,21.0,historical
+Games and Animation,ICT,2011,20.0,historical
+Games and Animation,ICT,2012,19.0,historical
+Games and Animation,ICT,2013,21.0,historical
+Games and Animation,ICT,2014,20.0,historical
+Games and Animation,ICT,2015,20.0,historical
+Games and Animation,ICT,2016,18.0,historical
+Games and Animation,ICT,2017,20.0,historical
+Games and Animation,ICT,2018,15.0,historical
+Games and Animation,ICT,2019,15.0,historical
+Games and Animation,ICT,2020,12.0,historical
+Games and Animation,ICT,2021,13.0,historical
+Games and Animation,ICT,2022,6.2,forecast_Prophet
+Games and Animation,ICT,2023,3.9,forecast_Prophet
+Games and Animation,ICT,2024,5.3,forecast_Prophet
+Games and Animation,ICT,2025,3.1,forecast_Prophet
+Games and Animation,ICT,2026,0.9,forecast_Prophet
+Games and Animation,ICT,2022,10.6,forecast_ARIMA
+Games and Animation,ICT,2023,11.4,forecast_ARIMA
+Games and Animation,ICT,2024,11.4,forecast_ARIMA
+Games and Animation,ICT,2025,11.4,forecast_ARIMA
+Games and Animation,ICT,2026,11.4,forecast_ARIMA
+Games and Animation,ICT,2022,12.0,forecast_SARIMA
+Games and Animation,ICT,2023,12.6,forecast_SARIMA
+Games and Animation,ICT,2024,10.8,forecast_SARIMA
+Games and Animation,ICT,2025,12.6,forecast_SARIMA
+Games and Animation,ICT,2026,11.6,forecast_SARIMA
+Games and Animation,ICT,2022,13.1,forecast_LSTM
+Games and Animation,ICT,2023,12.9,forecast_LSTM
+Games and Animation,ICT,2024,12.9,forecast_LSTM
+Games and Animation,ICT,2025,12.8,forecast_LSTM
+Games and Animation,ICT,2026,12.8,forecast_LSTM
+Games and Animation,ICT,2022,18.0,forecast_RandomForest
+Games and Animation,ICT,2023,17.9,forecast_RandomForest
+Games and Animation,ICT,2024,19.1,forecast_RandomForest
+Games and Animation,ICT,2025,19.2,forecast_RandomForest
+Games and Animation,ICT,2026,19.4,forecast_RandomForest
+Games and Animation,ICT,2022,19.5,forecast_GradientBoosting
+Games and Animation,ICT,2023,18.8,forecast_GradientBoosting
+Games and Animation,ICT,2024,20.1,forecast_GradientBoosting
+Games and Animation,ICT,2025,18.9,forecast_GradientBoosting
+Games and Animation,ICT,2026,20.1,forecast_GradientBoosting
+Games and Animation,ICT,2022,20.0,forecast_XGBoost
+Games and Animation,ICT,2023,20.100000381469727,forecast_XGBoost
+Games and Animation,ICT,2024,18.700000762939453,forecast_XGBoost
+Games and Animation,ICT,2025,20.0,forecast_XGBoost
+Games and Animation,ICT,2026,18.700000762939453,forecast_XGBoost
+Games and Animation,ICT,2022,19.8,forecast_SVR
+Games and Animation,ICT,2023,18.5,forecast_SVR
+Games and Animation,ICT,2024,19.5,forecast_SVR
+Games and Animation,ICT,2025,17.9,forecast_SVR
+Games and Animation,ICT,2026,19.5,forecast_SVR
+Software Systems,ICT,2001,27.0,historical
+Software Systems,ICT,2002,29.0,historical
+Software Systems,ICT,2003,28.0,historical
+Software Systems,ICT,2004,25.0,historical
+Software Systems,ICT,2005,22.0,historical
+Software Systems,ICT,2006,24.0,historical
+Software Systems,ICT,2007,27.0,historical
+Software Systems,ICT,2008,27.0,historical
+Software Systems,ICT,2009,25.0,historical
+Software Systems,ICT,2010,24.0,historical
+Software Systems,ICT,2011,26.0,historical
+Software Systems,ICT,2012,27.0,historical
+Software Systems,ICT,2013,28.0,historical
+Software Systems,ICT,2014,26.0,historical
+Software Systems,ICT,2015,27.0,historical
+Software Systems,ICT,2016,28.0,historical
+Software Systems,ICT,2017,30.0,historical
+Software Systems,ICT,2018,32.0,historical
+Software Systems,ICT,2019,48.0,historical
+Software Systems,ICT,2020,43.0,historical
+Software Systems,ICT,2021,44.0,historical
+Software Systems,ICT,2022,57.8,forecast_Prophet
+Software Systems,ICT,2023,62.3,forecast_Prophet
+Software Systems,ICT,2024,63.8,forecast_Prophet
+Software Systems,ICT,2025,68.3,forecast_Prophet
+Software Systems,ICT,2026,72.8,forecast_Prophet
+Software Systems,ICT,2022,44.0,forecast_ARIMA
+Software Systems,ICT,2023,44.0,forecast_ARIMA
+Software Systems,ICT,2024,44.0,forecast_ARIMA
+Software Systems,ICT,2025,44.0,forecast_ARIMA
+Software Systems,ICT,2026,44.0,forecast_ARIMA
+Software Systems,ICT,2022,46.0,forecast_SARIMA
+Software Systems,ICT,2023,62.0,forecast_SARIMA
+Software Systems,ICT,2024,57.0,forecast_SARIMA
+Software Systems,ICT,2025,58.0,forecast_SARIMA
+Software Systems,ICT,2026,60.0,forecast_SARIMA
+Software Systems,ICT,2022,41.7,forecast_LSTM
+Software Systems,ICT,2023,41.7,forecast_LSTM
+Software Systems,ICT,2024,41.7,forecast_LSTM
+Software Systems,ICT,2025,41.7,forecast_LSTM
+Software Systems,ICT,2026,41.7,forecast_LSTM
+Software Systems,ICT,2022,28.2,forecast_RandomForest
+Software Systems,ICT,2023,28.1,forecast_RandomForest
+Software Systems,ICT,2024,28.2,forecast_RandomForest
+Software Systems,ICT,2025,28.2,forecast_RandomForest
+Software Systems,ICT,2026,28.2,forecast_RandomForest
+Software Systems,ICT,2022,30.0,forecast_GradientBoosting
+Software Systems,ICT,2023,30.0,forecast_GradientBoosting
+Software Systems,ICT,2024,30.0,forecast_GradientBoosting
+Software Systems,ICT,2025,30.0,forecast_GradientBoosting
+Software Systems,ICT,2026,30.0,forecast_GradientBoosting
+Software Systems,ICT,2022,29.5,forecast_XGBoost
+Software Systems,ICT,2023,29.5,forecast_XGBoost
+Software Systems,ICT,2024,29.5,forecast_XGBoost
+Software Systems,ICT,2025,29.5,forecast_XGBoost
+Software Systems,ICT,2026,29.5,forecast_XGBoost
+Software Systems,ICT,2022,33.2,forecast_SVR
+Software Systems,ICT,2023,32.0,forecast_SVR
+Software Systems,ICT,2024,33.0,forecast_SVR
+Software Systems,ICT,2025,35.0,forecast_SVR
+Software Systems,ICT,2026,38.6,forecast_SVR
+Materials and Process Technology,ET,2001,25.0,historical
+Materials and Process Technology,ET,2002,23.0,historical
+Materials and Process Technology,ET,2003,22.0,historical
+Materials and Process Technology,ET,2004,29.0,historical
+Materials and Process Technology,ET,2005,25.0,historical
+Materials and Process Technology,ET,2006,18.0,historical
+Materials and Process Technology,ET,2007,14.0,historical
+Materials and Process Technology,ET,2008,29.0,historical
+Materials and Process Technology,ET,2009,25.0,historical
+Materials and Process Technology,ET,2010,27.0,historical
+Materials and Process Technology,ET,2011,28.0,historical
+Materials and Process Technology,ET,2012,29.0,historical
+Materials and Process Technology,ET,2013,30.0,historical
+Materials and Process Technology,ET,2014,31.0,historical
+Materials and Process Technology,ET,2015,32.0,historical
+Materials and Process Technology,ET,2016,32.0,historical
+Materials and Process Technology,ET,2017,33.0,historical
+Materials and Process Technology,ET,2018,31.0,historical
+Materials and Process Technology,ET,2019,24.0,historical
+Materials and Process Technology,ET,2020,26.0,historical
+Materials and Process Technology,ET,2021,24.0,historical
+Materials and Process Technology,ET,2022,30.7,forecast_Prophet
+Materials and Process Technology,ET,2023,31.1,forecast_Prophet
+Materials and Process Technology,ET,2024,31.5,forecast_Prophet
+Materials and Process Technology,ET,2025,31.9,forecast_Prophet
+Materials and Process Technology,ET,2026,32.3,forecast_Prophet
+Materials and Process Technology,ET,2022,25.2,forecast_ARIMA
+Materials and Process Technology,ET,2023,25.2,forecast_ARIMA
+Materials and Process Technology,ET,2024,25.2,forecast_ARIMA
+Materials and Process Technology,ET,2025,25.2,forecast_ARIMA
+Materials and Process Technology,ET,2026,25.2,forecast_ARIMA
+Materials and Process Technology,ET,2022,22.8,forecast_SARIMA
+Materials and Process Technology,ET,2023,20.0,forecast_SARIMA
+Materials and Process Technology,ET,2024,23.4,forecast_SARIMA
+Materials and Process Technology,ET,2025,22.2,forecast_SARIMA
+Materials and Process Technology,ET,2026,21.0,forecast_SARIMA
+Materials and Process Technology,ET,2022,25.8,forecast_LSTM
+Materials and Process Technology,ET,2023,25.6,forecast_LSTM
+Materials and Process Technology,ET,2024,26.0,forecast_LSTM
+Materials and Process Technology,ET,2025,25.7,forecast_LSTM
+Materials and Process Technology,ET,2026,25.8,forecast_LSTM
+Materials and Process Technology,ET,2022,29.8,forecast_RandomForest
+Materials and Process Technology,ET,2023,30.9,forecast_RandomForest
+Materials and Process Technology,ET,2024,31.7,forecast_RandomForest
+Materials and Process Technology,ET,2025,31.8,forecast_RandomForest
+Materials and Process Technology,ET,2026,31.8,forecast_RandomForest
+Materials and Process Technology,ET,2022,28.5,forecast_GradientBoosting
+Materials and Process Technology,ET,2023,28.5,forecast_GradientBoosting
+Materials and Process Technology,ET,2024,28.5,forecast_GradientBoosting
+Materials and Process Technology,ET,2025,28.5,forecast_GradientBoosting
+Materials and Process Technology,ET,2026,28.5,forecast_GradientBoosting
+Materials and Process Technology,ET,2022,28.600000381469727,forecast_XGBoost
+Materials and Process Technology,ET,2023,28.600000381469727,forecast_XGBoost
+Materials and Process Technology,ET,2024,28.600000381469727,forecast_XGBoost
+Materials and Process Technology,ET,2025,28.600000381469727,forecast_XGBoost
+Materials and Process Technology,ET,2026,28.600000381469727,forecast_XGBoost
+Materials and Process Technology,ET,2022,30.7,forecast_SVR
+Materials and Process Technology,ET,2023,30.9,forecast_SVR
+Materials and Process Technology,ET,2024,33.0,forecast_SVR
+Materials and Process Technology,ET,2025,33.0,forecast_SVR
+Materials and Process Technology,ET,2026,33.1,forecast_SVR
+Industrial Automation and Robotics,ET,2001,16.0,historical
+Industrial Automation and Robotics,ET,2002,17.0,historical
+Industrial Automation and Robotics,ET,2003,20.0,historical
+Industrial Automation and Robotics,ET,2004,11.0,historical
+Industrial Automation and Robotics,ET,2005,16.0,historical
+Industrial Automation and Robotics,ET,2006,22.0,historical
+Industrial Automation and Robotics,ET,2007,25.0,historical
+Industrial Automation and Robotics,ET,2008,29.0,historical
+Industrial Automation and Robotics,ET,2009,28.0,historical
+Industrial Automation and Robotics,ET,2010,30.0,historical
+Industrial Automation and Robotics,ET,2011,31.0,historical
+Industrial Automation and Robotics,ET,2012,30.0,historical
+Industrial Automation and Robotics,ET,2013,29.0,historical
+Industrial Automation and Robotics,ET,2014,30.0,historical
+Industrial Automation and Robotics,ET,2015,30.0,historical
+Industrial Automation and Robotics,ET,2016,31.0,historical
+Industrial Automation and Robotics,ET,2017,31.0,historical
+Industrial Automation and Robotics,ET,2018,30.0,historical
+Industrial Automation and Robotics,ET,2019,38.0,historical
+Industrial Automation and Robotics,ET,2020,46.0,historical
+Industrial Automation and Robotics,ET,2021,47.0,historical
+Industrial Automation and Robotics,ET,2022,43.9,forecast_Prophet
+Industrial Automation and Robotics,ET,2023,45.3,forecast_Prophet
+Industrial Automation and Robotics,ET,2024,46.5,forecast_Prophet
+Industrial Automation and Robotics,ET,2025,47.8,forecast_Prophet
+Industrial Automation and Robotics,ET,2026,49.2,forecast_Prophet
+Industrial Automation and Robotics,ET,2022,47.0,forecast_ARIMA
+Industrial Automation and Robotics,ET,2023,47.0,forecast_ARIMA
+Industrial Automation and Robotics,ET,2024,47.0,forecast_ARIMA
+Industrial Automation and Robotics,ET,2025,47.0,forecast_ARIMA
+Industrial Automation and Robotics,ET,2026,47.0,forecast_ARIMA
+Industrial Automation and Robotics,ET,2022,46.0,forecast_SARIMA
+Industrial Automation and Robotics,ET,2023,54.0,forecast_SARIMA
+Industrial Automation and Robotics,ET,2024,62.0,forecast_SARIMA
+Industrial Automation and Robotics,ET,2025,63.0,forecast_SARIMA
+Industrial Automation and Robotics,ET,2026,62.0,forecast_SARIMA
+Industrial Automation and Robotics,ET,2022,45.1,forecast_LSTM
+Industrial Automation and Robotics,ET,2023,48.4,forecast_LSTM
+Industrial Automation and Robotics,ET,2024,52.8,forecast_LSTM
+Industrial Automation and Robotics,ET,2025,55.7,forecast_LSTM
+Industrial Automation and Robotics,ET,2026,57.1,forecast_LSTM
+Industrial Automation and Robotics,ET,2022,30.2,forecast_RandomForest
+Industrial Automation and Robotics,ET,2023,30.2,forecast_RandomForest
+Industrial Automation and Robotics,ET,2024,30.5,forecast_RandomForest
+Industrial Automation and Robotics,ET,2025,30.5,forecast_RandomForest
+Industrial Automation and Robotics,ET,2026,30.2,forecast_RandomForest
+Industrial Automation and Robotics,ET,2022,29.8,forecast_GradientBoosting
+Industrial Automation and Robotics,ET,2023,29.8,forecast_GradientBoosting
+Industrial Automation and Robotics,ET,2024,31.0,forecast_GradientBoosting
+Industrial Automation and Robotics,ET,2025,31.0,forecast_GradientBoosting
+Industrial Automation and Robotics,ET,2026,29.8,forecast_GradientBoosting
+Industrial Automation and Robotics,ET,2022,29.899999618530273,forecast_XGBoost
+Industrial Automation and Robotics,ET,2023,30.0,forecast_XGBoost
+Industrial Automation and Robotics,ET,2024,31.0,forecast_XGBoost
+Industrial Automation and Robotics,ET,2025,31.0,forecast_XGBoost
+Industrial Automation and Robotics,ET,2026,31.0,forecast_XGBoost
+Industrial Automation and Robotics,ET,2022,61.7,forecast_SVR
+Industrial Automation and Robotics,ET,2023,122.1,forecast_SVR
+Industrial Automation and Robotics,ET,2024,1193.8,forecast_SVR
+Industrial Automation and Robotics,ET,2025,1717637.3,forecast_SVR
+Industrial Automation and Robotics,ET,2026,5352100933633696.0,forecast_SVR
+Sustainable Technology Pathway,ET,2001,10.0,historical
+Sustainable Technology Pathway,ET,2002,11.0,historical
+Sustainable Technology Pathway,ET,2003,8.0,historical
+Sustainable Technology Pathway,ET,2004,10.0,historical
+Sustainable Technology Pathway,ET,2005,9.0,historical
+Sustainable Technology Pathway,ET,2006,10.0,historical
+Sustainable Technology Pathway,ET,2007,12.0,historical
+Sustainable Technology Pathway,ET,2008,11.0,historical
+Sustainable Technology Pathway,ET,2009,9.0,historical
+Sustainable Technology Pathway,ET,2010,10.0,historical
+Sustainable Technology Pathway,ET,2011,10.0,historical
+Sustainable Technology Pathway,ET,2012,8.0,historical
+Sustainable Technology Pathway,ET,2013,9.0,historical
+Sustainable Technology Pathway,ET,2014,8.0,historical
+Sustainable Technology Pathway,ET,2015,7.0,historical
+Sustainable Technology Pathway,ET,2016,8.0,historical
+Sustainable Technology Pathway,ET,2017,6.0,historical
+Sustainable Technology Pathway,ET,2018,8.0,historical
+Sustainable Technology Pathway,ET,2019,25.0,historical
+Sustainable Technology Pathway,ET,2020,28.0,historical
+Sustainable Technology Pathway,ET,2021,27.0,historical
+Sustainable Technology Pathway,ET,2022,19.2,forecast_Prophet
+Sustainable Technology Pathway,ET,2023,20.0,forecast_Prophet
+Sustainable Technology Pathway,ET,2024,19.5,forecast_Prophet
+Sustainable Technology Pathway,ET,2025,20.3,forecast_Prophet
+Sustainable Technology Pathway,ET,2026,21.1,forecast_Prophet
+Sustainable Technology Pathway,ET,2022,27.0,forecast_ARIMA
+Sustainable Technology Pathway,ET,2023,27.0,forecast_ARIMA
+Sustainable Technology Pathway,ET,2024,27.0,forecast_ARIMA
+Sustainable Technology Pathway,ET,2025,27.0,forecast_ARIMA
+Sustainable Technology Pathway,ET,2026,27.0,forecast_ARIMA
+Sustainable Technology Pathway,ET,2022,29.0,forecast_SARIMA
+Sustainable Technology Pathway,ET,2023,46.0,forecast_SARIMA
+Sustainable Technology Pathway,ET,2024,49.0,forecast_SARIMA
+Sustainable Technology Pathway,ET,2025,48.0,forecast_SARIMA
+Sustainable Technology Pathway,ET,2026,50.0,forecast_SARIMA
+Sustainable Technology Pathway,ET,2022,22.1,forecast_LSTM
+Sustainable Technology Pathway,ET,2023,22.1,forecast_LSTM
+Sustainable Technology Pathway,ET,2024,22.1,forecast_LSTM
+Sustainable Technology Pathway,ET,2025,22.1,forecast_LSTM
+Sustainable Technology Pathway,ET,2026,22.1,forecast_LSTM
+Sustainable Technology Pathway,ET,2022,7.2,forecast_RandomForest
+Sustainable Technology Pathway,ET,2023,7.3,forecast_RandomForest
+Sustainable Technology Pathway,ET,2024,6.9,forecast_RandomForest
+Sustainable Technology Pathway,ET,2025,6.9,forecast_RandomForest
+Sustainable Technology Pathway,ET,2026,6.9,forecast_RandomForest
+Sustainable Technology Pathway,ET,2022,7.0,forecast_GradientBoosting
+Sustainable Technology Pathway,ET,2023,7.1,forecast_GradientBoosting
+Sustainable Technology Pathway,ET,2024,6.4,forecast_GradientBoosting
+Sustainable Technology Pathway,ET,2025,6.4,forecast_GradientBoosting
+Sustainable Technology Pathway,ET,2026,6.4,forecast_GradientBoosting
+Sustainable Technology Pathway,ET,2022,7.800000190734863,forecast_XGBoost
+Sustainable Technology Pathway,ET,2023,8.5,forecast_XGBoost
+Sustainable Technology Pathway,ET,2024,7.800000190734863,forecast_XGBoost
+Sustainable Technology Pathway,ET,2025,8.5,forecast_XGBoost
+Sustainable Technology Pathway,ET,2026,7.800000190734863,forecast_XGBoost
+Sustainable Technology Pathway,ET,2022,8.1,forecast_SVR
+Sustainable Technology Pathway,ET,2023,8.2,forecast_SVR
+Sustainable Technology Pathway,ET,2024,5.5,forecast_SVR
+Sustainable Technology Pathway,ET,2025,6.0,forecast_SVR
+Sustainable Technology Pathway,ET,2026,5.9,forecast_SVR
+Cyber Security,CS,2001,10.0,historical
+Cyber Security,CS,2002,13.0,historical
+Cyber Security,CS,2003,8.0,historical
+Cyber Security,CS,2004,12.0,historical
+Cyber Security,CS,2005,8.0,historical
+Cyber Security,CS,2006,9.0,historical
+Cyber Security,CS,2007,11.0,historical
+Cyber Security,CS,2008,7.0,historical
+Cyber Security,CS,2009,8.0,historical
+Cyber Security,CS,2010,6.0,historical
+Cyber Security,CS,2011,10.0,historical
+Cyber Security,CS,2012,9.0,historical
+Cyber Security,CS,2013,8.0,historical
+Cyber Security,CS,2014,7.0,historical
+Cyber Security,CS,2015,10.0,historical
+Cyber Security,CS,2016,9.0,historical
+Cyber Security,CS,2017,8.0,historical
+Cyber Security,CS,2018,7.0,historical
+Cyber Security,CS,2019,7.0,historical
+Cyber Security,CS,2020,8.0,historical
+Cyber Security,CS,2021,7.0,historical
+Cyber Security,CS,2022,7.0,forecast_Prophet
+Cyber Security,CS,2023,6.9,forecast_Prophet
+Cyber Security,CS,2024,6.6,forecast_Prophet
+Cyber Security,CS,2025,6.5,forecast_Prophet
+Cyber Security,CS,2026,6.4,forecast_Prophet
+Cyber Security,CS,2022,7.0,forecast_ARIMA
+Cyber Security,CS,2023,7.0,forecast_ARIMA
+Cyber Security,CS,2024,7.0,forecast_ARIMA
+Cyber Security,CS,2025,7.0,forecast_ARIMA
+Cyber Security,CS,2026,7.0,forecast_ARIMA
+Cyber Security,CS,2022,6.4,forecast_SARIMA
+Cyber Security,CS,2023,7.5,forecast_SARIMA
+Cyber Security,CS,2024,7.3,forecast_SARIMA
+Cyber Security,CS,2025,5.8,forecast_SARIMA
+Cyber Security,CS,2026,5.7,forecast_SARIMA
+Cyber Security,CS,2022,7.0,forecast_LSTM
+Cyber Security,CS,2023,6.9,forecast_LSTM
+Cyber Security,CS,2024,6.9,forecast_LSTM
+Cyber Security,CS,2025,6.9,forecast_LSTM
+Cyber Security,CS,2026,6.9,forecast_LSTM
+Cyber Security,CS,2022,8.9,forecast_RandomForest
+Cyber Security,CS,2023,8.6,forecast_RandomForest
+Cyber Security,CS,2024,8.4,forecast_RandomForest
+Cyber Security,CS,2025,8.4,forecast_RandomForest
+Cyber Security,CS,2026,8.7,forecast_RandomForest
+Cyber Security,CS,2022,9.2,forecast_GradientBoosting
+Cyber Security,CS,2023,8.8,forecast_GradientBoosting
+Cyber Security,CS,2024,8.0,forecast_GradientBoosting
+Cyber Security,CS,2025,8.0,forecast_GradientBoosting
+Cyber Security,CS,2026,9.4,forecast_GradientBoosting
+Cyber Security,CS,2022,9.199999809265137,forecast_XGBoost
+Cyber Security,CS,2023,8.800000190734863,forecast_XGBoost
+Cyber Security,CS,2024,8.199999809265137,forecast_XGBoost
+Cyber Security,CS,2025,9.199999809265137,forecast_XGBoost
+Cyber Security,CS,2026,9.199999809265137,forecast_XGBoost
+Cyber Security,CS,2022,8.2,forecast_SVR
+Cyber Security,CS,2023,8.3,forecast_SVR
+Cyber Security,CS,2024,8.2,forecast_SVR
+Cyber Security,CS,2025,8.2,forecast_SVR
+Cyber Security,CS,2026,8.2,forecast_SVR
+Data Science,CS,2001,7.0,historical
+Data Science,CS,2002,5.0,historical
+Data Science,CS,2003,10.0,historical
+Data Science,CS,2004,11.0,historical
+Data Science,CS,2005,8.0,historical
+Data Science,CS,2006,7.0,historical
+Data Science,CS,2007,10.0,historical
+Data Science,CS,2008,13.0,historical
+Data Science,CS,2009,14.0,historical
+Data Science,CS,2010,14.0,historical
+Data Science,CS,2011,15.0,historical
+Data Science,CS,2012,11.0,historical
+Data Science,CS,2013,12.0,historical
+Data Science,CS,2014,13.0,historical
+Data Science,CS,2015,14.0,historical
+Data Science,CS,2016,11.0,historical
+Data Science,CS,2017,15.0,historical
+Data Science,CS,2018,24.0,historical
+Data Science,CS,2019,14.0,historical
+Data Science,CS,2020,14.0,historical
+Data Science,CS,2021,18.0,historical
+Data Science,CS,2022,15.9,forecast_Prophet
+Data Science,CS,2023,15.5,forecast_Prophet
+Data Science,CS,2024,18.4,forecast_Prophet
+Data Science,CS,2025,18.2,forecast_Prophet
+Data Science,CS,2026,17.9,forecast_Prophet
+Data Science,CS,2022,16.5,forecast_ARIMA
+Data Science,CS,2023,14.9,forecast_ARIMA
+Data Science,CS,2024,16.3,forecast_ARIMA
+Data Science,CS,2025,16.7,forecast_ARIMA
+Data Science,CS,2026,15.8,forecast_ARIMA
+Data Science,CS,2022,22.5,forecast_SARIMA
+Data Science,CS,2023,16.9,forecast_SARIMA
+Data Science,CS,2024,15.7,forecast_SARIMA
+Data Science,CS,2025,19.7,forecast_SARIMA
+Data Science,CS,2026,26.0,forecast_SARIMA
+Data Science,CS,2022,17.3,forecast_LSTM
+Data Science,CS,2023,17.3,forecast_LSTM
+Data Science,CS,2024,17.3,forecast_LSTM
+Data Science,CS,2025,17.3,forecast_LSTM
+Data Science,CS,2026,17.3,forecast_LSTM
+Data Science,CS,2022,12.6,forecast_RandomForest
+Data Science,CS,2023,12.6,forecast_RandomForest
+Data Science,CS,2024,12.6,forecast_RandomForest
+Data Science,CS,2025,12.6,forecast_RandomForest
+Data Science,CS,2026,12.6,forecast_RandomForest
+Data Science,CS,2022,11.5,forecast_GradientBoosting
+Data Science,CS,2023,12.3,forecast_GradientBoosting
+Data Science,CS,2024,12.1,forecast_GradientBoosting
+Data Science,CS,2025,12.1,forecast_GradientBoosting
+Data Science,CS,2026,12.1,forecast_GradientBoosting
+Data Science,CS,2022,11.699999809265137,forecast_XGBoost
+Data Science,CS,2023,11.899999618530273,forecast_XGBoost
+Data Science,CS,2024,12.5,forecast_XGBoost
+Data Science,CS,2025,12.5,forecast_XGBoost
+Data Science,CS,2026,12.5,forecast_XGBoost
+Data Science,CS,2022,14.1,forecast_SVR
+Data Science,CS,2023,13.6,forecast_SVR
+Data Science,CS,2024,13.6,forecast_SVR
+Data Science,CS,2025,13.7,forecast_SVR
+Data Science,CS,2026,13.9,forecast_SVR
+Artificial Intelligence,CS,2001,8.0,historical
+Artificial Intelligence,CS,2002,5.0,historical
+Artificial Intelligence,CS,2003,7.0,historical
+Artificial Intelligence,CS,2004,6.0,historical
+Artificial Intelligence,CS,2005,10.0,historical
+Artificial Intelligence,CS,2006,11.0,historical
+Artificial Intelligence,CS,2007,13.0,historical
+Artificial Intelligence,CS,2008,14.0,historical
+Artificial Intelligence,CS,2009,16.0,historical
+Artificial Intelligence,CS,2010,13.0,historical
+Artificial Intelligence,CS,2011,9.0,historical
+Artificial Intelligence,CS,2012,15.0,historical
+Artificial Intelligence,CS,2013,13.0,historical
+Artificial Intelligence,CS,2014,14.0,historical
+Artificial Intelligence,CS,2015,16.0,historical
+Artificial Intelligence,CS,2016,15.0,historical
+Artificial Intelligence,CS,2017,13.0,historical
+Artificial Intelligence,CS,2018,13.0,historical
+Artificial Intelligence,CS,2019,13.0,historical
+Artificial Intelligence,CS,2020,13.0,historical
+Artificial Intelligence,CS,2021,13.0,historical
+Artificial Intelligence,CS,2022,12.1,forecast_Prophet
+Artificial Intelligence,CS,2023,11.8,forecast_Prophet
+Artificial Intelligence,CS,2024,12.2,forecast_Prophet
+Artificial Intelligence,CS,2025,11.9,forecast_Prophet
+Artificial Intelligence,CS,2026,11.6,forecast_Prophet
+Artificial Intelligence,CS,2022,13.0,forecast_ARIMA
+Artificial Intelligence,CS,2023,13.0,forecast_ARIMA
+Artificial Intelligence,CS,2024,13.0,forecast_ARIMA
+Artificial Intelligence,CS,2025,13.0,forecast_ARIMA
+Artificial Intelligence,CS,2026,13.0,forecast_ARIMA
+Artificial Intelligence,CS,2022,12.2,forecast_SARIMA
+Artificial Intelligence,CS,2023,12.6,forecast_SARIMA
+Artificial Intelligence,CS,2024,13.6,forecast_SARIMA
+Artificial Intelligence,CS,2025,14.0,forecast_SARIMA
+Artificial Intelligence,CS,2026,13.2,forecast_SARIMA
+Artificial Intelligence,CS,2022,13.1,forecast_LSTM
+Artificial Intelligence,CS,2023,13.1,forecast_LSTM
+Artificial Intelligence,CS,2024,13.1,forecast_LSTM
+Artificial Intelligence,CS,2025,13.1,forecast_LSTM
+Artificial Intelligence,CS,2026,13.1,forecast_LSTM
+Artificial Intelligence,CS,2022,14.5,forecast_RandomForest
+Artificial Intelligence,CS,2023,14.9,forecast_RandomForest
+Artificial Intelligence,CS,2024,14.4,forecast_RandomForest
+Artificial Intelligence,CS,2025,14.7,forecast_RandomForest
+Artificial Intelligence,CS,2026,14.6,forecast_RandomForest
+Artificial Intelligence,CS,2022,15.7,forecast_GradientBoosting
+Artificial Intelligence,CS,2023,15.6,forecast_GradientBoosting
+Artificial Intelligence,CS,2024,13.0,forecast_GradientBoosting
+Artificial Intelligence,CS,2025,10.4,forecast_GradientBoosting
+Artificial Intelligence,CS,2026,15.7,forecast_GradientBoosting
+Artificial Intelligence,CS,2022,13.800000190734863,forecast_XGBoost
+Artificial Intelligence,CS,2023,13.800000190734863,forecast_XGBoost
+Artificial Intelligence,CS,2024,13.800000190734863,forecast_XGBoost
+Artificial Intelligence,CS,2025,13.800000190734863,forecast_XGBoost
+Artificial Intelligence,CS,2026,13.800000190734863,forecast_XGBoost
+Artificial Intelligence,CS,2022,15.7,forecast_SVR
+Artificial Intelligence,CS,2023,14.4,forecast_SVR
+Artificial Intelligence,CS,2024,13.3,forecast_SVR
+Artificial Intelligence,CS,2025,14.1,forecast_SVR
+Artificial Intelligence,CS,2026,13.7,forecast_SVR
+Standard Pathway,CS,2001,15.0,historical
+Standard Pathway,CS,2002,17.0,historical
+Standard Pathway,CS,2003,16.0,historical
+Standard Pathway,CS,2004,11.0,historical
+Standard Pathway,CS,2005,17.0,historical
+Standard Pathway,CS,2006,13.0,historical
+Standard Pathway,CS,2007,17.0,historical
+Standard Pathway,CS,2008,18.0,historical
+Standard Pathway,CS,2009,12.0,historical
+Standard Pathway,CS,2010,17.0,historical
+Standard Pathway,CS,2011,15.0,historical
+Standard Pathway,CS,2012,15.0,historical
+Standard Pathway,CS,2013,17.0,historical
+Standard Pathway,CS,2014,17.0,historical
+Standard Pathway,CS,2015,10.0,historical
+Standard Pathway,CS,2016,15.0,historical
+Standard Pathway,CS,2017,14.0,historical
+Standard Pathway,CS,2018,9.0,historical
+Standard Pathway,CS,2019,13.0,historical
+Standard Pathway,CS,2020,11.0,historical
+Standard Pathway,CS,2021,12.0,historical
+Standard Pathway,CS,2022,9.8,forecast_Prophet
+Standard Pathway,CS,2023,9.2,forecast_Prophet
+Standard Pathway,CS,2024,8.7,forecast_Prophet
+Standard Pathway,CS,2025,8.1,forecast_Prophet
+Standard Pathway,CS,2026,7.6,forecast_Prophet
+Standard Pathway,CS,2022,12.2,forecast_ARIMA
+Standard Pathway,CS,2023,11.4,forecast_ARIMA
+Standard Pathway,CS,2024,12.1,forecast_ARIMA
+Standard Pathway,CS,2025,11.9,forecast_ARIMA
+Standard Pathway,CS,2026,11.7,forecast_ARIMA
+Standard Pathway,CS,2022,12.0,forecast_SARIMA
+Standard Pathway,CS,2023,11.6,forecast_SARIMA
+Standard Pathway,CS,2024,11.4,forecast_SARIMA
+Standard Pathway,CS,2025,11.5,forecast_SARIMA
+Standard Pathway,CS,2026,11.2,forecast_SARIMA
+Standard Pathway,CS,2022,11.3,forecast_LSTM
+Standard Pathway,CS,2023,11.3,forecast_LSTM
+Standard Pathway,CS,2024,11.3,forecast_LSTM
+Standard Pathway,CS,2025,11.3,forecast_LSTM
+Standard Pathway,CS,2026,11.3,forecast_LSTM
+Standard Pathway,CS,2022,14.4,forecast_RandomForest
+Standard Pathway,CS,2023,14.5,forecast_RandomForest
+Standard Pathway,CS,2024,15.6,forecast_RandomForest
+Standard Pathway,CS,2025,15.7,forecast_RandomForest
+Standard Pathway,CS,2026,15.4,forecast_RandomForest
+Standard Pathway,CS,2022,14.4,forecast_GradientBoosting
+Standard Pathway,CS,2023,14.8,forecast_GradientBoosting
+Standard Pathway,CS,2024,16.1,forecast_GradientBoosting
+Standard Pathway,CS,2025,16.0,forecast_GradientBoosting
+Standard Pathway,CS,2026,16.0,forecast_GradientBoosting
+Standard Pathway,CS,2022,14.600000381469727,forecast_XGBoost
+Standard Pathway,CS,2023,14.899999618530273,forecast_XGBoost
+Standard Pathway,CS,2024,15.300000190734863,forecast_XGBoost
+Standard Pathway,CS,2025,15.300000190734863,forecast_XGBoost
+Standard Pathway,CS,2026,15.300000190734863,forecast_XGBoost
+Standard Pathway,CS,2022,13.9,forecast_SVR
+Standard Pathway,CS,2023,14.8,forecast_SVR
+Standard Pathway,CS,2024,13.8,forecast_SVR
+Standard Pathway,CS,2025,12.5,forecast_SVR
+Standard Pathway,CS,2026,13.3,forecast_SVR
