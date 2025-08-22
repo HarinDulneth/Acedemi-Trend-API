@@ -12,7 +12,7 @@ from course.course_handlers import (
 )
 
 # Import pathway prediction handlers
-from path.pathway_handlers import (
+from pathway_enrollment_prediction.pathway_handlers import (
     run_pathway_forecasting,
     load_existing_forecasts,
     load_filtered_pathway_forecasts,
