@@ -264,6 +264,5 @@ def job_salary_growth_plot():
 
 
 if __name__ == '__main__':
-    print(app.url_map)  # <-- Move this line here
-    # Explicitly set the port to 5000 (Flask's default)
+    print(app.url_map) 
     app.run(host='0.0.0.0', port=5050, debug=True)
