@@ -1,0 +1,80 @@
+# Model Evaluation Report - Enrollments
+==================================================
+
+## Summary
+- Target Variable: enrollments
+- Models Evaluated: 6
+- Evaluation Date: 2025-06-09 22:55:34
+
+## Model Performance Summary
+
+### Random Forest
+- RMSE: 0.0727
+- MAE: 0.0017
+- R²: 1.0000
+- MAPE: 0.00%
+- Directional Accuracy: 98.94%
+- Cross-Validation RMSE: 31.9117 (±42.6937)
+- Top 5 Features:
+  1. enrollments_squared: 0.5052
+  2. enrollments_log: 0.4905
+  3. enrollments_lag1: 0.0027
+  4. rank: 0.0005
+  5. infrastructure_and_facility_ratings: 0.0004
+
+### Xgboost
+- RMSE: 0.0325
+- MAE: 0.0169
+- R²: 1.0000
+- MAPE: 0.01%
+- Directional Accuracy: 64.32%
+- Cross-Validation RMSE: 31.0626 (±41.6691)
+- Top 5 Features:
+  1. enrollments_squared: 0.9899
+  2. enrollments_lag1: 0.0042
+  3. rank: 0.0038
+  4. job_to_international_ratio: 0.0005
+  5. cutoff_mark_rolling_mean_5yr: 0.0004
+
+### Lstm
+- RMSE: 188.0399
+- MAE: 149.6483
+- R²: -0.4432
+- MAPE: 104.03%
+- Directional Accuracy: 52.08%
+
+### Prophet
+- RMSE: 0.5281
+- MAE: 0.1422
+- R²: 1.0000
+- MAPE: 0.12%
+- Directional Accuracy: 98.97%
+
+### Arima
+- RMSE: 5.0201
+- MAE: 0.3889
+- R²: 0.9974
+- MAPE: 0.39%
+- Directional Accuracy: 93.79%
+
+### Sarima
+- RMSE: 263.4464
+- MAE: 47.3873
+- R²: -6.0580
+- MAPE: 35.57%
+- Directional Accuracy: 92.45%
+
+## Model Recommendation
+**Recommended Model: Xgboost**
+- RMSE: 0.0325
+- R²: 1.0000
+
+**Rationale:**
+- Lowest RMSE among all evaluated models
+- Good balance between accuracy and generalization
+
+## Notes
+- All metrics calculated on the full dataset or appropriate test splits
+- Cross-validation used for traditional ML models where applicable
+- Time series validation used for sequential models
+- Feature importance shown for tree-based models only

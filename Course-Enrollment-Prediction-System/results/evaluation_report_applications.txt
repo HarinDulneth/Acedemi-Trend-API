@@ -1,0 +1,80 @@
+# Model Evaluation Report - Applications
+==================================================
+
+## Summary
+- Target Variable: applications
+- Models Evaluated: 6
+- Evaluation Date: 2025-06-09 22:51:27
+
+## Model Performance Summary
+
+### Random Forest
+- RMSE: 1.1257
+- MAE: 0.1741
+- R²: 0.9998
+- MAPE: 0.12%
+- Directional Accuracy: 99.48%
+- Cross-Validation RMSE: 20.4533 (±18.9958)
+- Top 5 Features:
+  1. market_share: 0.5207
+  2. app_to_rank_ratio: 0.4453
+  3. excess_demand: 0.0207
+  4. rank: 0.0039
+  5. year.1: 0.0027
+
+### Xgboost
+- RMSE: 2.2508
+- MAE: 1.0547
+- R²: 0.9993
+- MAPE: 6.67%
+- Directional Accuracy: 98.28%
+- Cross-Validation RMSE: 17.6096 (±14.9562)
+- Top 5 Features:
+  1. app_to_rank_ratio: 0.4952
+  2. market_share: 0.3672
+  3. excess_demand: 0.0363
+  4. year.1: 0.0171
+  5. enrollments_lag1: 0.0159
+
+### Lstm
+- RMSE: 287.2029
+- MAE: 271.6849
+- R²: -13.9749
+- MAPE: 4985.50%
+- Directional Accuracy: 49.98%
+
+### Prophet
+- RMSE: 79.1840
+- MAE: 36.6827
+- R²: 0.1160
+- MAPE: 396.74%
+- Directional Accuracy: 53.73%
+
+### Arima
+- RMSE: 78.5896
+- MAE: 34.8349
+- R²: 0.1292
+- MAPE: 355.29%
+- Directional Accuracy: 32.89%
+
+### Sarima
+- RMSE: 79.1807
+- MAE: 34.6097
+- R²: 0.1161
+- MAPE: 337.34%
+- Directional Accuracy: 35.68%
+
+## Model Recommendation
+**Recommended Model: Random Forest**
+- RMSE: 1.1257
+- R²: 0.9998
+
+**Rationale:**
+- Lowest RMSE among all evaluated models
+- Good balance between accuracy and generalization
+
+## Notes
+- All metrics calculated on the full dataset or appropriate test splits
+- Cross-validation used for traditional ML models where applicable
+- Time series validation used for sequential models
+- Feature importance shown for tree-based models only

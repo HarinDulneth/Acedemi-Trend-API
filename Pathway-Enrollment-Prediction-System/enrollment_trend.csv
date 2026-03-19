@@ -1,0 +1,211 @@
+year,degree_program,pathway,enrollment_total
+2001,ICT,Computer Network Technology,19
+2001,ICT,Games and Animation,15
+2001,ICT,Software Systems,27
+2001,ET,Materials and Process Technology,25
+2001,ET,Industrial Automation and Robotics,16
+2001,ET,Sustainable Technology Pathway,10
+2001,CS,Cyber Security,10
+2001,CS,Data Science,7
+2001,CS,Artificial Intelligence,8
+2001,CS,Standard Pathway,15
+2002,ICT,Computer Network Technology,18
+2002,ICT,Games and Animation,17
+2002,ICT,Software Systems,29
+2002,ET,Materials and Process Technology,23
+2002,ET,Industrial Automation and Robotics,17
+2002,ET,Sustainable Technology Pathway,11
+2002,CS,Cyber Security,13
+2002,CS,Data Science,5
+2002,CS,Artificial Intelligence,5
+2002,CS,Standard Pathway,17
+2003,ICT,Computer Network Technology,18
+2003,ICT,Games and Animation,18
+2003,ICT,Software Systems,28
+2003,ET,Materials and Process Technology,22
+2003,ET,Industrial Automation and Robotics,20
+2003,ET,Sustainable Technology Pathway,8
+2003,CS,Cyber Security,8
+2003,CS,Data Science,10
+2003,CS,Artificial Intelligence,7
+2003,CS,Standard Pathway,16
+2004,ICT,Computer Network Technology,20
+2004,ICT,Games and Animation,14
+2004,ICT,Software Systems,25
+2004,ET,Materials and Process Technology,29
+2004,ET,Industrial Automation and Robotics,11
+2004,ET,Sustainable Technology Pathway,10
+2004,CS,Cyber Security,12
+2004,CS,Data Science,11
+2004,CS,Artificial Intelligence,6
+2004,CS,Standard Pathway,11
+2005,ICT,Computer Network Technology,19
+2005,ICT,Games and Animation,18
+2005,ICT,Software Systems,22
+2005,ET,Materials and Process Technology,25
+2005,ET,Industrial Automation and Robotics,16
+2005,ET,Sustainable Technology Pathway,9
+2005,CS,Cyber Security,8
+2005,CS,Data Science,8
+2005,CS,Artificial Intelligence,10
+2005,CS,Standard Pathway,17
+2006,ICT,Computer Network Technology,21
+2006,ICT,Games and Animation,15
+2006,ICT,Software Systems,24
+2006,ET,Materials and Process Technology,18
+2006,ET,Industrial Automation and Robotics,22
+2006,ET,Sustainable Technology Pathway,10
+2006,CS,Cyber Security,9
+2006,CS,Data Science,7
+2006,CS,Artificial Intelligence,11
+2006,CS,Standard Pathway,13
+2007,ICT,Computer Network Technology,24
+2007,ICT,Games and Animation,18
+2007,ICT,Software Systems,27
+2007,ET,Materials and Process Technology,14
+2007,ET,Industrial Automation and Robotics,25
+2007,ET,Sustainable Technology Pathway,12
+2007,CS,Cyber Security,11
+2007,CS,Data Science,10
+2007,CS,Artificial Intelligence,13
+2007,CS,Standard Pathway,17
+2008,ICT,Computer Network Technology,23
+2008,ICT,Games and Animation,19
+2008,ICT,Software Systems,27
+2008,ET,Materials and Process Technology,29
+2008,ET,Industrial Automation and Robotics,29
+2008,ET,Sustainable Technology Pathway,11
+2008,CS,Cyber Security,7
+2008,CS,Data Science,13
+2008,CS,Artificial Intelligence,14
+2008,CS,Standard Pathway,18
+2009,ICT,Computer Network Technology,24
+2009,ICT,Games and Animation,19
+2009,ICT,Software Systems,25
+2009,ET,Materials and Process Technology,25
+2009,ET,Industrial Automation and Robotics,28
+2009,ET,Sustainable Technology Pathway,9
+2009,CS,Cyber Security,8
+2009,CS,Data Science,14
+2009,CS,Artificial Intelligence,16
+2009,CS,Standard Pathway,12
+2010,ICT,Computer Network Technology,25
+2010,ICT,Games and Animation,21
+2010,ICT,Software Systems,24
+2010,ET,Materials and Process Technology,27
+2010,ET,Industrial Automation and Robotics,30
+2010,ET,Sustainable Technology Pathway,10
+2010,CS,Cyber Security,6
+2010,CS,Data Science,14
+2010,CS,Artificial Intelligence,13
+2010,CS,Standard Pathway,17
+2011,ICT,Computer Network Technology,25
+2011,ICT,Games and Animation,20
+2011,ICT,Software Systems,26
+2011,ET,Materials and Process Technology,28
+2011,ET,Industrial Automation and Robotics,31
+2011,ET,Sustainable Technology Pathway,10
+2011,CS,Cyber Security,10
+2011,CS,Data Science,15
+2011,CS,Artificial Intelligence,9
+2011,CS,Standard Pathway,15
+2012,ICT,Computer Network Technology,27
+2012,ICT,Games and Animation,19
+2012,ICT,Software Systems,27
+2012,ET,Materials and Process Technology,29
+2012,ET,Industrial Automation and Robotics,30
+2012,ET,Sustainable Technology Pathway,8
+2012,CS,Cyber Security,9
+2012,CS,Data Science,11
+2012,CS,Artificial Intelligence,15
+2012,CS,Standard Pathway,15
+2013,ICT,Computer Network Technology,26
+2013,ICT,Games and Animation,21
+2013,ICT,Software Systems,28
+2013,ET,Materials and Process Technology,30
+2013,ET,Industrial Automation and Robotics,29
+2013,ET,Sustainable Technology Pathway,9
+2013,CS,Cyber Security,8
+2013,CS,Data Science,12
+2013,CS,Artificial Intelligence,13
+2013,CS,Standard Pathway,17
+2014,ICT,Computer Network Technology,27
+2014,ICT,Games and Animation,20
+2014,ICT,Software Systems,26
+2014,ET,Materials and Process Technology,31
+2014,ET,Industrial Automation and Robotics,30
+2014,ET,Sustainable Technology Pathway,8
+2014,CS,Cyber Security,7
+2014,CS,Data Science,13
+2014,CS,Artificial Intelligence,14
+2014,CS,Standard Pathway,17
+2015,ICT,Computer Network Technology,25
+2015,ICT,Games and Animation,20
+2015,ICT,Software Systems,27
+2015,ET,Materials and Process Technology,32
+2015,ET,Industrial Automation and Robotics,30
+2015,ET,Sustainable Technology Pathway,7
+2015,CS,Cyber Security,10
+2015,CS,Data Science,14
+2015,CS,Artificial Intelligence,16
+2015,CS,Standard Pathway,10
+2016,ICT,Computer Network Technology,36
+2016,ICT,Games and Animation,18
+2016,ICT,Software Systems,28
+2016,ET,Materials and Process Technology,32
+2016,ET,Industrial Automation and Robotics,31
+2016,ET,Sustainable Technology Pathway,8
+2016,CS,Cyber Security,9
+2016,CS,Data Science,11
+2016,CS,Artificial Intelligence,15
+2016,CS,Standard Pathway,15
+2017,ICT,Computer Network Technology,25
+2017,ICT,Games and Animation,20
+2017,ICT,Software Systems,30
+2017,ET,Materials and Process Technology,33
+2017,ET,Industrial Automation and Robotics,31
+2017,ET,Sustainable Technology Pathway,6
+2017,CS,Cyber Security,8
+2017,CS,Data Science,15
+2017,CS,Artificial Intelligence,13
+2017,CS,Standard Pathway,14
+2018,ICT,Computer Network Technology,23
+2018,ICT,Games and Animation,15
+2018,ICT,Software Systems,32
+2018,ET,Materials and Process Technology,31
+2018,ET,Industrial Automation and Robotics,30
+2018,ET,Sustainable Technology Pathway,8
+2018,CS,Cyber Security,7
+2018,CS,Data Science,24
+2018,CS,Artificial Intelligence,13
+2018,CS,Standard Pathway,9
+2019,ICT,Computer Network Technology,29
+2019,ICT,Games and Animation,15
+2019,ICT,Software Systems,48
+2019,ET,Materials and Process Technology,24
+2019,ET,Industrial Automation and Robotics,38
+2019,ET,Sustainable Technology Pathway,25
+2019,CS,Cyber Security,7
+2019,CS,Data Science,14
+2019,CS,Artificial Intelligence,13
+2019,CS,Standard Pathway,13
+2020,ICT,Computer Network Technology,27
+2020,ICT,Games and Animation,12
+2020,ICT,Software Systems,43
+2020,ET,Materials and Process Technology,26
+2020,ET,Industrial Automation and Robotics,46
+2020,ET,Sustainable Technology Pathway,28
+2020,CS,Cyber Security,8
+2020,CS,Data Science,14
+2020,CS,Artificial Intelligence,13
+2020,CS,Standard Pathway,11
+2021,ICT,Computer Network Technology,27
+2021,ICT,Games and Animation,13
+2021,ICT,Software Systems,44
+2021,ET,Materials and Process Technology,24
+2021,ET,Industrial Automation and Robotics,47
+2021,ET,Sustainable Technology Pathway,27
+2021,CS,Cyber Security,7
+2021,CS,Data Science,18
+2021,CS,Artificial Intelligence,13
+2021,CS,Standard Pathway,12

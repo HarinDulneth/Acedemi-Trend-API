@@ -1,0 +1,1084 @@
+university,course_name,year,enrollments,avg_start_sal,graduate_employment_rate
+University of Peradeniya,ENGINEERING,2005,240,13305,94.3
+University of Peradeniya,ENGINEERING,2006,259,14838,95.6
+University of Peradeniya,ENGINEERING,2007,266,17411,94.6
+University of Peradeniya,ENGINEERING,2008,282,21601,92.5
+University of Peradeniya,ENGINEERING,2009,293,22674,91.8
+University of Peradeniya,ENGINEERING,2010,281,24425,93.9
+University of Peradeniya,ENGINEERING,2011,315,26432,96.0
+University of Peradeniya,ENGINEERING,2012,317,28822,95.5
+University of Peradeniya,ENGINEERING,2013,313,31246,95.8
+University of Peradeniya,ENGINEERING,2014,349,32708,93.8
+University of Peradeniya,ENGINEERING,2015,339,34432,96.2
+University of Peradeniya,ENGINEERING,2016,360,36312,94.1
+University of Peradeniya,ENGINEERING,2017,351,39653,94.7
+University of Peradeniya,ENGINEERING,2018,396,41096,93.6
+University of Peradeniya,ENGINEERING,2019,383,43163,94.7
+University of Peradeniya,ENGINEERING,2020,408,46465,93.0
+University of Peradeniya,ENGINEERING,2021,442,50420,95.1
+University of Peradeniya,ENGINEERING,2022,420,76245,93.2
+University of Peradeniya,ENGINEERING,2023,455,90000,95.7
+University of Sri Jayewardenepura,ENGINEERING,2005,76,13305,97.1
+University of Sri Jayewardenepura,ENGINEERING,2006,77,14838,96.0
+University of Sri Jayewardenepura,ENGINEERING,2007,84,17411,96.4
+University of Sri Jayewardenepura,ENGINEERING,2008,86,21601,91.5
+University of Sri Jayewardenepura,ENGINEERING,2009,93,22674,94.0
+University of Sri Jayewardenepura,ENGINEERING,2010,93,24425,96.8
+University of Sri Jayewardenepura,ENGINEERING,2011,97,26432,95.8
+University of Sri Jayewardenepura,ENGINEERING,2012,100,28822,94.9
+University of Sri Jayewardenepura,ENGINEERING,2013,104,31246,94.9
+University of Sri Jayewardenepura,ENGINEERING,2014,112,32708,94.7
+University of Sri Jayewardenepura,ENGINEERING,2015,115,34432,95.8
+University of Sri Jayewardenepura,ENGINEERING,2016,128,36312,97.2
+University of Sri Jayewardenepura,ENGINEERING,2017,125,39653,97.1
+University of Sri Jayewardenepura,ENGINEERING,2018,139,41096,95.9
+University of Sri Jayewardenepura,ENGINEERING,2019,146,43163,95.1
+University of Sri Jayewardenepura,ENGINEERING,2020,153,46465,91.8
+University of Sri Jayewardenepura,ENGINEERING,2021,159,50420,96.8
+University of Sri Jayewardenepura,ENGINEERING,2022,160,76245,95.1
+University of Sri Jayewardenepura,ENGINEERING,2023,170,90000,94.7
+University of Jaffna,ENGINEERING,2005,89,10349,96.4
+University of Jaffna,ENGINEERING,2006,92,11541,92.9
+University of Jaffna,ENGINEERING,2007,92,13542,96.2
+University of Jaffna,ENGINEERING,2008,95,16800,91.8
+University of Jaffna,ENGINEERING,2009,103,17635,90.9
+University of Jaffna,ENGINEERING,2010,103,18997,95.2
+University of Jaffna,ENGINEERING,2011,114,20558,94.3
+University of Jaffna,ENGINEERING,2012,116,22417,93.3
+University of Jaffna,ENGINEERING,2013,121,24302,94.8
+University of Jaffna,ENGINEERING,2014,132,25440,95.3
+University of Jaffna,ENGINEERING,2015,133,26780,93.4
+University of Jaffna,ENGINEERING,2016,135,28243,94.1
+University of Jaffna,ENGINEERING,2017,154,30841,96.1
+University of Jaffna,ENGINEERING,2018,162,31964,94.0
+University of Jaffna,ENGINEERING,2019,166,33571,93.2
+University of Jaffna,ENGINEERING,2020,176,36140,90.2
+University of Jaffna,ENGINEERING,2021,185,39215,94.7
+University of Jaffna,ENGINEERING,2022,181,59301,91.5
+University of Jaffna,ENGINEERING,2023,195,70000,95.0
+University of Ruhuna,ENGINEERING,2005,305,11088,90.7
+University of Ruhuna,ENGINEERING,2006,330,12365,92.7
+University of Ruhuna,ENGINEERING,2007,325,14509,89.6
+University of Ruhuna,ENGINEERING,2008,349,18000,86.4
+University of Ruhuna,ENGINEERING,2009,376,18895,86.5
+University of Ruhuna,ENGINEERING,2010,358,20354,90.4
+University of Ruhuna,ENGINEERING,2011,389,22027,92.0
+University of Ruhuna,ENGINEERING,2012,406,24018,89.6
+University of Ruhuna,ENGINEERING,2013,420,26038,92.0
+University of Ruhuna,ENGINEERING,2014,437,27257,90.9
+University of Ruhuna,ENGINEERING,2015,417,28693,89.2
+University of Ruhuna,ENGINEERING,2016,464,30260,91.4
+University of Ruhuna,ENGINEERING,2017,436,33044,89.8
+University of Ruhuna,ENGINEERING,2018,455,34247,90.2
+University of Ruhuna,ENGINEERING,2019,491,35969,92.3
+University of Ruhuna,ENGINEERING,2020,480,38721,88.7
+University of Ruhuna,ENGINEERING,2021,529,42016,92.4
+University of Ruhuna,ENGINEERING,2022,529,63537,88.7
+University of Ruhuna,ENGINEERING,2023,545,75000,92.8
+University of Moratuwa,ENGINEERING,2005,327,17002,95.1
+University of Moratuwa,ENGINEERING,2006,365,18960,93.6
+University of Moratuwa,ENGINEERING,2007,367,22248,93.7
+University of Moratuwa,ENGINEERING,2008,372,27601,89.1
+University of Moratuwa,ENGINEERING,2009,425,28973,92.7
+University of Moratuwa,ENGINEERING,2010,442,31209,96.4
+University of Moratuwa,ENGINEERING,2011,440,33775,93.0
+University of Moratuwa,ENGINEERING,2012,469,36828,94.2
+University of Moratuwa,ENGINEERING,2013,473,39926,96.9
+University of Moratuwa,ENGINEERING,2014,492,41794,94.8
+University of Moratuwa,ENGINEERING,2015,550,43997,95.0
+University of Moratuwa,ENGINEERING,2016,563,46399,96.5
+University of Moratuwa,ENGINEERING,2017,560,50668,95.3
+University of Moratuwa,ENGINEERING,2018,625,52512,94.7
+University of Moratuwa,ENGINEERING,2019,638,55153,93.5
+University of Moratuwa,ENGINEERING,2020,669,59373,94.1
+University of Moratuwa,ENGINEERING,2021,707,64425,95.6
+University of Moratuwa,ENGINEERING,2022,691,97424,89.6
+University of Moratuwa,ENGINEERING,2023,743,115000,93.5
+South Eastern University of Sri Lanka,ENGINEERING,2005,55,12936,94.7
+South Eastern University of Sri Lanka,ENGINEERING,2006,58,14426,91.3
+South Eastern University of Sri Lanka,ENGINEERING,2007,57,16928,91.4
+South Eastern University of Sri Lanka,ENGINEERING,2008,62,21001,90.5
+South Eastern University of Sri Lanka,ENGINEERING,2009,64,22044,89.6
+South Eastern University of Sri Lanka,ENGINEERING,2010,71,23746,91.4
+South Eastern University of Sri Lanka,ENGINEERING,2011,71,25698,91.9
+South Eastern University of Sri Lanka,ENGINEERING,2012,76,28021,94.6
+South Eastern University of Sri Lanka,ENGINEERING,2013,82,30378,92.3
+South Eastern University of Sri Lanka,ENGINEERING,2014,87,31800,92.4
+South Eastern University of Sri Lanka,ENGINEERING,2015,85,33476,92.9
+South Eastern University of Sri Lanka,ENGINEERING,2016,93,35303,94.1
+South Eastern University of Sri Lanka,ENGINEERING,2017,100,38551,92.3
+South Eastern University of Sri Lanka,ENGINEERING,2018,102,39955,93.1
+South Eastern University of Sri Lanka,ENGINEERING,2019,106,41964,91.9
+South Eastern University of Sri Lanka,ENGINEERING,2020,110,45175,88.9
+South Eastern University of Sri Lanka,ENGINEERING,2021,116,49019,93.4
+South Eastern University of Sri Lanka,ENGINEERING,2022,124,74127,92.8
+South Eastern University of Sri Lanka,ENGINEERING,2023,130,87500,94.7
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2005,106,12566,95.8
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2006,104,14014,94.9
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2007,108,16444,95.2
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2008,123,20401,91.3
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2009,118,21415,93.0
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2010,128,23068,95.3
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2011,144,24964,97.1
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2012,146,27221,94.6
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2013,147,29510,95.8
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2014,155,30891,94.4
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2015,162,32519,97.4
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2016,182,34295,94.7
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2017,183,37450,97.5
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2018,186,38813,96.4
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2019,213,40765,95.4
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2020,215,43884,93.3
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2021,237,47619,94.7
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2022,236,72009,90.8
+University of Moratuwa,INFORMATION TECHNOLOGY (IT),2023,251,85000,97.0
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2005,27,16262,91.9
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2006,29,18136,91.0
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2007,30,21281,93.1
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2008,29,26401,87.9
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2009,31,27713,88.7
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2010,31,29853,91.9
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2011,33,32306,92.1
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2012,35,35227,92.9
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2013,35,38190,91.7
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2014,39,39977,91.3
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2015,39,42084,90.3
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2016,39,44382,93.2
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2017,41,48465,90.3
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2018,41,50229,93.6
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2019,45,52755,90.9
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2020,46,56791,88.9
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2021,49,61624,91.5
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2022,50,93188,85.9
+University of Moratuwa,ARTIFICIAL INTELLIGENCE,2023,50,110000,90.7
+University of Moratuwa,ENGINEERING (EM),2005,35,9240,92.1
+University of Moratuwa,ENGINEERING (EM),2006,38,10304,91.2
+University of Moratuwa,ENGINEERING (EM),2007,41,12091,90.9
+University of Moratuwa,ENGINEERING (EM),2008,42,15000,89.1
+University of Moratuwa,ENGINEERING (EM),2009,42,15746,90.1
+University of Moratuwa,ENGINEERING (EM),2010,43,16961,91.3
+University of Moratuwa,ENGINEERING (EM),2011,47,18356,91.2
+University of Moratuwa,ENGINEERING (EM),2012,49,20015,92.4
+University of Moratuwa,ENGINEERING (EM),2013,48,21698,92.4
+University of Moratuwa,ENGINEERING (EM),2014,52,22714,90.3
+University of Moratuwa,ENGINEERING (EM),2015,54,23911,89.9
+University of Moratuwa,ENGINEERING (EM),2016,59,25217,89.8
+University of Moratuwa,ENGINEERING (EM),2017,61,27537,90.5
+University of Moratuwa,ENGINEERING (EM),2018,65,28539,93.1
+University of Moratuwa,ENGINEERING (EM),2019,64,29974,89.3
+University of Moratuwa,ENGINEERING (EM),2020,73,32267,88.5
+University of Moratuwa,ENGINEERING (EM),2021,76,35013,91.7
+University of Moratuwa,ENGINEERING (EM),2022,77,52948,86.9
+University of Moratuwa,ENGINEERING (EM),2023,80,62500,92.2
+University of Moratuwa,ENGINEERING (TM),2005,56,10349,93.0
+University of Moratuwa,ENGINEERING (TM),2006,57,11541,94.0
+University of Moratuwa,ENGINEERING (TM),2007,57,13542,94.2
+University of Moratuwa,ENGINEERING (TM),2008,56,16800,90.4
+University of Moratuwa,ENGINEERING (TM),2009,59,17635,91.9
+University of Moratuwa,ENGINEERING (TM),2010,66,18997,96.4
+University of Moratuwa,ENGINEERING (TM),2011,66,20558,96.5
+University of Moratuwa,ENGINEERING (TM),2012,69,22417,93.5
+University of Moratuwa,ENGINEERING (TM),2013,69,24302,94.0
+University of Moratuwa,ENGINEERING (TM),2014,72,25440,93.0
+University of Moratuwa,ENGINEERING (TM),2015,75,26780,94.6
+University of Moratuwa,ENGINEERING (TM),2016,81,28243,95.1
+University of Moratuwa,ENGINEERING (TM),2017,77,30841,95.1
+University of Moratuwa,ENGINEERING (TM),2018,85,31964,96.3
+University of Moratuwa,ENGINEERING (TM),2019,87,33571,96.0
+University of Moratuwa,ENGINEERING (TM),2020,89,36140,89.4
+University of Moratuwa,ENGINEERING (TM),2021,88,39215,96.8
+University of Moratuwa,ENGINEERING (TM),2022,90,59301,88.8
+University of Moratuwa,ENGINEERING (TM),2023,98,70000,93.2
+University of Moratuwa,QUANTITY SURVEYING,2005,60,11457,94.4
+University of Moratuwa,QUANTITY SURVEYING,2006,62,12777,91.7
+University of Moratuwa,QUANTITY SURVEYING,2007,66,14993,92.5
+University of Moratuwa,QUANTITY SURVEYING,2008,69,18600,90.4
+University of Moratuwa,QUANTITY SURVEYING,2009,72,19525,89.2
+University of Moratuwa,QUANTITY SURVEYING,2010,81,21032,94.8
+University of Moratuwa,QUANTITY SURVEYING,2011,85,22761,94.6
+University of Moratuwa,QUANTITY SURVEYING,2012,91,24819,91.3
+University of Moratuwa,QUANTITY SURVEYING,2013,90,26906,93.2
+University of Moratuwa,QUANTITY SURVEYING,2014,94,28165,94.1
+University of Moratuwa,QUANTITY SURVEYING,2015,103,29650,91.1
+University of Moratuwa,QUANTITY SURVEYING,2016,107,31269,94.5
+University of Moratuwa,QUANTITY SURVEYING,2017,112,34145,93.3
+University of Moratuwa,QUANTITY SURVEYING,2018,118,35388,93.2
+University of Moratuwa,QUANTITY SURVEYING,2019,121,37168,93.9
+University of Moratuwa,QUANTITY SURVEYING,2020,126,40012,88.8
+University of Moratuwa,QUANTITY SURVEYING,2021,131,43417,94.8
+University of Moratuwa,QUANTITY SURVEYING,2022,145,65655,86.7
+University of Moratuwa,QUANTITY SURVEYING,2023,152,77500,93.6
+University of Colombo,COMPUTER SCIENCE,2005,108,13305,94.9
+University of Colombo,COMPUTER SCIENCE,2006,117,14838,97.5
+University of Colombo,COMPUTER SCIENCE,2007,124,17411,97.5
+University of Colombo,COMPUTER SCIENCE,2008,130,21601,92.7
+University of Colombo,COMPUTER SCIENCE,2009,135,22674,92.0
+University of Colombo,COMPUTER SCIENCE,2010,141,24425,96.1
+University of Colombo,COMPUTER SCIENCE,2011,136,26432,95.5
+University of Colombo,COMPUTER SCIENCE,2012,153,28822,95.9
+University of Colombo,COMPUTER SCIENCE,2013,160,31246,94.3
+University of Colombo,COMPUTER SCIENCE,2014,156,32708,96.2
+University of Colombo,COMPUTER SCIENCE,2015,168,34432,96.6
+University of Colombo,COMPUTER SCIENCE,2016,173,36312,94.0
+University of Colombo,COMPUTER SCIENCE,2017,189,39653,93.9
+University of Colombo,COMPUTER SCIENCE,2018,184,41096,95.2
+University of Colombo,COMPUTER SCIENCE,2019,187,43163,97.4
+University of Colombo,COMPUTER SCIENCE,2020,204,46465,93.8
+University of Colombo,COMPUTER SCIENCE,2021,218,50420,93.9
+University of Colombo,COMPUTER SCIENCE,2022,228,76245,95.7
+University of Colombo,COMPUTER SCIENCE,2023,230,90000,96.2
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2005,21,8501,94.0
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2006,23,9480,94.0
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2007,23,11124,93.1
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2008,26,13800,91.7
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2009,26,14486,89.8
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2010,27,15604,93.4
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2011,29,16887,95.7
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2012,30,18414,96.1
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2013,31,19963,96.2
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2014,32,20897,95.1
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2015,34,21998,96.0
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2016,37,23199,95.1
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2017,39,25334,95.6
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2018,41,26256,95.3
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2019,42,27576,95.6
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2020,43,29686,88.1
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2021,45,32212,96.0
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2022,49,48712,89.1
+University of Sri Jayewardenepura,COMPUTER SCIENCE,2023,50,57500,95.5
+University of Kelaniya,COMPUTER SCIENCE,2005,31,10349,94.6
+University of Kelaniya,COMPUTER SCIENCE,2006,34,11541,94.1
+University of Kelaniya,COMPUTER SCIENCE,2007,34,13542,95.1
+University of Kelaniya,COMPUTER SCIENCE,2008,36,16800,92.1
+University of Kelaniya,COMPUTER SCIENCE,2009,40,17635,93.7
+University of Kelaniya,COMPUTER SCIENCE,2010,40,18997,96.1
+University of Kelaniya,COMPUTER SCIENCE,2011,44,20558,96.8
+University of Kelaniya,COMPUTER SCIENCE,2012,43,22417,96.2
+University of Kelaniya,COMPUTER SCIENCE,2013,47,24302,94.6
+University of Kelaniya,COMPUTER SCIENCE,2014,49,25440,97.2
+University of Kelaniya,COMPUTER SCIENCE,2015,52,26780,93.8
+University of Kelaniya,COMPUTER SCIENCE,2016,53,28243,96.6
+University of Kelaniya,COMPUTER SCIENCE,2017,53,30841,95.3
+University of Kelaniya,COMPUTER SCIENCE,2018,57,31964,94.6
+University of Kelaniya,COMPUTER SCIENCE,2019,62,33571,94.8
+University of Kelaniya,COMPUTER SCIENCE,2020,61,36140,92.7
+University of Kelaniya,COMPUTER SCIENCE,2021,65,39215,96.7
+University of Kelaniya,COMPUTER SCIENCE,2022,66,59301,94.0
+University of Kelaniya,COMPUTER SCIENCE,2023,70,70000,94.3
+University of Jaffna,COMPUTER SCIENCE,2005,48,8131,95.9
+University of Jaffna,COMPUTER SCIENCE,2006,49,9068,96.7
+University of Jaffna,COMPUTER SCIENCE,2007,51,10640,98.5
+University of Jaffna,COMPUTER SCIENCE,2008,56,13200,95.0
+University of Jaffna,COMPUTER SCIENCE,2009,58,13856,94.8
+University of Jaffna,COMPUTER SCIENCE,2010,59,14926,98.0
+University of Jaffna,COMPUTER SCIENCE,2011,63,16153,96.0
+University of Jaffna,COMPUTER SCIENCE,2012,68,17613,96.6
+University of Jaffna,COMPUTER SCIENCE,2013,67,19095,95.4
+University of Jaffna,COMPUTER SCIENCE,2014,73,19988,96.0
+University of Jaffna,COMPUTER SCIENCE,2015,76,21042,95.4
+University of Jaffna,COMPUTER SCIENCE,2016,76,22191,98.5
+University of Jaffna,COMPUTER SCIENCE,2017,87,24232,98.0
+University of Jaffna,COMPUTER SCIENCE,2018,91,25114,98.2
+University of Jaffna,COMPUTER SCIENCE,2019,94,26377,96.2
+University of Jaffna,COMPUTER SCIENCE,2020,99,28395,93.9
+University of Jaffna,COMPUTER SCIENCE,2021,100,30812,96.5
+University of Jaffna,COMPUTER SCIENCE,2022,101,46594,94.7
+University of Jaffna,COMPUTER SCIENCE,2023,111,55000,95.9
+University of Ruhuna,COMPUTER SCIENCE,2005,45,9609,94.2
+University of Ruhuna,COMPUTER SCIENCE,2006,49,10716,91.8
+University of Ruhuna,COMPUTER SCIENCE,2007,49,12575,93.5
+University of Ruhuna,COMPUTER SCIENCE,2008,50,15600,89.6
+University of Ruhuna,COMPUTER SCIENCE,2009,53,16376,89.4
+University of Ruhuna,COMPUTER SCIENCE,2010,56,17640,94.3
+University of Ruhuna,COMPUTER SCIENCE,2011,63,19090,94.8
+University of Ruhuna,COMPUTER SCIENCE,2012,65,20816,92.3
+University of Ruhuna,COMPUTER SCIENCE,2013,68,22566,94.5
+University of Ruhuna,COMPUTER SCIENCE,2014,68,23623,91.8
+University of Ruhuna,COMPUTER SCIENCE,2015,75,24867,92.6
+University of Ruhuna,COMPUTER SCIENCE,2016,74,26225,91.4
+University of Ruhuna,COMPUTER SCIENCE,2017,86,28638,93.7
+University of Ruhuna,COMPUTER SCIENCE,2018,90,29680,94.4
+University of Ruhuna,COMPUTER SCIENCE,2019,89,31173,92.8
+University of Ruhuna,COMPUTER SCIENCE,2020,90,33558,88.7
+University of Ruhuna,COMPUTER SCIENCE,2021,96,36414,93.9
+University of Ruhuna,COMPUTER SCIENCE,2022,100,55066,89.9
+University of Ruhuna,COMPUTER SCIENCE,2023,110,65000,94.7
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2005,52,8131,96.5
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2006,53,9068,94.0
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2007,54,10640,96.5
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2008,56,13200,93.3
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2009,65,13856,91.8
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2010,63,14926,94.8
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2011,67,16153,96.4
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2012,75,17613,96.0
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2013,79,19095,95.0
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2014,80,19988,97.5
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2015,80,21042,93.7
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2016,90,22191,97.4
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2017,96,24232,94.8
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2018,95,25114,96.7
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2019,102,26377,97.2
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2020,113,28395,94.9
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2021,114,30812,94.1
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2022,113,46594,90.8
+Eastern University - Trincomalee Campus,COMPUTER SCIENCE,2023,126,55000,95.9
+University of Colombo,PHYSICAL SCIENCE,2005,150,10718,92.0
+University of Colombo,PHYSICAL SCIENCE,2006,152,11953,93.0
+University of Colombo,PHYSICAL SCIENCE,2007,160,14026,93.0
+University of Colombo,PHYSICAL SCIENCE,2008,171,17400,89.3
+University of Colombo,PHYSICAL SCIENCE,2009,178,18265,89.7
+University of Colombo,PHYSICAL SCIENCE,2010,189,19675,92.8
+University of Colombo,PHYSICAL SCIENCE,2011,185,21293,90.9
+University of Colombo,PHYSICAL SCIENCE,2012,197,23218,93.7
+University of Colombo,PHYSICAL SCIENCE,2013,211,25170,91.9
+University of Colombo,PHYSICAL SCIENCE,2014,211,26348,94.0
+University of Colombo,PHYSICAL SCIENCE,2015,232,27737,92.6
+University of Colombo,PHYSICAL SCIENCE,2016,231,29251,90.8
+University of Colombo,PHYSICAL SCIENCE,2017,234,31942,91.6
+University of Colombo,PHYSICAL SCIENCE,2018,250,33105,91.4
+University of Colombo,PHYSICAL SCIENCE,2019,252,34770,91.7
+University of Colombo,PHYSICAL SCIENCE,2020,263,37430,87.1
+University of Colombo,PHYSICAL SCIENCE,2021,281,40616,92.2
+University of Colombo,PHYSICAL SCIENCE,2022,298,61419,88.8
+University of Colombo,PHYSICAL SCIENCE,2023,300,72500,93.0
+University of Peradeniya,PHYSICAL SCIENCE,2005,142,8501,95.5
+University of Peradeniya,PHYSICAL SCIENCE,2006,155,9480,94.0
+University of Peradeniya,PHYSICAL SCIENCE,2007,161,11124,96.1
+University of Peradeniya,PHYSICAL SCIENCE,2008,158,13800,92.7
+University of Peradeniya,PHYSICAL SCIENCE,2009,164,14486,93.0
+University of Peradeniya,PHYSICAL SCIENCE,2010,178,15604,96.9
+University of Peradeniya,PHYSICAL SCIENCE,2011,184,16887,93.6
+University of Peradeniya,PHYSICAL SCIENCE,2012,187,18414,96.3
+University of Peradeniya,PHYSICAL SCIENCE,2013,192,19963,94.9
+University of Peradeniya,PHYSICAL SCIENCE,2014,194,20897,97.0
+University of Peradeniya,PHYSICAL SCIENCE,2015,212,21998,95.2
+University of Peradeniya,PHYSICAL SCIENCE,2016,228,23199,94.4
+University of Peradeniya,PHYSICAL SCIENCE,2017,236,25334,96.8
+University of Peradeniya,PHYSICAL SCIENCE,2018,245,26256,94.8
+University of Peradeniya,PHYSICAL SCIENCE,2019,236,27576,94.4
+University of Peradeniya,PHYSICAL SCIENCE,2020,245,29686,93.8
+University of Peradeniya,PHYSICAL SCIENCE,2021,252,32212,93.6
+University of Peradeniya,PHYSICAL SCIENCE,2022,280,48712,90.5
+University of Peradeniya,PHYSICAL SCIENCE,2023,280,57500,96.7
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2005,175,7392,95.2
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2006,186,8243,94.5
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2007,181,9673,95.7
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2008,206,12000,93.2
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2009,199,12597,92.0
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2010,214,13569,93.4
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2011,220,14684,96.7
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2012,217,16012,95.3
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2013,245,17359,93.7
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2014,234,18171,94.1
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2015,238,19129,95.5
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2016,261,20173,96.6
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2017,278,22029,92.9
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2018,275,22831,96.4
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2019,294,23979,96.1
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2020,291,25814,93.6
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2021,314,28011,92.8
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2022,323,42358,91.0
+University of Sri Jayewardenepura,PHYSICAL SCIENCE,2023,330,50000,94.6
+University of Kelaniya,PHYSICAL SCIENCE,2005,200,6652,93.7
+University of Kelaniya,PHYSICAL SCIENCE,2006,217,7419,97.5
+University of Kelaniya,PHYSICAL SCIENCE,2007,226,8705,94.0
+University of Kelaniya,PHYSICAL SCIENCE,2008,235,10800,92.8
+University of Kelaniya,PHYSICAL SCIENCE,2009,238,11337,92.7
+University of Kelaniya,PHYSICAL SCIENCE,2010,232,12212,96.7
+University of Kelaniya,PHYSICAL SCIENCE,2011,246,13216,96.4
+University of Kelaniya,PHYSICAL SCIENCE,2012,252,14411,96.4
+University of Kelaniya,PHYSICAL SCIENCE,2013,271,15623,96.9
+University of Kelaniya,PHYSICAL SCIENCE,2014,280,16354,94.9
+University of Kelaniya,PHYSICAL SCIENCE,2015,275,17216,96.2
+University of Kelaniya,PHYSICAL SCIENCE,2016,279,18156,94.1
+University of Kelaniya,PHYSICAL SCIENCE,2017,312,19826,95.4
+University of Kelaniya,PHYSICAL SCIENCE,2018,298,20548,94.7
+University of Kelaniya,PHYSICAL SCIENCE,2019,326,21581,94.5
+University of Kelaniya,PHYSICAL SCIENCE,2020,340,23232,94.0
+University of Kelaniya,PHYSICAL SCIENCE,2021,348,25210,93.9
+University of Kelaniya,PHYSICAL SCIENCE,2022,363,38122,94.2
+University of Kelaniya,PHYSICAL SCIENCE,2023,362,45000,97.6
+University of Jaffna,PHYSICAL SCIENCE,2005,137,5026,95.0
+University of Jaffna,PHYSICAL SCIENCE,2006,142,5605,93.1
+University of Jaffna,PHYSICAL SCIENCE,2007,155,6577,92.9
+University of Jaffna,PHYSICAL SCIENCE,2008,155,8160,88.4
+University of Jaffna,PHYSICAL SCIENCE,2009,160,8566,88.1
+University of Jaffna,PHYSICAL SCIENCE,2010,178,9227,94.2
+University of Jaffna,PHYSICAL SCIENCE,2011,189,9985,94.7
+University of Jaffna,PHYSICAL SCIENCE,2012,186,10888,93.9
+University of Jaffna,PHYSICAL SCIENCE,2013,191,11804,93.2
+University of Jaffna,PHYSICAL SCIENCE,2014,200,12356,94.9
+University of Jaffna,PHYSICAL SCIENCE,2015,211,13007,94.0
+University of Jaffna,PHYSICAL SCIENCE,2016,219,13718,92.2
+University of Jaffna,PHYSICAL SCIENCE,2017,236,14980,94.6
+University of Jaffna,PHYSICAL SCIENCE,2018,239,15525,93.7
+University of Jaffna,PHYSICAL SCIENCE,2019,266,16306,95.9
+University of Jaffna,PHYSICAL SCIENCE,2020,277,17553,91.6
+University of Jaffna,PHYSICAL SCIENCE,2021,295,19047,95.3
+University of Jaffna,PHYSICAL SCIENCE,2022,298,28803,92.1
+University of Jaffna,PHYSICAL SCIENCE,2023,320,34000,95.8
+University of Ruhuna,PHYSICAL SCIENCE,2005,164,5913,97.8
+University of Ruhuna,PHYSICAL SCIENCE,2006,171,6595,95.6
+University of Ruhuna,PHYSICAL SCIENCE,2007,169,7738,95.2
+University of Ruhuna,PHYSICAL SCIENCE,2008,180,9600,89.9
+University of Ruhuna,PHYSICAL SCIENCE,2009,183,10077,92.5
+University of Ruhuna,PHYSICAL SCIENCE,2010,189,10855,95.0
+University of Ruhuna,PHYSICAL SCIENCE,2011,205,11747,98.3
+University of Ruhuna,PHYSICAL SCIENCE,2012,212,12809,95.4
+University of Ruhuna,PHYSICAL SCIENCE,2013,206,13887,96.1
+University of Ruhuna,PHYSICAL SCIENCE,2014,226,14537,98.1
+University of Ruhuna,PHYSICAL SCIENCE,2015,244,15303,97.4
+University of Ruhuna,PHYSICAL SCIENCE,2016,232,16138,98.1
+University of Ruhuna,PHYSICAL SCIENCE,2017,259,17623,95.7
+University of Ruhuna,PHYSICAL SCIENCE,2018,255,18265,98.2
+University of Ruhuna,PHYSICAL SCIENCE,2019,282,19183,94.9
+University of Ruhuna,PHYSICAL SCIENCE,2020,282,20651,92.9
+University of Ruhuna,PHYSICAL SCIENCE,2021,303,22408,96.6
+University of Ruhuna,PHYSICAL SCIENCE,2022,293,33886,91.9
+University of Ruhuna,PHYSICAL SCIENCE,2023,317,40000,96.4
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2005,82,5396,96.4
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2006,82,6017,96.6
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2007,89,7061,95.0
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2008,92,8760,91.5
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2009,95,9195,90.1
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2010,105,9905,94.2
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2011,111,10720,95.6
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2012,109,11689,94.6
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2013,123,12672,94.9
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2014,122,13265,97.0
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2015,134,13964,94.2
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2016,140,14726,93.9
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2017,146,16081,96.4
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2018,154,16666,96.4
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2019,168,17505,96.3
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2020,170,18844,94.5
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2021,177,20448,96.4
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2022,198,30921,94.6
+"Eastern University, Sri Lanka",PHYSICAL SCIENCE,2023,200,36500,94.8
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2005,94,4583,95.6
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2006,99,5111,95.5
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2007,106,5997,92.7
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2008,104,7440,88.4
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2009,110,7810,91.7
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2010,111,8413,94.1
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2011,128,9104,95.7
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2012,130,9927,92.4
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2013,137,10762,92.8
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2014,138,11266,94.9
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2015,146,11860,93.2
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2016,158,12507,92.4
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2017,163,13658,92.0
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2018,166,14155,93.0
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2019,177,14867,92.2
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2020,184,16004,89.3
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2021,199,17366,92.9
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2022,202,26262,93.2
+South Eastern University of Sri Lanka,PHYSICAL SCIENCE,2023,218,31000,94.9
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2005,52,9240,98.5
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2006,57,10304,98.2
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2007,60,12091,95.7
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2008,62,15000,96.4
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2009,62,15746,94.1
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2010,69,16961,97.3
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2011,71,18356,98.5
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2012,78,20015,95.2
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2013,82,21698,97.4
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2014,85,22714,96.4
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2015,84,23911,95.6
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2016,94,25217,97.2
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2017,99,27537,96.8
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2018,100,28539,97.9
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2019,101,29974,95.5
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2020,114,32267,96.6
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2021,116,35013,98.5
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2022,123,52948,93.9
+University of Moratuwa,INFORMATION TECHNOLOGY & MANAGEMENT,2023,127,62500,94.9
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2005,91,7761,95.6
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2006,91,8655,94.7
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2007,102,10156,92.5
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2008,98,12600,90.6
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2009,100,13226,89.9
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2010,111,14248,94.6
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2011,117,15419,95.3
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2012,116,16813,92.6
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2013,114,18227,93.7
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2014,123,19080,93.2
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2015,126,20085,92.5
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2016,127,21182,93.5
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2017,137,23131,93.8
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2018,143,23973,95.1
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2019,147,25178,94.5
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2020,143,27105,90.7
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2021,155,29411,95.5
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2022,157,44476,90.6
+Sabaragamuwa University of Sri Lanka,SURVEYING SCIENCE,2023,165,52500,95.9
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2005,73,7022,95.6
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2006,77,7831,95.6
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2007,78,9189,95.5
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2008,83,11400,91.8
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2009,90,11967,88.4
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2010,92,12891,95.6
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2011,93,13950,94.4
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2012,102,15211,95.1
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2013,107,16491,95.5
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2014,107,17262,93.5
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2015,111,18172,92.9
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2016,118,19164,93.0
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2017,121,20928,93.0
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2018,138,21689,93.1
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2019,143,22780,94.5
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2020,142,24523,91.2
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2021,149,26610,93.0
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2022,161,40240,91.4
+Rajarata University of Sri Lanka,APPLIED SCIENCES,2023,165,47500,94.9
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2005,47,7761,93.6
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2006,51,8655,92.5
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2007,52,10156,93.5
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2008,56,12600,86.8
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2009,57,13226,91.0
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2010,61,14248,92.1
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2011,61,15419,93.0
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2012,62,16813,93.2
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2013,67,18227,91.2
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2014,67,19080,94.1
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2015,72,20085,93.1
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2016,79,21182,93.3
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2017,78,23131,92.9
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2018,81,23973,94.3
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2019,84,25178,91.8
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2020,87,27105,88.1
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2021,90,29411,91.8
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2022,92,44476,91.4
+Sabaragamuwa University of Sri Lanka,APPLIED SCIENCES,2023,100,52500,92.8
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2005,103,9240,93.7
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2006,113,10304,92.8
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2007,122,12091,90.2
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2008,123,15000,90.6
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2009,133,15746,86.3
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2010,130,16961,92.7
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2011,144,18356,93.6
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2012,144,20015,90.4
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2013,157,21698,90.5
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2014,174,22714,93.8
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2015,176,23911,91.5
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2016,183,25217,91.5
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2017,192,27537,92.5
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2018,204,28539,90.5
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2019,220,29974,89.9
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2020,218,32267,88.8
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2021,239,35013,93.1
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2022,257,52948,90.7
+Wayamba University of Sri Lanka,APPLIED SCIENCES,2023,262,62500,89.9
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2005,53,7022,95.0
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2006,56,7831,93.4
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2007,57,9189,94.4
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2008,60,11400,90.6
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2009,64,11967,88.4
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2010,64,12891,91.9
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2011,68,13950,94.6
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2012,72,15211,91.8
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2013,75,16491,93.9
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2014,81,17262,94.6
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2015,87,18172,92.9
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2016,85,19164,94.6
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2017,94,20928,94.4
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2018,95,21689,95.0
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2019,101,22780,94.5
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2020,107,24523,88.9
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2021,108,26610,93.6
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2022,113,40240,90.0
+"University of Vavuniya, Sri Lanka",APPLIED SCIENCES,2023,117,47500,91.6
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2005,59,7022,92.5
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2006,62,7831,93.0
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2007,67,9189,95.4
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2008,69,11400,91.1
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2009,70,11967,89.8
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2010,72,12891,95.2
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2011,81,13950,93.2
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2012,80,15211,93.1
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2013,82,16491,95.3
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2014,85,17262,94.8
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2015,88,18172,92.3
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2016,98,19164,93.1
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2017,102,20928,94.6
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2018,100,21689,96.1
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2019,108,22780,95.6
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2020,113,24523,92.2
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2021,109,26610,94.7
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2022,122,40240,93.1
+Eastern University - Trincomalee Campus,APPLIED SCIENCES,2023,124,47500,95.4
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2005,42,9240,93.3
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2006,41,10304,95.7
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2007,45,12091,93.5
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2008,44,15000,91.0
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2009,46,15746,88.6
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2010,48,16961,94.9
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2011,48,18356,95.3
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2012,52,20015,95.6
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2013,52,21698,92.2
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2014,55,22714,94.5
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2015,58,23911,95.0
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2016,61,25217,92.6
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2017,57,27537,93.8
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2018,64,28539,93.2
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2019,65,29974,92.8
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2020,66,32267,88.6
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2021,68,35013,94.7
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2022,71,52948,89.2
+University of Ruhuna,FINANCIAL MATHEMATICS AND INDUSTRIAL STATISTICS,2023,73,62500,95.9
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2005,73,7761,95.3
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2006,77,8655,92.4
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2007,82,10156,94.3
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2008,83,12600,91.9
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2009,84,13226,91.8
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2010,88,14248,95.9
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2011,92,15419,93.8
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2012,96,16813,94.8
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2013,95,18227,92.9
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2014,105,19080,93.8
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2015,106,20085,94.6
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2016,115,21182,95.9
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2017,109,23131,94.3
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2018,115,23973,94.2
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2019,124,25178,92.4
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2020,131,27105,93.8
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2021,137,29411,93.9
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2022,140,44476,89.1
+Rajarata University of Sri Lanka,INFORMATION AND COMMUNICATION TECHNOLOGY,2023,142,52500,96.0
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2005,79,7022,91.3
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2006,89,7831,92.5
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2007,84,9189,90.9
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2008,89,11400,89.3
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2009,89,11967,90.6
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2010,94,12891,90.1
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2011,99,13950,91.0
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2012,100,15211,92.3
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2013,110,16491,90.8
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2014,105,17262,91.4
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2015,111,18172,90.1
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2016,121,19164,90.9
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2017,114,20928,89.7
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2018,117,21689,89.9
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2019,128,22780,92.5
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2020,126,24523,85.3
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2021,140,26610,90.9
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2022,137,40240,87.2
+"University of Vavuniya, Sri Lanka",INFORMATION AND COMMUNICATION TECHNOLOGY,2023,143,47500,91.4
+University of Colombo,INFORMATION SYSTEMS,2005,57,10349,94.8
+University of Colombo,INFORMATION SYSTEMS,2006,59,11541,93.7
+University of Colombo,INFORMATION SYSTEMS,2007,60,13542,94.1
+University of Colombo,INFORMATION SYSTEMS,2008,67,16800,90.8
+University of Colombo,INFORMATION SYSTEMS,2009,66,17635,89.8
+University of Colombo,INFORMATION SYSTEMS,2010,69,18997,94.3
+University of Colombo,INFORMATION SYSTEMS,2011,77,20558,94.1
+University of Colombo,INFORMATION SYSTEMS,2012,79,22417,93.0
+University of Colombo,INFORMATION SYSTEMS,2013,82,24302,91.2
+University of Colombo,INFORMATION SYSTEMS,2014,82,25440,92.1
+University of Colombo,INFORMATION SYSTEMS,2015,86,26780,92.6
+University of Colombo,INFORMATION SYSTEMS,2016,94,28243,92.0
+University of Colombo,INFORMATION SYSTEMS,2017,93,30841,95.0
+University of Colombo,INFORMATION SYSTEMS,2018,93,31964,93.0
+University of Colombo,INFORMATION SYSTEMS,2019,103,33571,93.5
+University of Colombo,INFORMATION SYSTEMS,2020,110,36140,89.0
+University of Colombo,INFORMATION SYSTEMS,2021,112,39215,94.9
+University of Colombo,INFORMATION SYSTEMS,2022,113,59301,89.2
+University of Colombo,INFORMATION SYSTEMS,2023,120,70000,93.9
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2005,29,11088,91.8
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2006,30,12365,93.7
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2007,29,14509,94.8
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2008,30,18000,90.9
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2009,32,18895,89.5
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2010,32,20354,94.2
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2011,34,22027,91.8
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2012,37,24018,95.1
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2013,37,26038,93.4
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2014,39,27257,94.0
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2015,40,28693,94.5
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2016,42,30260,93.4
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2017,40,33044,93.5
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2018,40,34247,92.0
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2019,44,35969,93.3
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2020,45,38721,90.5
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2021,46,42016,95.1
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2022,50,63537,91.8
+University of Sri Jayewardenepura,INFORMATION SYSTEMS,2023,50,75000,92.1
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2005,84,9240,97.9
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2006,81,10304,95.4
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2007,90,12091,95.9
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2008,90,15000,95.1
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2009,93,15746,95.4
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2010,101,16961,98.5
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2011,106,18356,97.5
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2012,113,20015,95.9
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2013,109,21698,98.5
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2014,120,22714,97.0
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2015,129,23911,98.3
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2016,137,25217,98.2
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2017,141,27537,96.9
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2018,148,28539,98.5
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2019,149,29974,98.4
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2020,163,32267,93.5
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2021,168,35013,98.5
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2022,177,52948,91.3
+Sabaragamuwa University of Sri Lanka,INFORMATION SYSTEMS,2023,180,62500,97.1
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2005,26,11088,93.8
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2006,26,12365,95.7
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2007,27,14509,94.7
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2008,28,18000,89.5
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2009,28,18895,91.8
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2010,29,20354,96.4
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2011,31,22027,96.9
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2012,32,24018,95.1
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2013,35,26038,93.6
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2014,35,27257,96.6
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2015,37,28693,94.6
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2016,38,30260,93.8
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2017,40,33044,96.3
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2018,40,34247,94.1
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2019,42,35969,97.3
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2020,44,38721,93.3
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2021,44,42016,94.2
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2022,50,63537,93.6
+University of Sri Jayewardenepura,SOFTWARE ENGINEERING,2023,50,75000,96.4
+University of Kelaniya,SOFTWARE ENGINEERING,2005,31,9609,95.9
+University of Kelaniya,SOFTWARE ENGINEERING,2006,31,10716,95.7
+University of Kelaniya,SOFTWARE ENGINEERING,2007,34,12575,94.4
+University of Kelaniya,SOFTWARE ENGINEERING,2008,35,15600,91.3
+University of Kelaniya,SOFTWARE ENGINEERING,2009,37,16376,88.3
+University of Kelaniya,SOFTWARE ENGINEERING,2010,36,17640,92.6
+University of Kelaniya,SOFTWARE ENGINEERING,2011,39,19090,93.3
+University of Kelaniya,SOFTWARE ENGINEERING,2012,42,20816,95.2
+University of Kelaniya,SOFTWARE ENGINEERING,2013,42,22566,94.3
+University of Kelaniya,SOFTWARE ENGINEERING,2014,44,23623,92.7
+University of Kelaniya,SOFTWARE ENGINEERING,2015,44,24867,94.4
+University of Kelaniya,SOFTWARE ENGINEERING,2016,49,26225,95.1
+University of Kelaniya,SOFTWARE ENGINEERING,2017,48,28638,96.1
+University of Kelaniya,SOFTWARE ENGINEERING,2018,51,29680,95.1
+University of Kelaniya,SOFTWARE ENGINEERING,2019,51,31173,93.9
+University of Kelaniya,SOFTWARE ENGINEERING,2020,57,33558,89.7
+University of Kelaniya,SOFTWARE ENGINEERING,2021,60,36414,95.0
+University of Kelaniya,SOFTWARE ENGINEERING,2022,60,55066,90.5
+University of Kelaniya,SOFTWARE ENGINEERING,2023,63,65000,96.0
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2005,43,8870,93.8
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2006,45,9892,95.0
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2007,45,11607,91.7
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2008,48,14400,90.3
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2009,46,15116,89.0
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2010,51,16283,92.9
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2011,52,17621,94.3
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2012,53,19214,91.6
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2013,57,20830,94.8
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2014,53,21805,94.6
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2015,56,22955,91.5
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2016,60,24208,95.2
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2017,58,26435,92.2
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2018,63,27397,95.1
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2019,68,28775,91.5
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2020,68,30977,90.2
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2021,70,33613,92.4
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2022,71,50830,90.9
+Sabaragamuwa University of Sri Lanka,SOFTWARE ENGINEERING,2023,73,60000,93.7
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2005,44,11827,90.7
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2006,46,13190,92.3
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2007,49,15477,93.7
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2008,47,19201,89.1
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2009,49,20155,86.4
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2010,52,21711,89.7
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2011,53,23495,93.0
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2012,57,25619,91.6
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2013,60,27774,89.9
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2014,60,29074,91.3
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2015,62,30606,90.6
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2016,66,32277,91.3
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2017,65,35247,93.7
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2018,65,36530,91.1
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2019,70,38367,92.4
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2020,74,41303,89.3
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2021,74,44817,93.5
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2022,78,67773,88.8
+University of Kelaniya,ELECTRONICS AND COMPUTER SCIENCE,2023,80,80000,90.8
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2005,51,8870,89.4
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2006,56,9892,91.5
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2007,55,11607,89.0
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2008,57,14400,88.9
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2009,61,15116,88.6
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2010,66,16283,90.7
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2011,70,17621,92.6
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2012,70,19214,90.1
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2013,75,20830,91.9
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2014,81,21805,92.9
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2015,85,22955,89.2
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2016,82,24208,89.1
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2017,93,26435,90.2
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2018,93,27397,91.0
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2019,94,28775,90.5
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2020,108,30977,90.4
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2021,107,33613,89.5
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2022,116,50830,88.2
+University of Kelaniya,MANAGEMENT AND INFORMATION TECHNOLOGY,2023,119,60000,91.3
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2005,25,11088,94.1
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2006,26,12365,93.6
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2007,30,14509,91.0
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2008,29,18000,89.7
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2009,30,18895,88.7
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2010,35,20354,92.8
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2011,34,22027,93.5
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2012,35,24018,91.6
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2013,40,26038,90.9
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2014,43,27257,91.7
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2015,41,28693,91.4
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2016,46,30260,93.5
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2017,46,33044,92.3
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2018,49,34247,93.8
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2019,51,35969,92.9
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2020,57,38721,87.8
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2021,60,42016,90.6
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2022,60,63537,88.9
+Sabaragamuwa University of Sri Lanka,DATA SCIENCE,2023,65,75000,90.7
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2005,61,8870,96.8
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2006,58,9892,93.9
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2007,61,11607,96.7
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2008,63,14400,93.6
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2009,65,15116,93.9
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2010,72,16283,96.8
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2011,71,17621,96.3
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2012,77,19214,93.6
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2013,79,20830,94.9
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2014,83,21805,94.2
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2015,78,22955,96.6
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2016,87,24208,96.4
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2017,84,26435,96.0
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2018,91,27397,96.9
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2019,97,28775,95.2
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2020,93,30977,90.5
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2021,103,33613,95.2
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2022,99,50830,90.5
+Uva Wellassa University of Sri Lanka,SCIENCE AND TECHNOLOGY,2023,107,60000,95.4
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2005,56,9609,93.0
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2006,58,10716,94.6
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2007,58,12575,93.3
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2008,64,15600,91.0
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2009,62,16376,90.7
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2010,68,17640,93.4
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2011,72,19090,94.5
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2012,72,20816,93.6
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2013,71,22566,96.7
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2014,73,23623,94.2
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2015,78,24867,93.7
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2016,84,26225,94.4
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2017,82,28638,96.1
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2018,83,29680,96.9
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2019,90,31173,94.2
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2020,93,33558,94.3
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2021,95,36414,94.9
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2022,96,55066,92.6
+Uva Wellassa University of Sri Lanka,COMPUTER SCIENCE & TECHNOLOGY,2023,101,65000,93.6
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2005,50,8501,94.4
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2006,50,9480,94.2
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2007,55,11124,93.7
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2008,57,13800,90.0
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2009,60,14486,89.6
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2010,61,15604,93.6
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2011,60,16887,93.2
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2012,67,18414,94.4
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2013,69,19963,95.5
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2014,71,20897,95.3
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2015,71,21998,92.4
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2016,73,23199,93.8
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2017,80,25334,93.8
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2018,80,26256,92.6
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2019,84,27576,95.3
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2020,89,29686,90.5
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2021,93,32212,94.9
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2022,99,48712,90.6
+Uva Wellassa University of Sri Lanka,INDUSTRIAL INFORMATION TECHNOLOGY,2023,100,57500,95.3
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2005,29,9166,92.8
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2006,33,10222,92.8
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2007,33,11994,93.5
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2008,35,14880,89.1
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2009,38,15620,87.8
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2010,37,16826,94.9
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2011,42,18209,93.7
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2012,40,19855,94.0
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2013,44,21525,93.0
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2014,45,22532,95.3
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2015,50,23720,95.0
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2016,52,25015,94.4
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2017,50,27316,92.8
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2018,53,28311,93.8
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2019,56,29735,94.3
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2020,59,32009,91.2
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2021,62,34733,94.4
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2022,67,52524,89.1
+University of Colombo,INFORMATION COMMUNICATION TECHNOLOGY,2023,69,62000,93.1
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2005,72,8574,97.8
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2006,80,9562,97.8
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2007,83,11220,96.2
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2008,85,13920,92.7
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2009,87,14612,93.3
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2010,93,15740,97.9
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2011,94,17034,96.5
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2012,102,18574,95.3
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2013,107,20136,97.4
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2014,108,21078,95.4
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2015,108,22189,97.1
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2016,111,23401,95.6
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2017,124,25554,96.9
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2018,125,26484,96.2
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2019,125,27816,96.5
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2020,139,29944,89.7
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2021,141,32492,98.1
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2022,143,49135,91.3
+University of Sri Jayewardenepura,INFORMATION COMMUNICATION TECHNOLOGY,2023,154,58000,94.7
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2005,53,8131,93.1
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2006,56,9068,93.0
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2007,55,10640,94.2
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2008,55,13200,90.7
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2009,59,13856,91.9
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2010,63,14926,95.9
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2011,63,16153,96.0
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2012,63,17613,95.5
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2013,69,19095,93.0
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2014,71,19988,94.3
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2015,74,21042,93.6
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2016,75,22191,92.9
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2017,78,24232,92.9
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2018,80,25114,95.9
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2019,84,26377,95.7
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2020,79,28395,93.2
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2021,86,30812,92.5
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2022,89,46594,92.3
+University of Kelaniya,INFORMATION COMMUNICATION TECHNOLOGY,2023,91,55000,94.3
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2005,52,7761,95.5
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2006,57,8655,94.7
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2007,57,10156,95.6
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2008,60,12600,93.1
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2009,62,13226,94.6
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2010,66,14248,97.7
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2011,70,15419,96.9
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2012,72,16813,96.6
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2013,81,18227,96.1
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2014,78,19080,96.5
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2015,82,20085,97.5
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2016,92,21182,96.1
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2017,98,23131,94.3
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2018,95,23973,96.0
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2019,101,25178,95.4
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2020,106,27105,93.2
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2021,118,29411,96.4
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2022,114,44476,92.7
+Rajarata University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2023,125,52500,98.0
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2005,46,6652,96.6
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2006,44,7419,97.0
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2007,49,8705,97.0
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2008,51,10800,93.5
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2009,54,11337,90.4
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2010,56,12212,96.7
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2011,57,13216,95.3
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2012,56,14411,97.3
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2013,60,15623,98.3
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2014,63,16354,97.0
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2015,66,17216,95.3
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2016,67,18156,95.1
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2017,66,19826,96.5
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2018,69,20548,97.3
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2019,75,21581,97.1
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2020,74,23232,93.2
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2021,83,25210,96.2
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2022,79,38122,95.2
+University of Ruhuna,INFORMATION COMMUNICATION TECHNOLOGY,2023,86,45000,96.6
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2005,60,6505,92.2
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2006,66,7254,92.2
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2007,69,8512,94.2
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2008,66,10560,88.9
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2009,68,11085,88.8
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2010,75,11941,93.3
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2011,75,12922,90.6
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2012,82,14090,90.6
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2013,83,15276,91.1
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2014,82,15990,92.1
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2015,91,16833,92.2
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2016,96,17752,94.2
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2017,95,19386,92.1
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2018,103,20091,92.6
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2019,99,21102,93.8
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2020,112,22716,88.6
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2021,111,24649,90.6
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2022,115,37275,89.4
+South Eastern University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2023,120,44000,93.3
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2005,79,6431,96.2
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2006,83,7172,96.7
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2007,82,8415,96.8
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2008,90,10440,91.9
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2009,89,10959,91.5
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2010,100,11805,93.3
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2011,103,12775,96.6
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2012,108,13930,95.8
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2013,113,15102,95.9
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2014,116,15809,95.4
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2015,124,16642,94.0
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2016,121,17551,94.6
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2017,134,19165,94.7
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2018,134,19863,94.1
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2019,144,20862,95.3
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2020,148,22458,92.3
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2021,155,24369,96.1
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2022,174,36851,89.8
+"University of Vavuniya, Sri Lanka",INFORMATION COMMUNICATION TECHNOLOGY,2023,175,43500,95.4
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2005,45,6283,93.1
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2006,46,7007,94.4
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2007,45,8222,92.7
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2008,47,10200,88.9
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2009,53,10707,89.0
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2010,56,11534,92.7
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2011,56,12482,93.7
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2012,56,13610,92.2
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2013,59,14755,93.0
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2014,63,15445,95.1
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2015,67,16259,94.6
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2016,75,17147,92.9
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2017,76,18725,94.6
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2018,75,19406,92.2
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2019,79,20382,92.1
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2020,82,21942,87.5
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2021,87,23809,92.7
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2022,91,36004,89.9
+Uva Wellassa University of Sri Lanka,INFORMATION COMMUNICATION TECHNOLOGY,2023,100,42500,92.1
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2005,35,9609,94.1
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2006,36,10716,91.1
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2007,38,12575,91.6
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2008,41,15600,87.7
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2009,42,16376,88.0
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2010,44,17640,93.6
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2011,44,19090,92.8
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2012,49,20816,92.4
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2013,49,22566,91.2
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2014,52,23623,90.8
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2015,54,24867,92.6
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2016,58,26225,93.9
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2017,59,28638,94.4
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2018,65,29680,92.1
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2019,69,31173,93.1
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2020,71,33558,86.8
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2021,76,36414,93.1
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2022,73,55066,91.8
+University of Sri Jayewardenepura,PHYSICAL SCIENCE -ICT,2023,80,65000,91.7
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2005,42,8870,94.3
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2006,45,9892,93.2
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2007,49,11607,93.5
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2008,48,14400,87.1
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2009,52,15116,88.3
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2010,51,16283,92.1
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2011,55,17621,93.6
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2012,54,19214,95.0
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2013,56,20830,94.4
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2014,57,21805,94.6
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2015,59,22955,94.9
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2016,61,24208,93.3
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2017,64,26435,95.2
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2018,64,27397,91.4
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2019,68,28775,94.3
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2020,69,30977,89.8
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2021,71,33613,92.6
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2022,74,50830,90.0
+University of Kelaniya,PHYSICAL SCIENCE -ICT,2023,76,60000,94.5

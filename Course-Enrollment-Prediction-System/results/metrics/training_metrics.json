@@ -1,0 +1,84 @@
+{
+  "random_forest_enrollments": {
+    "best_params": {
+      "max_depth": 10,
+      "min_samples_leaf": 1,
+      "min_samples_split": 2,
+      "n_estimators": 100
+    },
+    "cv_score": 1475.5757356776987,
+    "mse": 0.005292217913204013,
+    "rmse": 0.07274763166731968,
+    "mae": 0.001745521698984273,
+    "r2": 0.9999994618077681,
+    "mape": 0.0005116097471282833
+  },
+  "xgboost_enrollments": {
+    "best_params": {
+      "learning_rate": 0.1,
+      "max_depth": 6,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "cv_score": 1387.595890794344,
+    "mse": 0.0010539998790336405,
+    "rmse": 0.03246536429848956,
+    "mae": 0.01692009585055618,
+    "r2": 0.9999998928134561,
+    "mape": 0.014921046529813199
+  },
+  "lstm_enrollments": {
+    "best_params": {
+      "units": 150,
+      "dropout": 0.1,
+      "batch_size": 16
+    },
+    "val_loss": 60.33662033081055,
+    "mse": 28.37134070765477,
+    "rmse": 5.32647544889252,
+    "mae": 3.6464584279974903,
+    "r2": 0.997122779050813,
+    "mape": 3.903097977947497
+  },
+  "random_forest_applications": {
+    "best_params": {
+      "max_depth": 20,
+      "min_samples_leaf": 1,
+      "min_samples_split": 2,
+      "n_estimators": 200
+    },
+    "cv_score": 446.3824383833224,
+    "mse": 1.2672247409510042,
+    "rmse": 1.1257107714466466,
+    "mae": 0.17408327761599235,
+    "r2": 0.9998213350238216,
+    "mape": Infinity
+  },
+  "xgboost_applications": {
+    "best_params": {
+      "learning_rate": 0.1,
+      "max_depth": 3,
+      "n_estimators": 300,
+      "subsample": 1.0
+    },
+    "cv_score": 351.60019946494936,
+    "mse": 5.066074477248043,
+    "rmse": 2.250794188114063,
+    "mae": 1.0546814699184979,
+    "r2": 0.9992857383173279,
+    "mape": Infinity
+  },
+  "lstm_applications": {
+    "best_params": {
+      "units": 150,
+      "dropout": 0.2,
+      "batch_size": 16
+    },
+    "val_loss": 894.3082275390625,
+    "mse": 293.5783774599967,
+    "rmse": 17.134129025427487,
+    "mae": 8.604243527210578,
+    "r2": 0.9582570252682067,
+    "mape": Infinity
+  }
+}
